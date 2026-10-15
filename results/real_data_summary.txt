@@ -1,0 +1,9 @@
+firms: 1077, peer groups: 23
+pillar weights E/S/G: [0.417 0.357 0.226] (sd [0.004 0.004 0.004])
+seed stability (mean pairwise Spearman over 10 seeds): 0.999
+Spearman composite vs equal weights: 0.779
+Spearman composite vs PCA: 0.777
+Spearman equal weights vs PCA: 0.558
+Spearman composite vs leader similarity: 0.745
+tier counts: {'Moderate': 412, 'Excellent': 374, 'Poor': 291}
+mean silhouette of within-group tiers: 0.587

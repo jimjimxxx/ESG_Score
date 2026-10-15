@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/raw/
+results_sim_log.txt
+說明_中文.md

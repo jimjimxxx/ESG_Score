@@ -1,0 +1,321 @@
+scenario,rep,method,spearman,tier_acc,noise_wt
+"1 Linear, Gaussian",0,Equal weights,0.9046597726597728,0.717,0.0
+"1 Linear, Gaussian",0,PCA,0.8973316533316533,0.707,0.0
+"1 Linear, Gaussian",0,Pillar-weighted AE,0.9082459882459883,0.718,0.0
+"1 Linear, Gaussian",0,Oracle (true λ),0.914874770874771,0.735,0.0
+"1 Linear, Gaussian",1,Equal weights,0.9114908634908634,0.716,0.0
+"1 Linear, Gaussian",1,PCA,0.8857821457821459,0.66,0.0
+"1 Linear, Gaussian",1,Pillar-weighted AE,0.917015741015741,0.71,0.0
+"1 Linear, Gaussian",1,Oracle (true λ),0.9260424860424861,0.736,0.0
+"1 Linear, Gaussian",2,Equal weights,0.8978750858750859,0.701,0.0
+"1 Linear, Gaussian",2,PCA,0.8527297207297208,0.669,0.0
+"1 Linear, Gaussian",2,Pillar-weighted AE,0.8990241230241232,0.695,0.0
+"1 Linear, Gaussian",2,Oracle (true λ),0.9066542226542227,0.713,0.0
+"1 Linear, Gaussian",3,Equal weights,0.9275575235575237,0.749,0.0
+"1 Linear, Gaussian",3,PCA,0.9211815811815813,0.739,0.0
+"1 Linear, Gaussian",3,Pillar-weighted AE,0.9299517899517898,0.749,0.0
+"1 Linear, Gaussian",3,Oracle (true λ),0.9352868032868032,0.77,0.0
+"1 Linear, Gaussian",4,Equal weights,0.9048551088551089,0.7,0.0
+"1 Linear, Gaussian",4,PCA,0.8879969639969642,0.685,0.0
+"1 Linear, Gaussian",4,Pillar-weighted AE,0.9107688587688588,0.719,0.0
+"1 Linear, Gaussian",4,Oracle (true λ),0.917017205017205,0.716,0.0
+"1 Linear, Gaussian",5,Equal weights,0.9016232296232295,0.708,0.0
+"1 Linear, Gaussian",5,PCA,0.9081289041289041,0.719,0.0
+"1 Linear, Gaussian",5,Pillar-weighted AE,0.9091428931428933,0.727,0.0
+"1 Linear, Gaussian",5,Oracle (true λ),0.9150051510051511,0.723,0.0
+"1 Linear, Gaussian",6,Equal weights,0.8942093582093582,0.712,0.0
+"1 Linear, Gaussian",6,PCA,0.8786527346527346,0.699,0.0
+"1 Linear, Gaussian",6,Pillar-weighted AE,0.8995286035286038,0.718,0.0
+"1 Linear, Gaussian",6,Oracle (true λ),0.9146226506226507,0.747,0.0
+"1 Linear, Gaussian",7,Equal weights,0.9004286524286527,0.714,0.0
+"1 Linear, Gaussian",7,PCA,0.8724098964098964,0.677,0.0
+"1 Linear, Gaussian",7,Pillar-weighted AE,0.9046477606477608,0.704,0.0
+"1 Linear, Gaussian",7,Oracle (true λ),0.9125031485031486,0.72,0.0
+"1 Linear, Gaussian",8,Equal weights,0.8982736662736663,0.702,0.0
+"1 Linear, Gaussian",8,PCA,0.8425247545247546,0.656,0.0
+"1 Linear, Gaussian",8,Pillar-weighted AE,0.8986404226404229,0.709,0.0
+"1 Linear, Gaussian",8,Oracle (true λ),0.910928686928687,0.726,0.0
+"1 Linear, Gaussian",9,Equal weights,0.9045355365355365,0.736,0.0
+"1 Linear, Gaussian",9,PCA,0.9054650934650936,0.721,0.0
+"1 Linear, Gaussian",9,Pillar-weighted AE,0.9117482997482999,0.729,0.0
+"1 Linear, Gaussian",9,Oracle (true λ),0.9176869736869736,0.732,0.0
+"1 Linear, Gaussian",10,Equal weights,0.8951211551211551,0.717,0.0
+"1 Linear, Gaussian",10,PCA,0.8861691941691942,0.697,0.0
+"1 Linear, Gaussian",10,Pillar-weighted AE,0.898932334932335,0.724,0.0
+"1 Linear, Gaussian",10,Oracle (true λ),0.9077671157671159,0.717,0.0
+"1 Linear, Gaussian",11,Equal weights,0.9122107562107563,0.735,0.0
+"1 Linear, Gaussian",11,PCA,0.8946616026616028,0.72,0.0
+"1 Linear, Gaussian",11,Pillar-weighted AE,0.9176017376017377,0.739,0.0
+"1 Linear, Gaussian",11,Oracle (true λ),0.9253491493491494,0.75,0.0
+"1 Linear, Gaussian",12,Equal weights,0.9116486636486638,0.729,0.0
+"1 Linear, Gaussian",12,PCA,0.9055639615639615,0.707,0.0
+"1 Linear, Gaussian",12,Pillar-weighted AE,0.918932058932059,0.737,0.0
+"1 Linear, Gaussian",12,Oracle (true λ),0.9247086727086729,0.729,0.0
+"1 Linear, Gaussian",13,Equal weights,0.8962538242538243,0.718,0.0
+"1 Linear, Gaussian",13,PCA,0.8949822789822789,0.722,0.0
+"1 Linear, Gaussian",13,Pillar-weighted AE,0.9046627006627008,0.719,0.0
+"1 Linear, Gaussian",13,Oracle (true λ),0.914882654882655,0.737,0.0
+"1 Linear, Gaussian",14,Equal weights,0.8813455493455494,0.682,0.0
+"1 Linear, Gaussian",14,PCA,0.8228268548268548,0.645,0.0
+"1 Linear, Gaussian",14,Pillar-weighted AE,0.8844204924204924,0.693,0.0
+"1 Linear, Gaussian",14,Oracle (true λ),0.8918049638049638,0.697,0.0
+"1 Linear, Gaussian",15,Equal weights,0.9080045840045842,0.726,0.0
+"1 Linear, Gaussian",15,PCA,0.8871746151746153,0.693,0.0
+"1 Linear, Gaussian",15,Pillar-weighted AE,0.9106650826650828,0.737,0.0
+"1 Linear, Gaussian",15,Oracle (true λ),0.9230214950214949,0.736,0.0
+"1 Linear, Gaussian",16,Equal weights,0.9070932430932432,0.726,0.0
+"1 Linear, Gaussian",16,PCA,0.9031401511401511,0.715,0.0
+"1 Linear, Gaussian",16,Pillar-weighted AE,0.9142984102984104,0.744,0.0
+"1 Linear, Gaussian",16,Oracle (true λ),0.9206141246141247,0.755,0.0
+"1 Linear, Gaussian",17,Equal weights,0.9065712425712426,0.734,0.0
+"1 Linear, Gaussian",17,PCA,0.8683951243951245,0.68,0.0
+"1 Linear, Gaussian",17,Pillar-weighted AE,0.9084969204969207,0.743,0.0
+"1 Linear, Gaussian",17,Oracle (true λ),0.9245785805785806,0.756,0.0
+"1 Linear, Gaussian",18,Equal weights,0.913890817890818,0.714,0.0
+"1 Linear, Gaussian",18,PCA,0.9035300555300556,0.699,0.0
+"1 Linear, Gaussian",18,Pillar-weighted AE,0.9234615474615476,0.732,0.0
+"1 Linear, Gaussian",18,Oracle (true λ),0.9267590427590428,0.738,0.0
+"1 Linear, Gaussian",19,Equal weights,0.9073985233985234,0.726,0.0
+"1 Linear, Gaussian",19,PCA,0.9022808302808304,0.718,0.0
+"1 Linear, Gaussian",19,Pillar-weighted AE,0.912765840765841,0.718,0.0
+"1 Linear, Gaussian",19,Oracle (true λ),0.9202653922653922,0.73,0.0
+2 Noise indicators,0,Equal weights,0.7556343116343117,0.633,0.3888888888888889
+2 Noise indicators,0,PCA,0.8704837864837865,0.682,0.05747844783383994
+2 Noise indicators,0,Pillar-weighted AE,0.8744801144801144,0.695,0.038728512746689016
+2 Noise indicators,0,Oracle (true λ),0.8864583104583105,0.717,0.0
+2 Noise indicators,1,Equal weights,0.7645989085989087,0.643,0.3888888888888889
+2 Noise indicators,1,PCA,0.8538149178149178,0.7,0.06858756180144863
+2 Noise indicators,1,Pillar-weighted AE,0.8641808761808762,0.68,0.01900407320278362
+2 Noise indicators,1,Oracle (true λ),0.8725305085305087,0.678,0.0
+2 Noise indicators,2,Equal weights,0.7661179181179182,0.579,0.3888888888888889
+2 Noise indicators,2,PCA,0.8478214878214878,0.679,0.045728665228283095
+2 Noise indicators,2,Pillar-weighted AE,0.8563560523560523,0.657,0.03588459179153632
+2 Noise indicators,2,Oracle (true λ),0.8668781788781789,0.676,0.0
+2 Noise indicators,3,Equal weights,0.7667344307344308,0.624,0.3888888888888889
+2 Noise indicators,3,PCA,0.8531024771024772,0.693,0.02897728360670839
+2 Noise indicators,3,Pillar-weighted AE,0.854025878025878,0.691,0.03924734374572682
+2 Noise indicators,3,Oracle (true λ),0.861902217902218,0.71,0.0
+2 Noise indicators,4,Equal weights,0.7144428064428064,0.594,0.3888888888888889
+2 Noise indicators,4,PCA,0.7999599559599561,0.639,0.05643690731989883
+2 Noise indicators,4,Pillar-weighted AE,0.8310845670845671,0.669,0.03500389460022401
+2 Noise indicators,4,Oracle (true λ),0.8433823233823234,0.68,0.0
+2 Noise indicators,5,Equal weights,0.7516072516072516,0.626,0.3888888888888889
+2 Noise indicators,5,PCA,0.8554868314868316,0.692,0.058827983612086646
+2 Noise indicators,5,Pillar-weighted AE,0.8574698814698815,0.686,0.03659205894103387
+2 Noise indicators,5,Oracle (true λ),0.8704348504348506,0.684,0.0
+2 Noise indicators,6,Equal weights,0.7118744078744078,0.559,0.3888888888888889
+2 Noise indicators,6,PCA,0.8207356967356968,0.651,0.07493505389598991
+2 Noise indicators,6,Pillar-weighted AE,0.8238352998353,0.661,0.05143473429789403
+2 Noise indicators,6,Oracle (true λ),0.8510729030729032,0.665,0.0
+2 Noise indicators,7,Equal weights,0.7667485067485068,0.609,0.3888888888888889
+2 Noise indicators,7,PCA,0.8486859446859448,0.665,0.03253742385711372
+2 Noise indicators,7,Pillar-weighted AE,0.8665237825237825,0.667,0.04360621577107649
+2 Noise indicators,7,Oracle (true λ),0.8766225126225128,0.697,0.0
+2 Noise indicators,8,Equal weights,0.7416424896424898,0.621,0.3888888888888889
+2 Noise indicators,8,PCA,0.8332154452154453,0.679,0.047605625433354726
+2 Noise indicators,8,Pillar-weighted AE,0.8502905622905623,0.693,0.039067310608915995
+2 Noise indicators,8,Oracle (true λ),0.8697976977976979,0.707,0.0
+2 Noise indicators,9,Equal weights,0.7391615711615712,0.606,0.3888888888888889
+2 Noise indicators,9,PCA,0.8216020136020137,0.65,0.05781850522667483
+2 Noise indicators,9,Pillar-weighted AE,0.8283837243837244,0.657,0.03117164590461325
+2 Noise indicators,9,Oracle (true λ),0.8332376572376573,0.659,0.0
+2 Noise indicators,10,Equal weights,0.785012609012609,0.642,0.3888888888888889
+2 Noise indicators,10,PCA,0.8621035781035782,0.671,0.052023020622460864
+2 Noise indicators,10,Pillar-weighted AE,0.8673948873948875,0.66,0.046414314595459784
+2 Noise indicators,10,Oracle (true λ),0.882963234963235,0.691,0.0
+2 Noise indicators,11,Equal weights,0.7925724605724607,0.638,0.3888888888888889
+2 Noise indicators,11,PCA,0.8563621003621005,0.664,0.04985189972490938
+2 Noise indicators,11,Pillar-weighted AE,0.8607242127242128,0.663,0.038916266043740357
+2 Noise indicators,11,Oracle (true λ),0.879770967770968,0.683,0.0
+2 Noise indicators,12,Equal weights,0.7251505251505251,0.6,0.3888888888888889
+2 Noise indicators,12,PCA,0.8263314943314944,0.672,0.03777241488383544
+2 Noise indicators,12,Pillar-weighted AE,0.8292963012963014,0.668,0.025799214525763
+2 Noise indicators,12,Oracle (true λ),0.8378059418059419,0.64,0.0
+2 Noise indicators,13,Equal weights,0.770933570933571,0.601,0.3888888888888889
+2 Noise indicators,13,PCA,0.8690975330975331,0.659,0.07275463972944217
+2 Noise indicators,13,Pillar-weighted AE,0.8785405345405347,0.699,0.04416967239124441
+2 Noise indicators,13,Oracle (true λ),0.8955380115380117,0.688,0.0
+2 Noise indicators,14,Equal weights,0.7258077298077298,0.598,0.3888888888888889
+2 Noise indicators,14,PCA,0.7793202353202354,0.617,0.06502325311042426
+2 Noise indicators,14,Pillar-weighted AE,0.8323440643440644,0.67,0.031901364299483405
+2 Noise indicators,14,Oracle (true λ),0.8442346602346603,0.666,0.0
+2 Noise indicators,15,Equal weights,0.7525779085779086,0.593,0.3888888888888889
+2 Noise indicators,15,PCA,0.8558772998772999,0.676,0.05222500968498818
+2 Noise indicators,15,Pillar-weighted AE,0.8646955806955807,0.682,0.025239973860949214
+2 Noise indicators,15,Oracle (true λ),0.8712902232902233,0.677,0.0
+2 Noise indicators,16,Equal weights,0.7743196623196623,0.606,0.3888888888888889
+2 Noise indicators,16,PCA,0.8488690288690289,0.677,0.06501910599516095
+2 Noise indicators,16,Pillar-weighted AE,0.8610852330852331,0.667,0.03415321291632604
+2 Noise indicators,16,Oracle (true λ),0.8738165258165259,0.678,0.0
+2 Noise indicators,17,Equal weights,0.7586454506454506,0.612,0.3888888888888889
+2 Noise indicators,17,PCA,0.8471582111582112,0.663,0.0787656749370643
+2 Noise indicators,17,Pillar-weighted AE,0.8560772560772562,0.686,0.034616740220362555
+2 Noise indicators,17,Oracle (true λ),0.863978687978688,0.697,0.0
+2 Noise indicators,18,Equal weights,0.7455812415812417,0.637,0.3888888888888889
+2 Noise indicators,18,PCA,0.8411538251538252,0.663,0.04661895612708876
+2 Noise indicators,18,Pillar-weighted AE,0.841903525903526,0.675,0.031192823399716678
+2 Noise indicators,18,Oracle (true λ),0.847004347004347,0.685,0.0
+2 Noise indicators,19,Equal weights,0.7387278427278428,0.597,0.3888888888888889
+2 Noise indicators,19,PCA,0.8333410133410133,0.687,0.07067701516511822
+2 Noise indicators,19,Pillar-weighted AE,0.8359453039453041,0.678,0.02685303425491951
+2 Noise indicators,19,Oracle (true λ),0.8473279273279273,0.683,0.0
+"3 Nonlinear, heavy-tailed",0,Equal weights,0.8945235665235666,0.733,0.0
+"3 Nonlinear, heavy-tailed",0,PCA,0.860959160959161,0.705,0.0
+"3 Nonlinear, heavy-tailed",0,Pillar-weighted AE,0.8960039600039601,0.729,0.0
+"3 Nonlinear, heavy-tailed",0,Oracle (true λ),0.9034806154806154,0.748,0.0
+"3 Nonlinear, heavy-tailed",1,Equal weights,0.8893006813006813,0.71,0.0
+"3 Nonlinear, heavy-tailed",1,PCA,0.8881185961185962,0.716,0.0
+"3 Nonlinear, heavy-tailed",1,Pillar-weighted AE,0.8981094461094462,0.726,0.0
+"3 Nonlinear, heavy-tailed",1,Oracle (true λ),0.9005037485037486,0.725,0.0
+"3 Nonlinear, heavy-tailed",2,Equal weights,0.8735880575880577,0.722,0.0
+"3 Nonlinear, heavy-tailed",2,PCA,0.8516515076515078,0.703,0.0
+"3 Nonlinear, heavy-tailed",2,Pillar-weighted AE,0.8736402336402337,0.72,0.0
+"3 Nonlinear, heavy-tailed",2,Oracle (true λ),0.89001917001917,0.751,0.0
+"3 Nonlinear, heavy-tailed",3,Equal weights,0.8851491571491572,0.707,0.0
+"3 Nonlinear, heavy-tailed",3,PCA,0.8737756297756297,0.697,0.0
+"3 Nonlinear, heavy-tailed",3,Pillar-weighted AE,0.8882111162111165,0.711,0.0
+"3 Nonlinear, heavy-tailed",3,Oracle (true λ),0.8920588960588963,0.721,0.0
+"3 Nonlinear, heavy-tailed",4,Equal weights,0.8916000396000395,0.729,0.0
+"3 Nonlinear, heavy-tailed",4,PCA,0.8766171126171126,0.723,0.0
+"3 Nonlinear, heavy-tailed",4,Pillar-weighted AE,0.9038193878193879,0.729,0.0
+"3 Nonlinear, heavy-tailed",4,Oracle (true λ),0.9035051075051075,0.741,0.0
+"3 Nonlinear, heavy-tailed",5,Equal weights,0.8814630054630055,0.725,0.0
+"3 Nonlinear, heavy-tailed",5,PCA,0.8646970806970807,0.708,0.0
+"3 Nonlinear, heavy-tailed",5,Pillar-weighted AE,0.8838665838665839,0.716,0.0
+"3 Nonlinear, heavy-tailed",5,Oracle (true λ),0.8999090039090039,0.756,0.0
+"3 Nonlinear, heavy-tailed",6,Equal weights,0.8989498309498309,0.751,0.0
+"3 Nonlinear, heavy-tailed",6,PCA,0.9004455604455606,0.747,0.0
+"3 Nonlinear, heavy-tailed",6,Pillar-weighted AE,0.9084592284592286,0.767,0.0
+"3 Nonlinear, heavy-tailed",6,Oracle (true λ),0.9077363717363717,0.758,0.0
+"3 Nonlinear, heavy-tailed",7,Equal weights,0.8955583515583515,0.731,0.0
+"3 Nonlinear, heavy-tailed",7,PCA,0.887887223887224,0.726,0.0
+"3 Nonlinear, heavy-tailed",7,Pillar-weighted AE,0.9067375147375148,0.753,0.0
+"3 Nonlinear, heavy-tailed",7,Oracle (true λ),0.9122589362589365,0.761,0.0
+"3 Nonlinear, heavy-tailed",8,Equal weights,0.8877316797316799,0.714,0.0
+"3 Nonlinear, heavy-tailed",8,PCA,0.8734566814566815,0.695,0.0
+"3 Nonlinear, heavy-tailed",8,Pillar-weighted AE,0.8891698451698452,0.711,0.0
+"3 Nonlinear, heavy-tailed",8,Oracle (true λ),0.9010654930654931,0.711,0.0
+"3 Nonlinear, heavy-tailed",9,Equal weights,0.8608103488103489,0.697,0.0
+"3 Nonlinear, heavy-tailed",9,PCA,0.8641689361689363,0.7,0.0
+"3 Nonlinear, heavy-tailed",9,Pillar-weighted AE,0.8717000117000117,0.707,0.0
+"3 Nonlinear, heavy-tailed",9,Oracle (true λ),0.8865062745062745,0.711,0.0
+"3 Nonlinear, heavy-tailed",10,Equal weights,0.8903766143766143,0.713,0.0
+"3 Nonlinear, heavy-tailed",10,PCA,0.8811843051843051,0.711,0.0
+"3 Nonlinear, heavy-tailed",10,Pillar-weighted AE,0.8954676554676555,0.716,0.0
+"3 Nonlinear, heavy-tailed",10,Oracle (true λ),0.8968745848745849,0.725,0.0
+"3 Nonlinear, heavy-tailed",11,Equal weights,0.8923701883701884,0.746,0.0
+"3 Nonlinear, heavy-tailed",11,PCA,0.8885642765642766,0.737,0.0
+"3 Nonlinear, heavy-tailed",11,Pillar-weighted AE,0.8970842850842852,0.758,0.0
+"3 Nonlinear, heavy-tailed",11,Oracle (true λ),0.9047461127461128,0.749,0.0
+"3 Nonlinear, heavy-tailed",12,Equal weights,0.8932115332115332,0.737,0.0
+"3 Nonlinear, heavy-tailed",12,PCA,0.8666902466902467,0.713,0.0
+"3 Nonlinear, heavy-tailed",12,Pillar-weighted AE,0.9031864111864113,0.752,0.0
+"3 Nonlinear, heavy-tailed",12,Oracle (true λ),0.9076189036189036,0.758,0.0
+"3 Nonlinear, heavy-tailed",13,Equal weights,0.8852810852810853,0.719,0.0
+"3 Nonlinear, heavy-tailed",13,PCA,0.8700649260649261,0.691,0.0
+"3 Nonlinear, heavy-tailed",13,Pillar-weighted AE,0.8953924153924154,0.732,0.0
+"3 Nonlinear, heavy-tailed",13,Oracle (true λ),0.9043928083928084,0.728,0.0
+"3 Nonlinear, heavy-tailed",14,Equal weights,0.8983541023541025,0.743,0.0
+"3 Nonlinear, heavy-tailed",14,PCA,0.8913012273012273,0.733,0.0
+"3 Nonlinear, heavy-tailed",14,Pillar-weighted AE,0.9056635736635738,0.756,0.0
+"3 Nonlinear, heavy-tailed",14,Oracle (true λ),0.9041889521889522,0.746,0.0
+"3 Nonlinear, heavy-tailed",15,Equal weights,0.8956492276492277,0.746,0.0
+"3 Nonlinear, heavy-tailed",15,PCA,0.8857286017286017,0.728,0.0
+"3 Nonlinear, heavy-tailed",15,Pillar-weighted AE,0.9048182568182569,0.734,0.0
+"3 Nonlinear, heavy-tailed",15,Oracle (true λ),0.9079195999196,0.726,0.0
+"3 Nonlinear, heavy-tailed",16,Equal weights,0.8894867054867055,0.741,0.0
+"3 Nonlinear, heavy-tailed",16,PCA,0.875011175011175,0.727,0.0
+"3 Nonlinear, heavy-tailed",16,Pillar-weighted AE,0.8987047547047549,0.763,0.0
+"3 Nonlinear, heavy-tailed",16,Oracle (true λ),0.9008943008943011,0.756,0.0
+"3 Nonlinear, heavy-tailed",17,Equal weights,0.8893218373218374,0.706,0.0
+"3 Nonlinear, heavy-tailed",17,PCA,0.8708158388158389,0.708,0.0
+"3 Nonlinear, heavy-tailed",17,Pillar-weighted AE,0.8980177780177782,0.719,0.0
+"3 Nonlinear, heavy-tailed",17,Oracle (true λ),0.9117691557691558,0.737,0.0
+"3 Nonlinear, heavy-tailed",18,Equal weights,0.8997859077859078,0.745,0.0
+"3 Nonlinear, heavy-tailed",18,PCA,0.8975840255840256,0.749,0.0
+"3 Nonlinear, heavy-tailed",18,Pillar-weighted AE,0.9063709743709742,0.78,0.0
+"3 Nonlinear, heavy-tailed",18,Oracle (true λ),0.9139388179388179,0.76,0.0
+"3 Nonlinear, heavy-tailed",19,Equal weights,0.8702291222291224,0.699,0.0
+"3 Nonlinear, heavy-tailed",19,PCA,0.8644571164571165,0.696,0.0
+"3 Nonlinear, heavy-tailed",19,Pillar-weighted AE,0.8769238209238209,0.71,0.0
+"3 Nonlinear, heavy-tailed",19,Oracle (true λ),0.8836256716256716,0.711,0.0
+4 Realistic mix,0,Equal weights,0.7755616155616156,0.626,0.3333333333333333
+4 Realistic mix,0,PCA,0.8403315483315484,0.675,0.03489470861906924
+4 Realistic mix,0,Pillar-weighted AE,0.8487009927009928,0.704,0.07985680498586543
+4 Realistic mix,0,Oracle (true λ),0.870046602046602,0.716,0.0
+4 Realistic mix,1,Equal weights,0.6780795300795301,0.575,0.3333333333333333
+4 Realistic mix,1,PCA,0.7126302766302766,0.599,0.11997474392590136
+4 Realistic mix,1,Pillar-weighted AE,0.7682146442146442,0.628,0.09188858173755972
+4 Realistic mix,1,Oracle (true λ),0.8008600528600529,0.654,0.0
+4 Realistic mix,2,Equal weights,0.700000708000708,0.591,0.3333333333333333
+4 Realistic mix,2,PCA,0.784911412911413,0.632,0.05942527596435162
+4 Realistic mix,2,Pillar-weighted AE,0.7778975978975979,0.641,0.10821230435673661
+4 Realistic mix,2,Oracle (true λ),0.8232367032367033,0.661,0.0
+4 Realistic mix,3,Equal weights,0.7133692733692735,0.592,0.3333333333333333
+4 Realistic mix,3,PCA,0.8049150009150009,0.648,0.07563189358350858
+4 Realistic mix,3,Pillar-weighted AE,0.7824759984759986,0.655,0.10691333639012712
+4 Realistic mix,3,Oracle (true λ),0.8054348294348296,0.664,0.0
+4 Realistic mix,4,Equal weights,0.7172418452418453,0.591,0.3333333333333333
+4 Realistic mix,4,PCA,0.7710883230883232,0.665,0.06785489970160105
+4 Realistic mix,4,Pillar-weighted AE,0.7725856245856246,0.633,0.1503658403908959
+4 Realistic mix,4,Oracle (true λ),0.8221309381309381,0.682,0.0
+4 Realistic mix,5,Equal weights,0.7492771012771012,0.619,0.3333333333333333
+4 Realistic mix,5,PCA,0.7942781422781423,0.621,0.03266348088450339
+4 Realistic mix,5,Pillar-weighted AE,0.8016866376866377,0.66,0.11912236156011127
+4 Realistic mix,5,Oracle (true λ),0.838929202929203,0.675,0.0
+4 Realistic mix,6,Equal weights,0.7648010368010368,0.633,0.3333333333333333
+4 Realistic mix,6,PCA,0.8369180129180129,0.701,0.04201207983092598
+4 Realistic mix,6,Pillar-weighted AE,0.8230338190338192,0.666,0.13649429763526807
+4 Realistic mix,6,Oracle (true λ),0.8596921636921638,0.721,0.0
+4 Realistic mix,7,Equal weights,0.6838386118386119,0.594,0.3333333333333333
+4 Realistic mix,7,PCA,0.7264613704613705,0.587,0.04743236452710437
+4 Realistic mix,7,Pillar-weighted AE,0.7280372960372961,0.611,0.15117275880780584
+4 Realistic mix,7,Oracle (true λ),0.8211837051837051,0.686,0.0
+4 Realistic mix,8,Equal weights,0.7157571917571918,0.613,0.3333333333333333
+4 Realistic mix,8,PCA,0.7712507072507072,0.611,0.07055822540434696
+4 Realistic mix,8,Pillar-weighted AE,0.7894108894108894,0.653,0.11976247141293968
+4 Realistic mix,8,Oracle (true λ),0.8052054492054493,0.674,0.0
+4 Realistic mix,9,Equal weights,0.6936886296886297,0.571,0.3333333333333333
+4 Realistic mix,9,PCA,0.7336937896937897,0.61,0.0610945335485071
+4 Realistic mix,9,Pillar-weighted AE,0.7075377955377956,0.594,0.2053750906543334
+4 Realistic mix,9,Oracle (true λ),0.7980168180168181,0.678,0.0
+4 Realistic mix,10,Equal weights,0.6793152553152553,0.569,0.3333333333333333
+4 Realistic mix,10,PCA,0.7419477219477221,0.609,0.048108291474122385
+4 Realistic mix,10,Pillar-weighted AE,0.7247385167385167,0.615,0.158979364420439
+4 Realistic mix,10,Oracle (true λ),0.815891999892,0.682,0.0
+4 Realistic mix,11,Equal weights,0.7034042954042954,0.569,0.3333333333333333
+4 Realistic mix,11,PCA,0.7667593667593668,0.623,0.13727173483233868
+4 Realistic mix,11,Pillar-weighted AE,0.7319918999919001,0.616,0.20547295162381163
+4 Realistic mix,11,Oracle (true λ),0.8004488724488725,0.667,0.0
+4 Realistic mix,12,Equal weights,0.7268349428349429,0.571,0.3333333333333333
+4 Realistic mix,12,PCA,0.7695008655008655,0.615,0.047818867912793904
+4 Realistic mix,12,Pillar-weighted AE,0.7841451881451881,0.615,0.15192179106565762
+4 Realistic mix,12,Oracle (true λ),0.8247646407646407,0.671,0.0
+4 Realistic mix,13,Equal weights,0.6933613413613414,0.58,0.3333333333333333
+4 Realistic mix,13,PCA,0.740972264972265,0.583,0.045398336921444085
+4 Realistic mix,13,Pillar-weighted AE,0.736897972897973,0.612,0.13486600384045072
+4 Realistic mix,13,Oracle (true λ),0.7955566355566357,0.622,0.0
+4 Realistic mix,14,Equal weights,0.6984435624435625,0.592,0.3333333333333333
+4 Realistic mix,14,PCA,0.7652981012981014,0.621,0.09163282939321866
+4 Realistic mix,14,Pillar-weighted AE,0.7832320112320112,0.653,0.13823545664365738
+4 Realistic mix,14,Oracle (true λ),0.8312241032241033,0.685,0.0
+4 Realistic mix,15,Equal weights,0.7183016743016744,0.605,0.3333333333333333
+4 Realistic mix,15,PCA,0.810853554853555,0.635,0.022302456314930674
+4 Realistic mix,15,Pillar-weighted AE,0.7937933777933779,0.634,0.08299649870856139
+4 Realistic mix,15,Oracle (true λ),0.8153282873282874,0.639,0.0
+4 Realistic mix,16,Equal weights,0.7012531732531733,0.575,0.3333333333333333
+4 Realistic mix,16,PCA,0.7645651765651766,0.63,0.05914893183485827
+4 Realistic mix,16,Pillar-weighted AE,0.7548145788145788,0.627,0.10020574841939042
+4 Realistic mix,16,Oracle (true λ),0.7878432798432798,0.669,0.0
+4 Realistic mix,17,Equal weights,0.7692651852651853,0.637,0.3333333333333333
+4 Realistic mix,17,PCA,0.864871836871837,0.704,0.045421185440031125
+4 Realistic mix,17,Pillar-weighted AE,0.8173462453462453,0.669,0.16814277908423766
+4 Realistic mix,17,Oracle (true λ),0.8740969900969902,0.734,0.0
+4 Realistic mix,18,Equal weights,0.7261495141495142,0.603,0.3333333333333333
+4 Realistic mix,18,PCA,0.8208710208710208,0.673,0.057772273410364686
+4 Realistic mix,18,Pillar-weighted AE,0.7653849693849695,0.635,0.21908882071794555
+4 Realistic mix,18,Oracle (true λ),0.8583032583032584,0.693,0.0
+4 Realistic mix,19,Equal weights,0.7315702195702195,0.616,0.3333333333333333
+4 Realistic mix,19,PCA,0.8036920196920198,0.656,0.04478252815236253
+4 Realistic mix,19,Pillar-weighted AE,0.8136332016332017,0.647,0.10247530856178283
+4 Realistic mix,19,Oracle (true λ),0.8464594504594506,0.684,0.0

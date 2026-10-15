@@ -1,0 +1,1078 @@
+﻿code,name,name_en,industry,peer_group,pillar_E,pillar_S,pillar_G,composite,peer_percentile,tier_code,tier,leader_similarity,largest_gaps_to_leaders,most_similar_peers,equal_weight_score
+3059,華晶科,Altek,光電業,光電業,0.82,1.438,0.858,1.505,1.0,2,Excellent,0.828,Independent comp. committee (%); Female managers (%); GHG inventory verified,牧德、眾福科、茂林-KY,0.543
+3168,眾福科,DATA IMAGE,光電業,光電業,0.525,0.988,0.529,1.11,0.985,2,Excellent,0.817,Independent directors (%); Renewable energy share,佳能、華晶科、佰鴻,0.683
+3563,牧德,MACHVISION,光電業,光電業,0.788,1.247,-0.25,1.007,0.971,2,Excellent,0.684,Independent comp. committee (%); Female directors (%); Independent directors (%),華晶科、佳能、茂林-KY,0.217
+2374,佳能,ABILITY,光電業,光電業,0.697,0.926,0.099,0.987,0.956,2,Excellent,0.641,Female directors (%); Renewable energy share,眾福科、晶彩科、亞光,0.434
+8104,錸寶,RiTdisplay,光電業,光電業,0.38,0.34,0.887,0.953,0.941,2,Excellent,0.549,Median non-manager salary; Female managers (%); Average employee benefits,錸德、國碩、眾福科,0.292
+4935,茂林-KY,GLT,光電業,光電業,0.546,0.66,0.315,0.916,0.926,2,Excellent,0.655,Independent comp. committee (%); Renewable energy share; Median non-manager salary,全台、華晶科、牧德,0.165
+2429,銘旺科,PWT,光電業,光電業,0.78,0.296,0.159,0.806,0.912,2,Excellent,0.301,Director training compliance; Median non-manager salary; Investor conferences,憶聲、國碩、台表科,0.103
+2406,國碩,GSC,光電業,光電業,0.64,0.208,0.365,0.801,0.897,2,Excellent,0.286,Median non-manager salary; Average employee benefits; Investor conferences,銘旺科、錸寶、冠西電,0.224
+6168,宏齊,HARVATEK CORPOR,光電業,光電業,0.19,0.337,0.615,0.783,0.882,2,Excellent,0.218,Renewable energy share; Average employee benefits; Female directors (%),華興、鈺德、翔耀,0.212
+2409,友達,AUO,光電業,光電業,-0.95,0.825,1.166,0.766,0.868,2,Excellent,0.757,Independent comp. committee (%); Waste intensity; GHG intensity (scope 1+2 / revenue),富采、達運、瑞軒,0.701
+4934,太極,Tainergy,光電業,光電業,-0.094,0.87,0.311,0.765,0.853,2,Excellent,0.56,Investor conferences; Female managers (%); GHG inventory verified,瑞軒、弘凱、光鼎,0.318
+3019,亞光,ASIA,光電業,光電業,0.493,0.749,-0.174,0.746,0.838,2,Excellent,0.615,Audit committee attendance; Female directors (%); GHG inventory verified,弘凱、瑞儀、佳能,0.184
+6176,瑞儀,ROEC,光電業,光電業,0.451,0.528,-0.058,0.693,0.824,2,Excellent,0.599,Female directors (%); Audit committee attendance; Occupational injury rate,亞光、佳能、明基材,0.444
+5484,慧友,EverFocus,光電業,光電業,0.852,0.338,-0.4,0.637,0.809,2,Excellent,0.169,Female directors (%); Investor conferences; Average employee benefits,TPK-KY、佳能、翔耀,0.18
+3535,晶彩科,Favite,光電業,光電業,0.05,0.728,-0.144,0.593,0.794,2,Excellent,0.534,Investor conferences; Waste intensity; Board attendance,佳能、瑞軒、群創,0.16
+6120,達運,DARWIN,光電業,光電業,-0.15,0.277,0.477,0.589,0.779,2,Excellent,0.526,Waste intensity; Investor conferences; Occupational injury rate,友達、GIS-KY、TPK-KY,0.566
+2438,翔耀,ENLIGHT,光電業,光電業,0.76,0.023,-0.19,0.566,0.765,2,Excellent,-0.296,Female directors (%); Median non-manager salary; Average employee benefits,鈺德、慧友、吉祥全,0.063
+6668,中揚光,Zhong Yang,光電業,光電業,0.254,0.334,-0.022,0.565,0.75,2,Excellent,0.124,Investor conferences; Female directors (%); Average employee benefits,錸德、吉祥全、錸寶,-0.004
+3024,憶聲,ACTION,光電業,光電業,0.965,0.285,-0.698,0.545,0.735,2,Excellent,0.166,Director training compliance; Independent directors (%); Median non-manager salary,台表科、銘旺科、天瀚,-0.384
+2349,錸德,RITEK,光電業,光電業,-0.048,0.038,0.477,0.536,0.721,2,Excellent,-0.032,Average employee benefits; Median non-manager salary; Female managers (%),錸寶、中揚光、國碩,-0.114
+2491,吉祥全,FOCL,光電業,光電業,0.556,0.205,-0.27,0.532,0.706,2,Excellent,-0.04,Median non-manager salary; Investor conferences; Female directors (%),冠西電、中揚光、銘旺科,0.003
+6164,華興,LEDTECH,光電業,光電業,-0.405,0.451,0.247,0.475,0.691,2,Excellent,0.01,Investor conferences; Female directors (%); Median non-manager salary,宏齊、華凌、群創,0.034
+3031,佰鴻,BRIGHT,光電業,光電業,-1.125,0.644,0.712,0.467,0.676,2,Excellent,0.43,Water intensity; GHG intensity (scope 1+2 / revenue); Waste intensity,友達、眾福科、悅城,0.275
+2466,冠西電,COSMO,光電業,光電業,0.693,0.167,-0.544,0.463,0.662,2,Excellent,0.177,Board attendance; Median non-manager salary; Renewable energy share,天瀚、台表科、憶聲,-0.129
+6226,光鼎,Para Light,光電業,光電業,-0.746,0.589,0.375,0.454,0.647,2,Excellent,0.267,Water intensity; Investor conferences; Median non-manager salary,明基材、太極、富采,0.28
+6225,天瀚,aiPlex,光電業,光電業,0.299,0.485,-0.676,0.391,0.632,2,Excellent,0.264,Audit committee attendance; Board attendance; Director training compliance,冠西電、台表科、憶聲,-0.192
+3050,鈺德,U-TECH,光電業,光電業,-0.231,0.108,0.188,0.388,0.618,2,Excellent,-0.253,Average employee benefits; Median non-manager salary; Investor conferences,翔耀、宏齊、華凌,0.018
+3673,TPK-KY,TPK,光電業,光電業,0.285,0.066,-0.39,0.339,0.603,1,Moderate,0.438,Female directors (%); Independent directors (%); Median non-manager salary,GIS-KY、明基材、達運,0.507
+6278,台表科,TSMT,光電業,光電業,0.451,0.27,-0.784,0.325,0.588,1,Moderate,0.201,Director training compliance; Audit committee attendance; Board attendance,天瀚、憶聲、冠西電,-0.126
+5244,弘凱,BRIGHTEK,光電業,光電業,-0.343,0.989,-0.756,0.32,0.574,1,Moderate,0.465,Audit committee attendance; Board attendance; Water intensity,瑞軒、亞光、明基材,0.048
+3356,奇偶,GeoVision,光電業,光電業,0.689,-1.415,0.477,0.26,0.559,1,Moderate,0.222,Occupational injury rate; Investor conferences; GHG inventory verified,玉晶光、洋華、億光,0.184
+2489,瑞軒,AMTRAN,光電業,光電業,-1.217,1.233,-0.433,0.222,0.544,1,Moderate,0.56,Water intensity; Audit committee attendance; Waste intensity,明基材、弘凱、群創,0.354
+3591,艾笛森,EDISON OPTO,光電業,光電業,-0.136,-1.098,0.708,0.171,0.529,1,Moderate,0.464,Occupational injury rate; Median non-manager salary; Waste intensity,GIS-KY、富采、揚明光,0.403
+5234,達興材料,DAXIN,光電業,光電業,-1.349,0.62,0.104,0.15,0.515,1,Moderate,0.299,Water intensity; Female directors (%); Waste intensity,富采、瑞軒、佳能,0.224
+3038,全台,EDT,光電業,光電業,-0.161,-0.887,0.263,0.074,0.5,1,Moderate,0.43,Independent comp. committee (%); Median non-manager salary; Average employee benefits,茂林-KY、揚明光、友達,-0.1
+3049,精金,HannsTouch,光電業,光電業,-1.572,0.478,0.156,0.038,0.485,1,Moderate,-0.043,Waste intensity; GHG intensity (scope 1+2 / revenue); Female directors (%),凌巨、悅城、彩晶,-0.13
+3622,洋華,YFO,光電業,光電業,0.008,-1.321,0.421,0.032,0.471,1,Moderate,0.353,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Independent directors (%),中環、奇偶、眾福科,0.295
+3437,榮創,AOT,光電業,光電業,0.117,-1.803,0.723,0.006,0.456,1,Moderate,0.017,Occupational injury rate; Median non-manager salary; Average employee benefits,揚明光、嘉彰、艾笛森,0.101
+3406,玉晶光,GSEO,光電業,光電業,0.776,-1.634,-0.169,-0.032,0.426,1,Moderate,-0.035,Occupational injury rate; Female directors (%); Independent directors (%),惠特、奇偶、嘉彰,-0.076
+6916,華凌,WINSTAR,光電業,光電業,-0.456,-0.227,-0.389,-0.032,0.441,1,Moderate,-0.18,Water intensity; Audit committee attendance; Board attendance,鈺德、群創、華興,-0.205
+2393,億光,EVERLIGHT,光電業,光電業,-0.097,-1.525,0.501,-0.05,0.412,1,Moderate,0.044,Occupational injury rate; Female directors (%); Renewable energy share,奇偶、嘉彰、艾笛森,0.119
+4949,有成精密,WIN WIN,光電業,光電業,0.652,-1.853,-0.073,-0.122,0.397,1,Moderate,0.217,Occupational injury rate; Audit committee attendance; Median non-manager salary,揚明光、GIS-KY、安集,0.145
+4942,嘉彰,Chia Chang,光電業,光電業,0.449,-1.874,0.123,-0.128,0.382,1,Moderate,-0.047,Occupational injury rate; Female directors (%); Median non-manager salary,一詮、玉晶光、榮創,0.019
+8215,明基材,BMC,光電業,光電業,-1.197,0.274,-0.468,-0.139,0.368,1,Moderate,0.426,Water intensity; Audit committee attendance; Female directors (%),瑞軒、富采、群創,0.301
+3481,群創,INX,光電業,光電業,-1.375,0.224,-0.289,-0.154,0.353,1,Moderate,0.325,Audit committee attendance; Waste intensity; GHG intensity (scope 1+2 / revenue),明基材、瑞軒、彩晶,0.046
+3504,揚明光,Young Optics,光電業,光電業,-0.035,-1.319,-0.147,-0.196,0.338,1,Moderate,0.2,Occupational injury rate; Median non-manager salary; Audit committee attendance,艾笛森、榮創、有成精密,-0.074
+3008,大立光,LARGAN,光電業,光電業,-0.145,-0.473,-1.014,-0.247,0.324,1,Moderate,0.245,Director training compliance; Board attendance; Occupational injury rate,乙盛-KY、瑞儀、憶聲,-0.312
+6405,悅城,ONANO,光電業,光電業,-2.985,0.238,0.867,-0.285,0.309,1,Moderate,-0.132,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,彩晶、元晶、光鋐,-0.341
+6477,安集,Anji,光電業,光電業,0.274,-2.115,-0.071,-0.352,0.294,1,Moderate,-0.218,Occupational injury rate; Average employee benefits; Median non-manager salary,有成精密、中環、奇偶,-0.078
+6706,惠特,FitTech,光電業,光電業,0.269,-2.018,-0.357,-0.425,0.279,0,Poor,-0.268,Occupational injury rate; Female managers (%); Average employee benefits,今國光、玉晶光、一詮,-0.368
+6456,GIS-KY,GIS,光電業,光電業,0.111,-2.955,0.507,-0.504,0.265,0,Poor,0.446,Occupational injury rate; Waste intensity; Median non-manager salary,艾笛森、富采、TPK-KY,0.514
+3714,富采,ENNOSTAR,光電業,光電業,-2.058,-1.302,0.861,-0.528,0.25,0,Poor,0.32,Occupational injury rate; Water intensity; Waste intensity,GIS-KY、明基材、艾笛森,0.429
+4956,光鋐,Epileds,光電業,光電業,-2.088,0.013,-0.491,-0.561,0.235,0,Poor,-0.345,Waste intensity; Director training compliance; Water intensity,悅城、凌巨、元晶,-0.667
+2323,中環,CMC,光電業,光電業,-0.622,-2.021,0.079,-0.579,0.221,0,Poor,-0.06,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Median non-manager salary,洋華、佳凌、澤米,-0.19
+2486,一詮,I-CHIUN,光電業,光電業,0.11,-2.013,-0.623,-0.58,0.206,0,Poor,-0.173,Occupational injury rate; Female directors (%); Median non-manager salary,正達、嘉彰、惠特,-0.385
+3149,正達,G-TECH,光電業,光電業,-0.395,-2.028,-0.161,-0.591,0.191,0,Poor,-0.192,Occupational injury rate; Director training compliance; Female directors (%),一詮、嘉彰、佳凌,-0.365
+3543,州巧,JOCHU,光電業,光電業,-0.572,-1.801,-0.241,-0.6,0.176,0,Poor,-0.089,Occupational injury rate; Waste intensity; Female directors (%),嘉彰、乙盛-KY、聯合再生,-0.124
+4960,誠美材,CMMT,光電業,光電業,-2.064,-0.298,-0.6,-0.708,0.162,0,Poor,0.06,Water intensity; Waste intensity; Board attendance,彩晶、鼎元、明基材,-0.089
+6209,今國光,KINKO,光電業,光電業,-0.387,-2.289,-0.266,-0.724,0.147,0,Poor,-0.385,Occupational injury rate; Average employee benefits; Median non-manager salary,惠特、澤米、佳凌,-0.59
+2426,鼎元,TYNTEK,光電業,光電業,-1.729,-1.355,-0.044,-0.771,0.132,0,Poor,-0.327,Water intensity; Occupational injury rate; Median non-manager salary,佳凌、澤米、元晶,-0.365
+6116,彩晶,Hannstar,光電業,光電業,-2.523,-1.311,0.635,-0.782,0.118,0,Poor,0.024,Waste intensity; GHG intensity (scope 1+2 / revenue); Occupational injury rate,悅城、誠美材、富采,-0.116
+3576,聯合再生,URE,光電業,光電業,-1.106,-1.801,-0.533,-0.899,0.103,0,Poor,0.161,Occupational injury rate; Waste intensity; Independent comp. committee (%),州巧、艾笛森、力特,-0.349
+8105,凌巨,GiantPlus,光電業,光電業,-2.949,0.222,-1.061,-1.003,0.088,0,Poor,-0.111,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,群創、誠美材、悅城,-0.672
+3051,力特,Optimax,光電業,光電業,-1.309,-1.153,-1.311,-1.023,0.074,0,Poor,-0.163,Board attendance; Independent comp. committee (%); Occupational injury rate,聯合再生、誠美材、凌巨,-0.84
+6742,澤米,Vti,光電業,光電業,-1.845,-2.15,-0.011,-1.094,0.059,0,Poor,-0.417,Occupational injury rate; Water intensity; GHG intensity (scope 1+2 / revenue),佳凌、元晶、鼎元,-0.614
+4976,佳凌,Calin,光電業,光電業,-1.615,-2.285,-0.311,-1.175,0.044,0,Poor,-0.398,Occupational injury rate; Water intensity; Female directors (%),鼎元、澤米、元晶,-0.541
+5243,乙盛-KY,ESON,光電業,光電業,-0.813,-2.966,-0.756,-1.31,0.029,0,Poor,0.005,Occupational injury rate; Waste intensity; Board attendance,州巧、GIS-KY、一詮,-0.382
+6443,元晶,TSEC,光電業,光電業,-2.655,-2.208,-0.028,-1.409,0.015,0,Poor,-0.462,Occupational injury rate; Waste intensity; GHG intensity (scope 1+2 / revenue),澤米、佳凌、鼎元,-0.863
+6901,鑽石投資,DIAMOND BIOFUND,其他業,其他業,0.415,0.823,0.58,1.029,1.0,2,Excellent,0.776,Board attendance; Waste intensity; Audit committee attendance,必應、裕融、勤益控,0.783
+6958,日盛台駿,INFINITE,其他業,其他業,0.655,0.359,0.61,0.954,0.98,2,Excellent,0.685,Independent directors (%); Investor conferences; Renewable energy share,必應、政伸、和潤企業,0.372
+1437,勤益控,GTM,其他業,其他業,0.632,0.186,0.661,0.901,0.961,2,Excellent,0.57,Median non-manager salary; Independent comp. committee (%); GHG inventory verified,鑽石投資、必應、龍邦,0.381
+6625,必應,Binlive,其他業,其他業,0.633,0.481,0.123,0.809,0.941,2,Excellent,0.754,GHG inventory verified; Investor conferences,鑽石投資、遠見、裕融,0.314
+1516,川飛,FALCON,其他業,其他業,0.737,0.228,0.228,0.791,0.922,2,Excellent,0.255,Board attendance; GHG inventory verified; Investor conferences,必應、鑽石投資、卓越,0.395
+5871,中租-KY,Chailease,其他業,其他業,0.65,-0.134,0.551,0.748,0.902,2,Excellent,0.428,Average employee benefits; Renewable energy share; Female directors (%),jpp-KY、裕融、和潤企業,0.627
+2514,龍邦,LONG BON,其他業,其他業,0.489,0.11,0.442,0.74,0.882,2,Excellent,0.331,Female managers (%); GHG inventory verified; Investor conferences,遠見、阜爾運通、勤益控,0.103
+6592,和潤企業,HOTAI FINANCE,其他業,其他業,0.698,0.458,-0.267,0.677,0.863,2,Excellent,0.684,Independent directors (%); Female directors (%); Board attendance,裕融、政伸、中鼎,0.4
+9941,裕融,TAC,其他業,其他業,0.62,0.56,-0.376,0.646,0.843,2,Excellent,0.733,Female directors (%); Independent directors (%); Audit committee attendance,和潤企業、政伸、鑽石投資,0.383
+3040,遠見,G.V.,其他業,其他業,0.134,0.526,-0.124,0.555,0.824,2,Excellent,0.622,GHG intensity (scope 1+2 / revenue); Audit committee attendance; GHG inventory verified,廣豐、必應、鑽石投資,0.08
+8033,雷虎,TT,其他業,其他業,0.058,-0.125,0.399,0.484,0.804,2,Excellent,0.019,Independent comp. committee (%); Median non-manager salary; Average employee benefits,泰銘、中保科、大華,-0.1
+2348,海悅,Hiyes,其他業,其他業,0.662,0.487,-0.836,0.461,0.784,2,Excellent,0.298,Board attendance; Independent directors (%); GHG inventory verified,中鼎、必應、廣豐,0.22
+9929,秋雨,CHOICE,其他業,其他業,0.327,-0.298,0.099,0.403,0.765,1,Moderate,-0.118,Average employee benefits; Female directors (%); Median non-manager salary,台火、泰銘、南六,-0.001
+9917,中保科,TAIWAN SECOM,其他業,其他業,0.525,-0.333,-0.085,0.391,0.745,1,Moderate,0.153,Independent comp. committee (%); Average employee benefits; Independent directors (%),泰銘、雷虎、阜爾運通,-0.076
+9944,新麗,Shinih,其他業,其他業,-0.047,-0.276,0.273,0.344,0.725,1,Moderate,0.12,Director training compliance; Average employee benefits; Median non-manager salary,大豐電、南六、茂順,-0.016
+9902,台火,TIDEHOLD,其他業,其他業,0.45,-0.198,-0.316,0.328,0.706,1,Moderate,-0.107,Female directors (%); Average employee benefits; Median non-manager salary,秋雨、新保、泰銘,-0.036
+2496,卓越,SPC,其他業,其他業,-1.104,0.239,0.644,0.298,0.686,1,Moderate,0.143,Waste intensity; Water intensity; Median non-manager salary,福貞-KY、吉源-KY、裕慶-KY,-0.02
+9927,泰銘,TMI,其他業,其他業,0.053,-0.099,-0.123,0.296,0.667,1,Moderate,-0.17,Independent comp. committee (%); Average employee benefits; Female directors (%),雷虎、中保科、秋雨,-0.268
+9940,信義,Sinyi,其他業,其他業,0.261,-1.046,0.602,0.292,0.647,1,Moderate,0.437,Occupational injury rate; Audit committee attendance; Average employee benefits,中鼎、百和興業-KY、百和,0.527
+1416,廣豐,KFIC,其他業,其他業,0.296,0.482,-0.947,0.288,0.627,1,Moderate,0.375,Audit committee attendance; Board attendance; Waste intensity,遠見、匯僑、裕融,-0.088
+9933,中鼎,CTCI,其他業,其他業,0.529,0.189,-0.939,0.265,0.608,1,Moderate,0.24,Board attendance; Average employee benefits; Female managers (%),威宏-KY、和潤企業、新保,0.366
+6184,大豐電,Dafeng TV Ltd.,其他業,其他業,0.451,-0.168,-0.577,0.241,0.588,1,Moderate,0.228,Director training compliance; Investor conferences; Average employee benefits,新麗、南六、立益物流,-0.169
+8481,政伸,Transart,其他業,其他業,-0.116,-0.116,-0.215,0.195,0.569,1,Moderate,0.379,Independent directors (%); Water intensity; Average employee benefits,裕融、和潤企業、立益物流,0.098
+1443,立益物流,LILYTEXTILE,其他業,其他業,0.088,-0.036,-0.518,0.183,0.549,1,Moderate,0.142,Average employee benefits; Independent directors (%); Board attendance,南六、新保、政伸,-0.046
+6655,科定,KD,其他業,其他業,-1.19,-0.032,0.379,0.068,0.529,1,Moderate,-0.233,Water intensity; Waste intensity; Female managers (%),福貞-KY、宏全、茂順,-0.169
+9925,新保,SKS,其他業,其他業,0.581,-0.459,-0.942,0.042,0.51,1,Moderate,0.106,Board attendance; Average employee benefits; Female managers (%),立益物流、中鼎、潤泰新,-0.066
+9905,大華,GCM,其他業,其他業,-0.112,-0.788,-0.026,0.019,0.49,1,Moderate,-0.39,Average employee benefits; Independent directors (%); Water intensity,美吉吉-KY、台數科、雷虎,-0.199
+8442,威宏-KY,WW,其他業,其他業,-0.208,-0.191,-0.606,-0.012,0.471,1,Moderate,-0.194,Waste intensity; Board attendance; Female managers (%),中鼎、百和興業-KY、和潤企業,-0.066
+2614,東森,EMIC,其他業,其他業,-0.884,0.147,-0.358,-0.034,0.451,1,Moderate,0.231,Waste intensity; Female directors (%); Board attendance,百和興業-KY、裕慶-KY、鑽石投資,0.177
+6914,阜爾運通,PSS,其他業,其他業,0.367,-1.946,0.372,-0.09,0.431,1,Moderate,0.032,Occupational injury rate; Average employee benefits; Female managers (%),大華、龍邦、jpp-KY,-0.118
+8463,潤泰材,RTM,其他業,其他業,-1.338,-0.019,0.059,-0.1,0.412,1,Moderate,-0.047,GHG intensity (scope 1+2 / revenue); Waste intensity; Average employee benefits,吉源-KY、康那香、統一實,-0.198
+6504,南六,NAN LIU,其他業,其他業,-0.795,-0.462,-0.174,-0.158,0.392,1,Moderate,-0.002,Average employee benefits; Median non-manager salary; GHG intensity (scope 1+2 / revenue),立益物流、潤泰材、鼎基,-0.174
+9945,潤泰新,RUENTEX DEVELOP,其他業,其他業,-0.52,-0.222,-0.743,-0.186,0.373,1,Moderate,-0.051,GHG intensity (scope 1+2 / revenue); Board attendance; Median non-manager salary,潤泰材、台數科、中視,-0.204
+6464,台數科,top MSO,其他業,其他業,0.063,-0.81,-0.723,-0.189,0.353,1,Moderate,0.121,Board attendance; Independent directors (%); Median non-manager salary,潤泰新、八貫、潤泰材,-0.138
+9942,茂順,MAO SHUN,其他業,其他業,-1.369,-0.559,0.333,-0.207,0.333,1,Moderate,-0.294,Waste intensity; Average employee benefits; Water intensity,宏全、康那香、科定,-0.245
+1435,中福,C.F.CORP.,其他業,其他業,-2.978,0.628,0.401,-0.314,0.314,0,Poor,0.061,Water intensity; GHG intensity (scope 1+2 / revenue); GHG inventory verified,統一實、鼎基、美吉吉-KY,-0.107
+9907,統一實,TON YI,其他業,其他業,-2.043,-0.096,0.08,-0.37,0.294,0,Poor,-0.071,Water intensity; GHG intensity (scope 1+2 / revenue); Average employee benefits,鼎基、中福、潤泰材,-0.24
+6957,裕慶-KY,Horizon,其他業,其他業,-1.455,-0.65,-0.041,-0.412,0.275,0,Poor,-0.23,Waste intensity; Water intensity; Average employee benefits,福貞-KY、吉源-KY、卓越,-0.322
+6952,大武山,DWS,其他業,其他業,-1.932,-0.358,0.061,-0.435,0.255,0,Poor,-0.318,Waste intensity; Average employee benefits; Median non-manager salary,康那香、吉源-KY、百和興業-KY,-0.302
+6585,鼎基,DingZing,其他業,其他業,-2.166,-0.321,0.007,-0.525,0.235,0,Poor,-0.085,GHG intensity (scope 1+2 / revenue); Water intensity; Average employee benefits,統一實、中福、福貞-KY,-0.376
+9938,百和,TAIWAN PAIHO,其他業,其他業,-2.905,-0.481,0.647,-0.605,0.216,0,Poor,-0.149,Waste intensity; Water intensity; GHG intensity (scope 1+2 / revenue),百和興業-KY、康那香、吉源-KY,0.037
+8488,吉源-KY,JYPKG,其他業,其他業,-2.985,-0.002,0.022,-0.692,0.196,0,Poor,-0.345,Waste intensity; Water intensity; GHG intensity (scope 1+2 / revenue),福貞-KY、康那香、百和興業-KY,-0.698
+9928,中視,CTV,其他業,其他業,-2.572,-0.206,-0.245,-0.721,0.176,0,Poor,-0.131,GHG intensity (scope 1+2 / revenue); Average employee benefits; Independent comp. committee (%),潤泰材、潤泰新、吉源-KY,-0.442
+5284,jpp-KY,jpp,其他業,其他業,-1.166,-2.209,0.385,-0.726,0.157,0,Poor,-0.029,Water intensity; Occupational injury rate; Average employee benefits,百和、科定、統一實,0.029
+9939,宏全,HON CHUAN,其他業,其他業,-2.302,-0.663,-0.109,-0.743,0.137,0,Poor,-0.298,Waste intensity; Water intensity; Average employee benefits,茂順、康那香、福貞-KY,-0.415
+9919,康那香,KNH,其他業,其他業,-2.878,-0.596,0.282,-0.776,0.118,0,Poor,-0.211,Waste intensity; Water intensity; GHG intensity (scope 1+2 / revenue),百和、百和興業-KY、吉源-KY,-0.267
+8404,百和興業-KY,PAIHO  SHIH,其他業,其他業,-2.905,-0.186,-0.101,-0.777,0.098,0,Poor,-0.085,Waste intensity; Water intensity; GHG intensity (scope 1+2 / revenue),百和、康那香、吉源-KY,-0.106
+2904,匯僑,POCS,其他業,其他業,-0.549,-1.663,-1.089,-0.859,0.078,0,Poor,0.004,Occupational injury rate; Board attendance; Audit committee attendance,八貫、廣豐、中視,-0.656
+8411,福貞-KY,KINGCAN,其他業,其他業,-2.596,-1.143,0.327,-0.861,0.059,0,Poor,-0.23,Waste intensity; Water intensity; GHG intensity (scope 1+2 / revenue),吉源-KY、康那香、科定,-0.596
+1342,八貫,CCI Yilan,其他業,其他業,-1.869,-1.75,-0.416,-1.107,0.039,0,Poor,-0.053,Waste intensity; Audit committee attendance; Occupational injury rate,福貞-KY、匯僑、台數科,-0.505
+8466,美吉吉-KY,M.J.,其他業,其他業,-2.299,-2.281,-0.274,-1.402,0.02,0,Poor,-0.343,Water intensity; GHG intensity (scope 1+2 / revenue); Occupational injury rate,吉源-KY、百和興業-KY、福貞-KY,-0.599
+2404,漢唐,UIS,其他電子,其他電子,0.297,1.324,0.465,1.13,1.0,2,Excellent,0.399,Independent directors (%); Director training compliance; Renewable energy share,達明、帆宣、碩天,0.395
+2354,鴻準,FTC,其他電子,其他電子,-0.298,0.483,1.686,1.066,0.978,2,Excellent,0.857,Occupational injury rate; Water intensity; GHG intensity (scope 1+2 / revenue),鴻海、尖點、貿聯-KY,1.029
+2317,鴻海,HON HAI,其他電子,其他電子,-1.193,1.379,1.566,1.036,0.957,2,Excellent,0.828,Waste intensity; Water intensity,鴻準、東科-KY、金寶,0.911
+6658,聯策,SynPower,其他電子,其他電子,0.753,0.206,0.853,1.023,0.935,2,Excellent,0.507,Median non-manager salary; Renewable energy share; GHG inventory verified,昇貿、科風、迅得,0.354
+6196,帆宣,MIC,其他電子,其他電子,0.561,1.07,-0.092,0.92,0.913,2,Excellent,0.382,Independent directors (%); Renewable energy share; Female directors (%),漢唐、碩天、鴻準,0.5
+6192,巨路,LUMAX,其他電子,其他電子,0.657,0.717,-0.079,0.828,0.891,2,Excellent,0.545,Renewable energy share; Board attendance; Independent directors (%),碩天、昇貿、鴻海,0.138
+6438,迅得,SAA,其他電子,其他電子,0.506,0.338,0.164,0.726,0.87,2,Excellent,0.299,Average employee benefits; Renewable energy share; Female directors (%),聯策、和椿、昇貿,0.094
+3305,昇貿,SHENMAO,其他電子,其他電子,0.579,0.108,0.223,0.688,0.848,2,Excellent,0.442,Median non-manager salary; Renewable energy share; Audit committee attendance,聯策、科風、輝創,0.037
+6215,和椿,Aurotek,其他電子,其他電子,0.595,0.378,-0.309,0.594,0.826,2,Excellent,-0.187,Female directors (%); Renewable energy share; Independent directors (%),迅得、帆宣、聯策,0.051
+3043,科風,PCM,其他電子,其他電子,0.142,-0.298,0.613,0.53,0.804,1,Moderate,0.329,Independent comp. committee (%); Median non-manager salary; Average employee benefits,昇貿、聯策、無敵,-0.26
+3617,碩天,CyberPower,其他電子,其他電子,-0.429,0.831,-0.009,0.512,0.783,1,Moderate,0.286,Renewable energy share; Board attendance; Independent directors (%),漢唐、旭隼、巨路,0.24
+4585,達明,TRI,其他電子,其他電子,-0.109,0.599,-0.429,0.381,0.761,1,Moderate,0.298,Director training compliance; Renewable energy share; Independent directors (%),漢唐、無敵、碩天,-0.135
+6830,汎銓,MSS,其他電子,其他電子,-0.88,0.542,0.294,0.358,0.739,1,Moderate,0.048,GHG intensity (scope 1+2 / revenue); Renewable energy share; Female directors (%),敦吉、安普新、柏騰,0.01
+2423,固緯,GW,其他電子,其他電子,-0.039,0.461,-0.681,0.261,0.717,1,Moderate,-0.463,Independent directors (%); Renewable energy share; Female directors (%),漢平、淳安、美隆電,-0.143
+8201,無敵,BESTA,其他電子,其他電子,0.09,0.303,-0.687,0.246,0.696,1,Moderate,0.23,Independent comp. committee (%); Audit committee attendance; Female directors (%),科風、達明、互盛電,-0.308
+2360,致茂,CHROMA,其他電子,其他電子,0.234,-1.382,0.707,0.197,0.674,1,Moderate,0.337,Occupational injury rate; Female directors (%); Independent directors (%),德律、貿聯-KY、洋基工程,0.423
+3030,德律,TRI,其他電子,其他電子,0.418,-1.366,0.499,0.19,0.652,1,Moderate,0.144,Occupational injury rate; Renewable energy share; Female directors (%),致茂、鼎炫-KY、所羅門,0.093
+2482,連宇,UIC,其他電子,其他電子,-1.417,0.132,0.666,0.156,0.63,1,Moderate,0.149,Female directors (%); Waste intensity; Renewable energy share,柏騰、敦吉、聯策,-0.256
+2433,互盛電,HUXEN,其他電子,其他電子,-0.521,0.112,-0.264,0.117,0.609,1,Moderate,0.111,Waste intensity; Audit committee attendance; Average employee benefits,洋基工程、興能高、無敵,-0.354
+2461,光群雷,K LASER,其他電子,其他電子,0.287,-2.112,1.056,0.077,0.587,1,Moderate,0.152,Occupational injury rate; Average employee benefits; Median non-manager salary,聚賢研發-創、云辰、尖點,0.221
+2459,敦吉,AUDIX,其他電子,其他電子,-2.078,0.542,0.633,0.061,0.565,1,Moderate,0.129,GHG intensity (scope 1+2 / revenue); Water intensity; Director training compliance,安普新、汎銓、柏騰,-0.336
+2488,漢平,HANPIN,其他電子,其他電子,-1.06,0.396,-0.491,-0.054,0.543,1,Moderate,-0.387,Independent directors (%); GHG intensity (scope 1+2 / revenue); Renewable energy share,固緯、安普新、興能高,-0.458
+7631,聚賢研發-創,GENIIDEAS,其他電子,其他電子,0.366,-1.833,0.014,-0.183,0.522,0,Poor,0.041,Occupational injury rate; Board attendance; Renewable energy share,光群雷、鼎炫-KY、震旦行,-0.016
+8021,尖點,Topoint,其他電子,其他電子,-1.105,-1.978,1.495,-0.203,0.5,0,Poor,0.353,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Median non-manager salary,所羅門、旭隼、光群雷,0.269
+6691,洋基工程,YANKEY,其他電子,其他電子,-0.348,-0.859,-0.369,-0.22,0.478,0,Poor,0.281,Waste intensity; Occupational injury rate; Board attendance,亞翔、致茂、金寶,-0.051
+2359,所羅門,SOLOMON,其他電子,其他電子,-0.102,-1.856,0.217,-0.281,0.457,0,Poor,0.087,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Renewable energy share,亞弘電、隆銘綠能、尖點,-0.111
+3518,柏騰,PT TECH.,其他電子,其他電子,-2.985,0.508,0.604,-0.284,0.435,0,Poor,0.231,GHG intensity (scope 1+2 / revenue); Water intensity; Waste intensity,連宇、敦吉、旭暉應材,-0.294
+6283,淳安,SOE,其他電子,其他電子,-0.438,0.584,-1.898,-0.292,0.413,0,Poor,-0.335,Board attendance; Independent directors (%); Female directors (%),亞翔、固緯、盟立,-0.449
+2477,美隆電,MEILOON,其他電子,其他電子,0.694,-1.866,-0.556,-0.293,0.391,0,Poor,-0.439,Independent directors (%); Occupational injury rate; Renewable energy share,鼎炫-KY、盟立、亞翔,-0.287
+6409,旭隼,VOLTRONIC,其他電子,其他電子,-0.291,-1.518,-0.071,-0.332,0.37,0,Poor,0.329,Occupational injury rate; Board attendance; Renewable energy share,尖點、隆銘綠能、聚賢研發-創,0.27
+4588,玖鼎電力,Arch Meter,其他電子,其他電子,-0.323,-2.12,0.452,-0.369,0.348,0,Poor,-0.235,Occupational injury rate; Renewable energy share; Median non-manager salary,亞弘電、德律、鼎炫-KY,-0.257
+2390,云辰,EVERSPRING,其他電子,其他電子,-0.358,-2.035,0.401,-0.37,0.326,0,Poor,-0.009,Occupational injury rate; Independent comp. committee (%); Average employee benefits,震旦行、聚賢研發-創、光群雷,-0.356
+2373,震旦行,Aurora,其他電子,其他電子,0.205,-2.094,-0.122,-0.388,0.304,0,Poor,-0.2,Occupational injury rate; Board attendance; Average employee benefits,隆銘綠能、鼎炫-KY、聚賢研發-創,-0.238
+5225,東科-KY,EASTECH,其他電子,其他電子,-1.636,-1.098,0.467,-0.451,0.283,0,Poor,0.285,Water intensity; Occupational injury rate; Waste intensity,貿聯-KY、可成、金寶,0.136
+6722,輝創,Whetron,其他電子,其他電子,0.144,-2.223,-0.13,-0.46,0.261,0,Poor,0.125,Occupational injury rate; Director training compliance; Average employee benefits,鼎炫-KY、震旦行、所羅門,-0.537
+6743,安普新,AMPACS,其他電子,其他電子,-2.172,0.566,-0.694,-0.462,0.239,0,Poor,-0.204,GHG intensity (scope 1+2 / revenue); Independent directors (%); Water intensity,興能高、敦吉、漢平,-0.601
+3018,隆銘綠能,LUNG MING,其他電子,其他電子,0.45,-1.973,-0.697,-0.472,0.217,0,Poor,-0.066,Occupational injury rate; Board attendance; Median non-manager salary,震旦行、所羅門、聚賢研發-創,-0.203
+6201,亞弘電,YAHORNG,其他電子,其他電子,-0.64,-2.201,0.42,-0.523,0.196,0,Poor,-0.107,Occupational injury rate; Average employee benefits; Median non-manager salary,玖鼎電力、所羅門、東科-KY,-0.217
+6139,亞翔,L & K,其他電子,其他電子,0.852,-1.382,-1.91,-0.566,0.174,0,Poor,-0.107,Independent directors (%); Occupational injury rate; Board attendance,盟立、鼎炫-KY、隆銘綠能,-0.333
+6698,旭暉應材,FINEMAT,其他電子,其他電子,-2.985,-0.165,0.486,-0.577,0.152,0,Poor,-0.209,GHG intensity (scope 1+2 / revenue); Water intensity; Waste intensity,興能高、安普新、柏騰,-0.507
+8499,鼎炫-KY,TOP BRIGHT,其他電子,其他電子,0.655,-2.949,-0.286,-0.606,0.13,0,Poor,-0.095,Occupational injury rate; Independent directors (%); Renewable energy share,震旦行、聚賢研發-創、德律,-0.164
+3665,貿聯-KY,BHI (BizLink),其他電子,其他電子,-0.136,-2.94,0.264,-0.677,0.109,0,Poor,0.365,Occupational injury rate; Independent directors (%); Water intensity,金寶、東科-KY、可成,0.419
+2312,金寶,KINPO,其他電子,其他電子,-1.652,-1.17,-0.453,-0.829,0.087,0,Poor,0.276,Occupational injury rate; Independent directors (%); Waste intensity,貿聯-KY、東科-KY、興能高,0.089
+6558,興能高,SYNergy,其他電子,其他電子,-2.886,0.477,-0.974,-0.853,0.065,0,Poor,0.03,Independent directors (%); GHG intensity (scope 1+2 / revenue); Water intensity,安普新、金寶、旭暉應材,-0.49
+2464,盟立,Mirle,其他電子,其他電子,-0.205,-1.703,-1.363,-0.855,0.043,0,Poor,-0.441,Independent directors (%); Occupational injury rate; Board attendance,亞翔、震旦行、隆銘綠能,-0.502
+2474,可成,CATCHER,其他電子,其他電子,-2.905,-2.3,-0.242,-1.612,0.022,0,Poor,0.062,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Water intensity,東科-KY、金寶、貿聯-KY,-0.31
+1730,花仙子,FARCENT,化學工業,化學工業,0.646,0.702,0.912,1.191,1.0,2,Excellent,0.859,Investor conferences; GHG inventory verified,南寶、毛寶、國化,0.613
+1723,中碳,CSCC,化學工業,化學工業,-0.406,0.924,0.496,0.744,0.964,2,Excellent,0.723,Female managers (%); Independent directors (%); Renewable energy share,國化、勝一、花仙子,0.219
+1713,國化,CCW,化學工業,化學工業,-1.692,1.057,1.31,0.642,0.929,2,Excellent,0.57,Water intensity; Renewable energy share; GHG intensity (scope 1+2 / revenue),中碳、中華化、花仙子,0.114
+1714,和桐,HO TUNG,化學工業,化學工業,0.446,0.321,-0.041,0.622,0.893,2,Excellent,0.319,Renewable energy share; Audit committee attendance; Independent directors (%),花仙子、興農、南寶,0.199
+1725,元禎,YJE,化學工業,化學工業,0.797,0.131,-0.189,0.62,0.857,2,Excellent,0.309,Director training compliance; Renewable energy share; Median non-manager salary,中纖、毛寶、花仙子,-0.175
+4766,南寶,NAN PAO,化學工業,化學工業,0.388,0.013,0.258,0.599,0.821,2,Excellent,0.704,Female directors (%); GHG inventory verified; Occupational injury rate,日勝化、上品、花仙子,0.175
+1712,興農,SINON,化學工業,化學工業,0.048,0.277,0.097,0.516,0.786,2,Excellent,0.094,Renewable energy share; Female directors (%); Average employee benefits,雙鍵、日勝化、三福化,-0.097
+4764,雙鍵,DBC,化學工業,化學工業,0.208,0.149,0.024,0.498,0.75,2,Excellent,0.161,Renewable energy share; Female directors (%); Median non-manager salary,興農、展宇、日勝化,-0.083
+1773,勝一,SHINY  CHEMICAL,化學工業,化學工業,-0.098,0.836,-0.446,0.467,0.714,2,Excellent,0.309,Renewable energy share; Board attendance; Female managers (%),和益、中碳、國化,0.058
+1709,和益,FUCC,化學工業,化學工業,-0.058,1.265,-0.916,0.463,0.679,2,Excellent,0.021,Renewable energy share; Board attendance; Independent directors (%),勝一、中碳、三福化,0.063
+4755,三福化,SAN FU,化學工業,化學工業,-0.14,0.531,-0.452,0.337,0.643,2,Excellent,0.237,Female directors (%); Renewable energy share; Independent directors (%),日勝化、中碳、興農,-0.134
+1717,長興,ETERNAL,化學工業,化學工業,-0.658,0.528,-0.287,0.214,0.607,1,Moderate,0.323,Waste intensity; Fire casualties; Female directors (%),南寶、三晃、永光,-0.077
+4720,德淵,TEX YEAR,化學工業,化學工業,0.684,-1.014,-0.078,0.198,0.571,1,Moderate,0.149,Renewable energy share; Occupational injury rate; Board attendance,毛寶、永記、展宇,0.153
+1718,中纖,CMFC,化學工業,化學工業,0.109,-0.29,-0.422,0.133,0.536,1,Moderate,-0.133,Female directors (%); Director training compliance; Renewable energy share,元禎、國精化、材料*-KY,-0.423
+1735,日勝化,EMC,化學工業,化學工業,-0.097,-0.566,-0.073,0.089,0.5,1,Moderate,0.229,Female directors (%); Renewable energy share; Occupational injury rate,展宇、南寶、興農,-0.21
+1732,毛寶,Mao Bao,化學工業,化學工業,0.001,-0.742,-0.21,0.007,0.464,1,Moderate,0.229,Board attendance; Renewable energy share; Median non-manager salary,德淵、花仙子、雙鍵,-0.096
+4770,上品,ASC,化學工業,化學工業,0.716,-1.933,0.09,-0.067,0.429,1,Moderate,0.2,Occupational injury rate; Female directors (%); Median non-manager salary,南寶、康普、永記,0.1
+1776,展宇,Headway,化學工業,化學工業,0.047,-1.634,0.293,-0.118,0.393,1,Moderate,0.134,Occupational injury rate; Renewable energy share; Average employee benefits,日勝化、永記、雙鍵,-0.258
+1727,中華化,CHCIW,化學工業,化學工業,-1.17,-1.324,1.018,-0.163,0.357,1,Moderate,0.24,Water intensity; Renewable energy share; Occupational injury rate,三晃、康普、國化,-0.222
+1711,永光,EVERLIGHT,化學工業,化學工業,-1.698,0.011,0.113,-0.196,0.321,1,Moderate,-0.144,Waste intensity; Renewable energy share; Water intensity,三晃、東鹼、中華化,-0.309
+1726,永記,Y.C.P.,化學工業,化學工業,0.492,-1.886,-0.385,-0.308,0.286,1,Moderate,0.029,Occupational injury rate; Renewable energy share; Female directors (%),展宇、日勝化、上品,-0.408
+1708,東鹼,SESODA,化學工業,化學工業,-2.295,0.696,-0.628,-0.433,0.25,0,Poor,-0.091,Waste intensity; Independent comp. committee (%); Renewable energy share,永光、三晃、東聯,-0.551
+4739,康普,COREMAX,化學工業,化學工業,-0.937,-1.845,0.546,-0.449,0.214,0,Poor,0.405,Occupational injury rate; Water intensity; Female directors (%),中華化、上品、材料*-KY,0.007
+4722,國精化,QPC,化學工業,化學工業,-0.99,-1.077,-0.286,-0.497,0.179,0,Poor,-0.095,Waste intensity; Renewable energy share; Director training compliance,日勝化、中纖、展宇,-0.73
+1710,東聯,OUCC,化學工業,化學工業,-1.244,-0.768,-0.51,-0.557,0.143,0,Poor,0.147,Independent comp. committee (%); GHG intensity (scope 1+2 / revenue); Female directors (%),台肥、材料*-KY、康普,-0.365
+1721,三晃,SUNKO,化學工業,化學工業,-2.195,-0.93,0.437,-0.598,0.107,0,Poor,0.073,Waste intensity; Renewable energy share; Water intensity,永光、中華化、康普,-0.342
+1722,台肥,TFC,化學工業,化學工業,-1.146,-1.25,-0.255,-0.605,0.071,0,Poor,-0.006,Occupational injury rate; Independent comp. committee (%); GHG intensity (scope 1+2 / revenue),東聯、材料*-KY、永記,-0.489
+4763,材料*-KY,ACE,化學工業,化學工業,-1.83,-2.96,-0.168,-1.447,0.036,0,Poor,-0.259,Female directors (%); Occupational injury rate; Renewable energy share,康普、東聯、三晃,-0.622
+4961,天鈺,FITIPOWER,半導體業,半導體業,0.628,0.441,1.427,1.282,1.0,2,Excellent,0.741,Renewable energy share,聯陽、愛普*、聯詠,0.627
+3034,聯詠,NOVATEK,半導體業,半導體業,0.566,0.526,1.274,1.234,0.989,2,Excellent,0.822,Independent comp. committee (%); Female managers (%),智原、創意、聯發科,0.656
+2454,聯發科,MediaTek,半導體業,半導體業,0.571,0.731,0.264,0.932,0.979,2,Excellent,0.549,Independent comp. committee (%); Female directors (%); Renewable energy share,聯詠、達發、祥碩,0.301
+3014,聯陽,ITE,半導體業,半導體業,0.428,0.447,0.64,0.918,0.968,2,Excellent,0.756,Renewable energy share; Female managers (%),天鈺、達發、聯詠,0.379
+3530,晶相光,SOI,半導體業,半導體業,0.613,0.053,0.805,0.899,0.958,2,Excellent,0.592,Female managers (%); GHG inventory verified; Renewable energy share,達能、矽統、意騰-KY,0.081
+3443,創意,GUC,半導體業,半導體業,0.604,0.524,0.326,0.891,0.947,2,Excellent,0.808,Investor conferences; Board attendance; Female managers (%),聯詠、瑞鼎、智原,0.452
+6526,達發,Airoha,半導體業,半導體業,0.572,0.469,0.378,0.878,0.937,2,Excellent,0.555,Renewable energy share; Female directors (%); Female managers (%),聯陽、祥碩、瑞鼎,0.3
+8081,致新,GMT,半導體業,半導體業,0.573,0.364,0.479,0.878,0.926,2,Excellent,0.624,Director training compliance; GHG inventory verified; Renewable energy share,立積、瑞昱、晶相光,0.069
+3035,智原,Faraday,半導體業,半導體業,0.587,0.252,0.56,0.872,0.916,2,Excellent,0.702,Independent directors (%),聯詠、創意、義隆,0.612
+3592,瑞鼎,Raydium,半導體業,半導體業,0.646,0.442,0.236,0.842,0.905,2,Excellent,0.686,Female directors (%); Female managers (%); Independent directors (%),威鋒電子、達發、創意,0.298
+3135,凌航,Goldkey Tech.,半導體業,半導體業,0.709,-0.2,0.805,0.84,0.895,2,Excellent,0.353,Median non-manager salary; Investor conferences; GHG inventory verified,嘉雨思-創、達能、凌通,0.201
+6531,愛普*,AP Memory,半導體業,半導體業,0.675,0.32,0.113,0.76,0.884,2,Excellent,0.649,Audit committee attendance; Board attendance; Renewable energy share,天鈺、聯陽、嘉雨思-創,0.345
+3686,達能,Danen,半導體業,半導體業,0.33,-0.083,0.625,0.681,0.874,2,Excellent,0.468,Investor conferences; GHG inventory verified; Average employee benefits,晶相光、凌航、凌通,0.009
+6756,威鋒電子,VLI,半導體業,半導體業,0.431,0.265,0.161,0.671,0.863,2,Excellent,0.44,Female managers (%); Female directors (%); Renewable energy share,瑞鼎、敦泰、達發,0.082
+6962,奕力-KY,ITH-KY,半導體業,半導體業,0.582,-0.004,0.244,0.657,0.853,2,Excellent,0.143,Renewable energy share; Female directors (%); Average employee benefits,晶心科、達發、威鋒電子,0.115
+6921,嘉雨思-創,LeRain,半導體業,半導體業,0.342,0.082,0.382,0.655,0.842,2,Excellent,0.407,GHG inventory verified; Renewable energy share; Median non-manager salary,凌航、凌通、達能,0.175
+4967,十銓,TEAM,半導體業,半導體業,0.635,-0.194,0.375,0.654,0.832,2,Excellent,0.072,Average employee benefits; Female directors (%); Median non-manager salary,世芯-KY、宇瞻、凌航,0.301
+5269,祥碩,Asmedia,半導體業,半導體業,0.667,0.773,-0.614,0.652,0.821,2,Excellent,0.344,Female directors (%); Board attendance; Renewable energy share,晶豪科、達發、敦泰,0.189
+2379,瑞昱,RT,半導體業,半導體業,0.517,0.458,-0.171,0.648,0.811,2,Excellent,0.478,Director training compliance; Independent directors (%); Female directors (%),致新、瑞鼎、聯發科,0.194
+5236,凌陽創新,SunplusIT,半導體業,半導體業,0.233,0.349,0.095,0.607,0.8,2,Excellent,0.459,Investor conferences; GHG inventory verified; Female directors (%),凌通、頌勝科技、通嘉,-0.028
+3545,敦泰,FocalTech,半導體業,半導體業,0.58,0.252,-0.159,0.599,0.789,2,Excellent,0.357,Female managers (%); Female directors (%); Renewable energy share,達發、祥碩、瑞鼎,0.035
+4968,立積,Richwave,半導體業,半導體業,0.543,0.091,0.015,0.592,0.779,2,Excellent,0.481,GHG inventory verified; Renewable energy share; Board attendance,致新、意騰-KY、力智,-0.036
+4952,凌通,Generalplus,半導體業,半導體業,0.426,0.115,0.095,0.589,0.768,2,Excellent,0.345,Investor conferences; GHG inventory verified; Female directors (%),凌陽創新、頌勝科技、達能,-0.003
+6415,矽力*-KY,Silergy,半導體業,半導體業,-0.409,0.006,0.974,0.583,0.758,2,Excellent,0.204,Waste intensity; Renewable energy share; Average employee benefits,晶心科、天鈺、意騰-KY,0.457
+7749,意騰-KY,iGo-KY,半導體業,半導體業,0.017,-0.005,0.539,0.566,0.747,2,Excellent,0.42,GHG inventory verified; Renewable energy share; Average employee benefits,立積、晶相光、致新,0.056
+3588,通嘉,LD,半導體業,半導體業,0.289,0.148,0.129,0.565,0.737,2,Excellent,0.476,GHG inventory verified; Female directors (%); Renewable energy share,凌陽創新、虹冠電、頌勝科技,-0.059
+6533,晶心科,ANDES,半導體業,半導體業,0.331,0.049,0.153,0.553,0.726,2,Excellent,-0.038,Average employee benefits; Renewable energy share; Female directors (%),矽力*-KY、奕力-KY、意騰-KY,0.131
+3006,晶豪科,ESMT,半導體業,半導體業,0.466,0.288,-0.219,0.55,0.716,2,Excellent,0.421,Female directors (%); Renewable energy share; Board attendance,祥碩、達發、凌陽,0.112
+2401,凌陽,SUNPLUS,半導體業,半導體業,0.056,0.047,0.209,0.475,0.705,2,Excellent,0.136,Renewable energy share; Female directors (%); Average employee benefits,晶豪科、世芯-KY、通嘉,0.032
+7768,頌勝科技,PVI,半導體業,半導體業,0.329,-0.132,0.095,0.463,0.695,2,Excellent,0.102,Renewable energy share; Investor conferences; Average employee benefits,創見、凌陽創新、凌通,-0.227
+6202,盛群,HOLTEK,半導體業,半導體業,0.226,-0.003,-0.093,0.404,0.684,1,Moderate,0.184,Independent directors (%); Average employee benefits; Renewable energy share,力智、智原、愛普*,0.031
+6909,創控,tCt,半導體業,半導體業,0.339,-0.102,-0.164,0.381,0.674,1,Moderate,0.373,GHG inventory verified; Female directors (%); Median non-manager salary,凌通、虹冠電、創見,0.045
+2388,威盛,VIA,半導體業,半導體業,0.044,0.151,-0.144,0.377,0.663,1,Moderate,0.198,Independent comp. committee (%); Investor conferences; GHG intensity (scope 1+2 / revenue),華東、聯發科、晶豪科,-0.153
+3257,虹冠電,CHAMPION,半導體業,半導體業,0.242,0.099,-0.291,0.373,0.653,1,Moderate,0.314,GHG inventory verified; Board attendance; Female directors (%),來頡、揚智、暉盛-創,-0.115
+2436,偉詮電,Weltrend,半導體業,半導體業,0.315,0.05,-0.38,0.347,0.642,1,Moderate,-0.007,Independent directors (%); Renewable energy share; Female directors (%),松翰、頌勝科技、創見,-0.248
+2451,創見,Transcend,半導體業,半導體業,0.316,-0.491,0.108,0.331,0.632,1,Moderate,0.085,Median non-manager salary; GHG inventory verified; Average employee benefits,頌勝科技、凌通、達能,-0.196
+6719,力智,uPI,半導體業,半導體業,0.534,0.228,-0.824,0.324,0.621,1,Moderate,0.271,Board attendance; Independent directors (%); GHG inventory verified,芯鼎、松翰、立積,-0.092
+3150,鈺寶-創,SYNCOMM,半導體業,半導體業,-0.153,0.016,-0.022,0.303,0.611,1,Moderate,0.161,Waste intensity; Independent directors (%); GHG inventory verified,虹冠電、迅杰、芯鼎,-0.197
+8271,宇瞻,Apacer,半導體業,半導體業,0.527,0.005,-0.656,0.302,0.6,1,Moderate,-0.057,Independent directors (%); Female directors (%); Board attendance,十銓、嘉雨思-創、來頡,0.04
+2363,矽統,SiS,半導體業,半導體業,-0.065,-0.547,0.411,0.289,0.589,1,Moderate,0.42,Investor conferences; Independent directors (%); GHG inventory verified,晶相光、達能、凌陽創新,-0.167
+3661,世芯-KY,Alchip,半導體業,半導體業,0.689,-1.156,0.28,0.282,0.579,1,Moderate,0.229,Renewable energy share; Occupational injury rate; Female directors (%),十銓、富鼎、凌陽,0.182
+6799,來頡,M3TEK,半導體業,半導體業,0.623,0.084,-0.951,0.255,0.568,1,Moderate,0.166,Board attendance; Investor conferences; Independent directors (%),虹冠電、揚智、暉盛-創,-0.302
+7822,倍利科,V5 TECHNOLOGIES,半導體業,半導體業,0.263,0.088,-0.686,0.228,0.558,1,Moderate,0.199,Investor conferences; Director training compliance; Female directors (%),來頡、頌勝科技、凌陽創新,-0.57
+5471,松翰,SONIX,半導體業,半導體業,0.198,0.081,-0.71,0.193,0.547,1,Moderate,-0.048,Board attendance; Renewable energy share; Independent directors (%),芯鼎、力智、偉詮電,-0.264
+2458,義隆,ELAN,半導體業,半導體業,0.529,-0.789,-0.325,0.134,0.537,1,Moderate,0.461,Occupational injury rate; Female directors (%); Board attendance,智原、富鼎、瑞昱,0.184
+3094,聯傑,DAVICOM,半導體業,半導體業,-1.635,-0.01,0.85,0.095,0.526,1,Moderate,0.167,Water intensity; GHG intensity (scope 1+2 / revenue); Investor conferences,麗正、統懋、光罩,-0.238
+7769,鴻勁,HON,半導體業,半導體業,0.523,-1.165,-0.064,0.09,0.516,1,Moderate,0.326,Occupational injury rate; Independent directors (%); Female directors (%),瑞鼎、威鋒電子、達發,0.047
+6695,芯鼎,iCatchtek,半導體業,半導體業,-0.133,0.161,-0.869,0.046,0.505,1,Moderate,0.055,Board attendance; Renewable energy share; Independent directors (%),力智、松翰、來頡,-0.373
+6937,天虹,Skytech,半導體業,半導體業,-0.103,-1.268,0.509,0.045,0.495,1,Moderate,0.135,Independent comp. committee (%); GHG intensity (scope 1+2 / revenue); Renewable energy share,京元電子、華東、聯發科,-0.032
+6243,迅杰,ENE,半導體業,半導體業,0.213,-1.397,0.188,-0.01,0.484,1,Moderate,0.366,Occupational injury rate; GHG inventory verified; Renewable energy share,矽統、達能、鈺寶-創,-0.156
+3041,揚智,ALi,半導體業,半導體業,0.17,0.225,-1.414,-0.028,0.474,1,Moderate,-0.017,Board attendance; Female directors (%); Investor conferences,來頡、暉盛-創、虹冠電,-0.39
+2302,麗正,RECTRON,半導體業,半導體業,-1.046,-0.501,0.273,-0.094,0.463,1,Moderate,-0.016,Water intensity; Average employee benefits; Median non-manager salary,聯傑、統懋、光罩,-0.466
+3413,京鼎,Fiti,半導體業,半導體業,-0.906,-0.567,0.107,-0.131,0.453,1,Moderate,0.013,Waste intensity; Board attendance; GHG intensity (scope 1+2 / revenue),虹揚-KY、華邦電、錼創科技-KY創,-0.229
+2330,台積電,TSMC,半導體業,半導體業,-2.909,0.576,0.816,-0.152,0.442,1,Moderate,0.286,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,聯電、采鈺、華邦電,0.055
+7730,暉盛-創,NEMS,半導體業,半導體業,-0.294,-0.247,-0.894,-0.172,0.432,1,Moderate,-0.102,Board attendance; Investor conferences; Median non-manager salary,揚智、來頡、虹冠電,-0.494
+2303,聯電,UMC,半導體業,半導體業,-2.909,0.174,1.081,-0.202,0.421,1,Moderate,0.211,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,采鈺、台積電、華邦電,0.154
+3583,辛耘,Scientech,半導體業,半導體業,-1.335,-0.143,-0.553,-0.375,0.411,0,Poor,-0.138,Water intensity; Audit committee attendance; Female directors (%),新唐、順德、力積電,-0.27
+8150,南茂,ChipMOS,半導體業,半導體業,-2.645,-0.308,0.704,-0.428,0.4,0,Poor,-0.23,GHG intensity (scope 1+2 / revenue); Water intensity; Waste intensity,微矽電子-創、順德、華泰,-0.24
+3711,日月光投控,ASEH,半導體業,半導體業,-2.726,0.325,0.095,-0.451,0.389,0,Poor,0.126,Water intensity; Waste intensity; GHG intensity (scope 1+2 / revenue),南亞科、采鈺、京元電子,0.046
+6573,虹揚-KY,HY,半導體業,半導體業,-1.599,-1.354,0.666,-0.458,0.379,0,Poor,0.132,Waste intensity; GHG intensity (scope 1+2 / revenue); GHG inventory verified,京鼎、茂矽、光罩,-0.482
+6789,采鈺,VisEra,半導體業,半導體業,-2.909,-0.036,0.553,-0.477,0.368,0,Poor,0.074,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,聯電、華邦電、台積電,-0.026
+5222,全訊,TRANSCOM,半導體業,半導體業,-2.01,-0.3,-0.23,-0.55,0.358,0,Poor,-0.505,Water intensity; GHG intensity (scope 1+2 / revenue); Female managers (%),超豐、台勝科、矽格,-0.62
+2434,統懋,MOSPEC,半導體業,半導體業,-2.585,-0.589,0.556,-0.566,0.347,0,Poor,0.002,GHG intensity (scope 1+2 / revenue); Water intensity; Average employee benefits,捷敏-KY、光罩、聯傑,-0.485
+8261,富鼎,APEC,半導體業,半導體業,0.554,-1.7,-1.345,-0.578,0.337,0,Poor,-0.065,Board attendance; Occupational injury rate; Female directors (%),世芯-KY、義隆、穎崴,-0.226
+6257,矽格,SIGURD,半導體業,半導體業,-2.115,-0.652,0.079,-0.602,0.326,0,Poor,-0.364,GHG intensity (scope 1+2 / revenue); Water intensity; Average employee benefits,嘉晶、易華電、全訊,-0.453
+6525,捷敏-KY,GEM,半導體業,半導體業,-2.946,-0.496,0.603,-0.642,0.316,0,Poor,-0.13,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,旺宏、光罩、統懋,-0.469
+2408,南亞科,NTC,半導體業,半導體業,-2.932,0.008,0.07,-0.651,0.305,0,Poor,-0.231,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,強茂、力積電、旺宏,-0.116
+6854,錼創科技-KY創,PlayNitride,半導體業,半導體業,-2.777,0.0,-0.073,-0.653,0.295,0,Poor,-0.316,GHG intensity (scope 1+2 / revenue); Water intensity; Waste intensity,旺宏、景碩、華邦電,-0.481
+2337,旺宏,Macronix,半導體業,半導體業,-2.948,-0.143,0.217,-0.657,0.284,0,Poor,-0.336,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,錼創科技-KY創、捷敏-KY、台勝科,-0.398
+8131,福懋科,FATC,半導體業,半導體業,-2.224,-0.438,-0.201,-0.666,0.274,0,Poor,-0.419,GHG intensity (scope 1+2 / revenue); Water intensity; Average employee benefits,力成、順德、新唐,-0.444
+3016,嘉晶,EPi,半導體業,半導體業,-2.298,-0.407,-0.233,-0.693,0.263,0,Poor,-0.277,GHG intensity (scope 1+2 / revenue); Water intensity; Average employee benefits,矽格、訊芯-KY、新唐,-0.432
+6515,穎崴,WinWay,半導體業,半導體業,-0.82,-1.739,-0.32,-0.694,0.253,0,Poor,-0.205,Waste intensity; Occupational injury rate; Female directors (%),強茂、南亞科、富鼎,-0.326
+4919,新唐,NTC,半導體業,半導體業,-2.435,-0.059,-0.465,-0.7,0.242,0,Poor,-0.293,Water intensity; GHG intensity (scope 1+2 / revenue); Waste intensity,華邦電、順德、錼創科技-KY創,-0.424
+2344,華邦電,WEC,半導體業,半導體業,-2.934,0.11,-0.179,-0.707,0.232,0,Poor,-0.092,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,新唐、采鈺、錼創科技-KY創,-0.339
+3532,台勝科,FST,半導體業,半導體業,-2.957,-0.098,-0.111,-0.767,0.221,0,Poor,-0.519,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,超豐、易華電、旺宏,-0.692
+6271,同欣電,THEIL,半導體業,半導體業,-2.79,-0.677,0.237,-0.791,0.211,0,Poor,-0.264,GHG intensity (scope 1+2 / revenue); Water intensity; Waste intensity,錼創科技-KY創、景碩、旺宏,-0.288
+6770,力積電,PSMC,半導體業,半導體業,-2.947,-0.089,-0.208,-0.797,0.2,0,Poor,-0.359,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,強茂、南亞科、順德,-0.321
+6239,力成,PTI,半導體業,半導體業,-2.684,-0.529,-0.028,-0.799,0.189,0,Poor,-0.315,GHG intensity (scope 1+2 / revenue); Water intensity; Waste intensity,順德、福懋科、微矽電子-創,-0.573
+6451,訊芯-KY,ShunSin,半導體業,半導體業,-2.947,0.012,-0.326,-0.803,0.179,0,Poor,-0.192,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,台亞、嘉晶、微矽電子-創,-0.608
+2441,超豐,GTK,半導體業,半導體業,-2.885,-0.334,-0.111,-0.829,0.168,0,Poor,-0.526,GHG intensity (scope 1+2 / revenue); Water intensity; Waste intensity,台勝科、易華電、全訊,-0.703
+8110,華東,WALTON,半導體業,半導體業,-2.411,-0.447,-0.477,-0.84,0.158,0,Poor,-0.318,GHG intensity (scope 1+2 / revenue); Water intensity; Independent comp. committee (%),嘉晶、微矽電子-創、新唐,-0.759
+8162,微矽電子-創,MSEC,半導體業,半導體業,-2.952,-0.54,0.113,-0.844,0.147,0,Poor,-0.468,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,南茂、順德、易華電,-0.587
+8028,昇陽半導體,PSI,半導體業,半導體業,-2.939,-0.279,-0.224,-0.87,0.137,0,Poor,-0.445,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,超豐、順德、台勝科,-0.609
+5285,界霖,Jih Lin,半導體業,半導體業,-1.167,-2.401,0.161,-0.882,0.126,0,Poor,-0.327,Water intensity; Occupational injury rate; Average employee benefits,光罩、華泰、矽格,-0.463
+2340,台亞,TASC,半導體業,半導體業,-2.961,-0.608,0.041,-0.9,0.116,0,Poor,-0.378,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,菱生、光罩、訊芯-KY,-0.748
+2481,強茂,PANJIT,半導體業,半導體業,-2.697,-0.987,-0.095,-0.998,0.105,0,Poor,-0.454,GHG intensity (scope 1+2 / revenue); Water intensity; Waste intensity,南亞科、力積電、順德,-0.353
+6552,易華電,JMC,半導體業,半導體業,-2.985,-1.013,0.139,-1.021,0.095,0,Poor,-0.542,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,菱生、超豐、微矽電子-創,-0.773
+2351,順德,SDI,半導體業,半導體業,-2.922,-0.869,-0.097,-1.035,0.084,0,Poor,-0.417,GHG intensity (scope 1+2 / revenue); Water intensity; Waste intensity,微矽電子-創、力成、南茂,-0.619
+2369,菱生,LPI,半導體業,半導體業,-2.958,-0.533,-0.41,-1.041,0.074,0,Poor,-0.623,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,易華電、台亞、超豐,-0.772
+2338,光罩,TMC,半導體業,半導體業,-2.603,-1.553,0.242,-1.047,0.063,0,Poor,-0.157,Water intensity; Waste intensity; GHG intensity (scope 1+2 / revenue),台亞、捷敏-KY、易華電,-0.803
+2329,華泰,OSE,半導體業,半導體業,-2.936,-1.87,0.831,-1.061,0.053,0,Poor,-0.132,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,南茂、微矽電子-創、易華電,-0.311
+3450,聯鈞,ELASER,半導體業,半導體業,-2.951,-1.213,0.095,-1.1,0.042,0,Poor,-0.313,GHG intensity (scope 1+2 / revenue); Average employee benefits; Median non-manager salary,茂矽、矽格、易華電,-0.432
+2449,京元電子,KYEC,半導體業,半導體業,-2.469,-1.616,-0.255,-1.209,0.032,0,Poor,-0.25,GHG intensity (scope 1+2 / revenue); Water intensity; Female directors (%),強茂、南亞科、福懋科,-0.564
+2342,茂矽,MVI,半導體業,半導體業,-2.936,-1.55,-0.105,-1.294,0.021,0,Poor,-0.371,Waste intensity; GHG intensity (scope 1+2 / revenue); Occupational injury rate,台亞、光罩、易華電,-0.767
+3189,景碩,KINSUS,半導體業,半導體業,-2.956,-0.722,-1.008,-1.335,0.011,0,Poor,-0.546,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,錼創科技-KY創、昇陽半導體、順德,-0.784
+1906,寶隆,Baolong Intl.,造紙工業,原物料（水泥、玻璃、造紙、橡膠、油電）,0.694,0.687,0.83,1.172,1.0,2,Excellent,0.54,Female managers (%),嘉泥、泰豐、台橡,0.511
+1103,嘉泥,CHC,水泥工業,原物料（水泥、玻璃、造紙、橡膠、油電）,0.13,0.891,0.365,0.872,0.973,2,Excellent,0.549,Independent comp. committee (%),亞泥、寶隆、台橡,0.44
+9931,欣高,HSIN KAO,油電燃氣,原物料（水泥、玻璃、造紙、橡膠、油電）,0.609,0.651,0.004,0.818,0.946,2,Excellent,0.249,Female directors (%); Energy management certified,山隆、嘉泥、欣天然,0.203
+1110,東泥,SE CEMENT,水泥工業,原物料（水泥、玻璃、造紙、橡膠、油電）,0.641,0.463,0.074,0.786,0.919,2,Excellent,0.415,Independent directors (%); Female managers (%); Energy management certified,南帝、寶隆、新海,0.086
+2102,泰豐,FEDERAL CORP,橡膠工業,原物料（水泥、玻璃、造紙、橡膠、油電）,-0.407,0.32,0.621,0.567,0.892,2,Excellent,0.529,Director training compliance; GHG inventory verified; GHG intensity (scope 1+2 / revenue),士紙、寶隆、冠軍,-0.255
+1903,士紙,Shihlin Paper,造紙工業,原物料（水泥、玻璃、造紙、橡膠、油電）,0.643,0.178,-0.324,0.532,0.865,2,Excellent,0.705,Director training compliance; Independent comp. committee (%); GHG inventory verified,泰豐、新海、中釉,-0.367
+2108,南帝,NANTEX,橡膠工業,原物料（水泥、玻璃、造紙、橡膠、油電）,0.356,0.732,-0.618,0.525,0.838,2,Excellent,0.472,Independent directors (%); Audit committee attendance; Female managers (%),欣天然、東泥、中釉,0.065
+9926,新海,S.H.,油電燃氣,原物料（水泥、玻璃、造紙、橡膠、油電）,0.636,1.098,-1.256,0.52,0.811,2,Excellent,0.681,Board attendance; Independent directors (%); GHG inventory verified,欣天然、士紙、大台北,-0.113
+9918,欣天然,S.S.N.G,油電燃氣,原物料（水泥、玻璃、造紙、橡膠、油電）,0.671,0.773,-0.987,0.513,0.784,2,Excellent,0.55,Audit committee attendance; Independent directors (%); Independent comp. committee (%),中釉、新海、士紙,-0.203
+9908,大台北,GTG,油電燃氣,原物料（水泥、玻璃、造紙、橡膠、油電）,-0.5,0.915,-0.401,0.37,0.757,2,Excellent,0.333,Waste intensity; GHG inventory verified; Energy management certified,新海、台塑化、和成,-0.086
+1102,亞泥,ACC,水泥工業,原物料（水泥、玻璃、造紙、橡膠、油電）,-0.629,0.712,-0.216,0.319,0.73,2,Excellent,0.277,GHG intensity (scope 1+2 / revenue); Independent comp. committee (%); Female directors (%),嘉泥、台汽電、台塑化,0.042
+2114,鑫永銓,HYC,橡膠工業,原物料（水泥、玻璃、造紙、橡膠、油電）,-0.08,0.246,-0.279,0.317,0.703,2,Excellent,0.289,Median non-manager salary; Waste intensity; Average employee benefits,和成、南帝、嘉泥,0.053
+2616,山隆,SLC,油電燃氣,原物料（水泥、玻璃、造紙、橡膠、油電）,0.59,-0.317,-0.441,0.286,0.676,2,Excellent,0.078,Female directors (%); Average employee benefits; Median non-manager salary,全國、華豐、欣天然,-0.151
+2103,台橡,TSRC,橡膠工業,原物料（水泥、玻璃、造紙、橡膠、油電）,-0.862,-0.311,0.624,0.174,0.649,1,Moderate,0.101,Occupational injury rate; Water intensity; GHG intensity (scope 1+2 / revenue),永豐實、華紙、永豐餘,0.365
+1809,中釉,China Glaze,玻璃陶瓷,原物料（水泥、玻璃、造紙、橡膠、油電）,0.257,0.237,-1.0,0.163,0.622,1,Moderate,0.376,Audit committee attendance; Independent comp. committee (%); Board attendance,欣天然、和成、士紙,-0.482
+6582,申豐,Shin Foong,橡膠工業,原物料（水泥、玻璃、造紙、橡膠、油電）,-1.249,0.052,0.387,0.081,0.595,1,Moderate,-0.319,Waste intensity; Median non-manager salary; GHG intensity (scope 1+2 / revenue),冠軍、幸福、榮成,-0.195
+1817,凱撒衛,SANITAR,玻璃陶瓷,原物料（水泥、玻璃、造紙、橡膠、油電）,0.642,-1.643,0.104,0.019,0.568,1,Moderate,0.071,Occupational injury rate; GHG inventory verified; Female directors (%),建大、華豐、全國,-0.197
+8926,台汽電,TCC,油電燃氣,原物料（水泥、玻璃、造紙、橡膠、油電）,-2.214,1.21,-0.28,-0.083,0.541,1,Moderate,0.019,GHG intensity (scope 1+2 / revenue); Waste intensity; Independent comp. committee (%),台塑化、亞泥、永豐餘,-0.314
+2106,建大,KENDA,橡膠工業,原物料（水泥、玻璃、造紙、橡膠、油電）,0.507,-2.006,0.195,-0.129,0.514,1,Moderate,0.096,Occupational injury rate; GHG inventory verified; Median non-manager salary,正新、凱撒衛、華豐,-0.099
+1108,幸福,LUCKY CEMENT,水泥工業,原物料（水泥、玻璃、造紙、橡膠、油電）,-2.032,0.101,0.513,-0.131,0.486,1,Moderate,-0.109,Water intensity; GHG intensity (scope 1+2 / revenue); Independent comp. committee (%),冠軍、信大、申豐,-0.397
+2101,南港,NK,橡膠工業,原物料（水泥、玻璃、造紙、橡膠、油電）,-0.209,-1.745,0.44,-0.194,0.459,1,Moderate,-0.121,Occupational injury rate; Waste intensity; Energy management certified,永豐實、台橡、厚生,0.018
+2105,正新,CST,橡膠工業,原物料（水泥、玻璃、造紙、橡膠、油電）,0.564,-1.951,-0.291,-0.271,0.432,1,Moderate,0.021,Occupational injury rate; Independent comp. committee (%); Female directors (%),建大、厚生、台玻,-0.243
+6790,永豐實,YFYCPG,造紙工業,原物料（水泥、玻璃、造紙、橡膠、油電）,-1.038,-1.67,0.891,-0.291,0.405,1,Moderate,-0.158,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Water intensity,台橡、華紙、台泥,0.262
+2107,厚生,FRG,橡膠工業,原物料（水泥、玻璃、造紙、橡膠、油電）,0.17,-1.909,-0.016,-0.292,0.378,1,Moderate,-0.246,Occupational injury rate; Independent comp. committee (%); Female directors (%),正新、南港、永豐實,-0.17
+6505,台塑化,FPCC,油電燃氣,原物料（水泥、玻璃、造紙、橡膠、油電）,-1.937,0.817,-0.793,-0.323,0.351,1,Moderate,0.089,GHG intensity (scope 1+2 / revenue); Waste intensity; Board attendance,台汽電、榮成、正隆,-0.321
+1810,和成,HCG,玻璃陶瓷,原物料（水泥、玻璃、造紙、橡膠、油電）,-0.734,0.004,-1.197,-0.349,0.324,1,Moderate,0.323,Waste intensity; Board attendance; Audit committee attendance,中釉、鑫永銓、榮成,-0.675
+9937,全國,NPC,油電燃氣,原物料（水泥、玻璃、造紙、橡膠、油電）,0.47,-2.46,0.023,-0.375,0.297,1,Moderate,-0.138,Occupational injury rate; Average employee benefits; Median non-manager salary,華豐、山隆、建大,-0.296
+1104,環泥,UCC,水泥工業,原物料（水泥、玻璃、造紙、橡膠、油電）,-1.042,-1.723,0.455,-0.477,0.27,1,Moderate,-0.142,Occupational injury rate; Waste intensity; Independent comp. committee (%),正隆、冠軍、華紙,-0.351
+2109,華豐,HWA FONG,橡膠工業,原物料（水泥、玻璃、造紙、橡膠、油電）,0.184,-2.237,-0.66,-0.65,0.243,0,Poor,-0.102,Occupational injury rate; Median non-manager salary; Average employee benefits,全國、建大、凱撒衛,-0.511
+1904,正隆,Cheng Loong,造紙工業,原物料（水泥、玻璃、造紙、橡膠、油電）,-1.698,-1.156,-0.109,-0.711,0.216,0,Poor,-0.16,GHG intensity (scope 1+2 / revenue); Waste intensity; Occupational injury rate,冠軍、華紙、榮成,-0.397
+1907,永豐餘,YFY,造紙工業,原物料（水泥、玻璃、造紙、橡膠、油電）,-2.91,-0.713,0.387,-0.791,0.189,0,Poor,-0.234,Water intensity; GHG intensity (scope 1+2 / revenue); Waste intensity,華紙、台泥、永豐實,-0.052
+1806,冠軍,CHAMPION,玻璃陶瓷,原物料（水泥、玻璃、造紙、橡膠、油電）,-2.978,-0.992,0.613,-0.834,0.162,0,Poor,-0.248,Water intensity; GHG intensity (scope 1+2 / revenue); Waste intensity,華紙、榮成、永豐餘,-0.45
+1909,榮成,Longchen P&P,造紙工業,原物料（水泥、玻璃、造紙、橡膠、油電）,-2.978,-0.015,-0.751,-0.985,0.135,0,Poor,-0.081,Water intensity; GHG intensity (scope 1+2 / revenue); Waste intensity,冠軍、台塑化、華紙,-0.629
+1109,信大,HsingTa,水泥工業,原物料（水泥、玻璃、造紙、橡膠、油電）,-1.098,-2.049,-0.548,-0.994,0.108,0,Poor,-0.236,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Independent comp. committee (%),台玻、幸福、華豐,-0.679
+1101,台泥,TCC,水泥工業,原物料（水泥、玻璃、造紙、橡膠、油電）,-2.817,-1.613,0.502,-1.047,0.081,0,Poor,-0.269,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Waste intensity,華紙、永豐餘、永豐實,-0.337
+1905,華紙,CHP,造紙工業,原物料（水泥、玻璃、造紙、橡膠、油電）,-2.91,-1.812,0.639,-1.102,0.054,0,Poor,-0.339,Occupational injury rate; Water intensity; GHG intensity (scope 1+2 / revenue),永豐餘、台泥、永豐實,-0.236
+1802,台玻,TGI,玻璃陶瓷,原物料（水泥、玻璃、造紙、橡膠、油電）,-2.931,-2.002,-1.522,-1.992,0.027,0,Poor,0.182,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Board attendance,信大、正新、正隆,-1.128
+1324,地球,GLOBE TAPE,塑膠工業,塑膠工業,0.418,-0.623,1.167,0.716,1.0,2,Excellent,0.828,Female managers (%); Median non-manager salary,恆大、再生-KY、富林-KY,0.009
+1325,恆大,UK,塑膠工業,塑膠工業,0.223,-0.768,1.303,0.644,0.952,2,Excellent,0.888,Director training compliance; Average employee benefits; Median non-manager salary,地球、炎洲、勝悅-KY,-0.013
+1337,再生-KY,Asia Plastic,塑膠工業,塑膠工業,1.007,-0.007,-0.201,0.639,0.905,2,Excellent,0.342,Female managers (%); Board attendance; Female directors (%),大洋、地球、永裕,-0.232
+1309,台達化,TTC,塑膠工業,塑膠工業,0.209,0.11,0.378,0.617,0.857,2,Excellent,0.346,Board attendance; Independent directors (%),南亞、亞聚、台塑,0.316
+1340,勝悅-KY,VICTORY,塑膠工業,塑膠工業,-0.548,0.018,0.399,0.322,0.81,1,Moderate,0.575,Female directors (%); GHG intensity (scope 1+2 / revenue); Independent directors (%),恆大、台苯、炎洲,0.02
+1341,富林-KY,FULIN-KY,塑膠工業,塑膠工業,-0.767,-0.273,0.811,0.291,0.762,1,Moderate,0.254,Waste intensity; Female directors (%),地球、台苯、國喬,0.066
+1313,聯成,UPC,塑膠工業,塑膠工業,0.002,-0.125,-0.111,0.273,0.714,1,Moderate,-0.309,Independent directors (%); Female directors (%); Occupational injury rate,三芳、達新、台聚,0.325
+1304,台聚,USI,塑膠工業,塑膠工業,0.517,0.117,-0.858,0.264,0.667,1,Moderate,-0.296,Female directors (%); Female managers (%); Audit committee attendance,亞聚、台化、華夏,-0.01
+1308,亞聚,APC,塑膠工業,塑膠工業,0.033,0.201,-0.511,0.254,0.619,1,Moderate,-0.266,Female directors (%); Female managers (%); Board attendance,台聚、華夏、台塑,0.027
+1307,三芳,SAN FANG,塑膠工業,塑膠工業,0.652,-1.17,0.221,0.241,0.571,1,Moderate,-0.133,Independent comp. committee (%); Occupational injury rate; Female directors (%),聯成、永裕、達新,0.06
+1315,達新,TAH HSIN,塑膠工業,塑膠工業,0.893,-0.477,-1.176,0.059,0.524,1,Moderate,-0.028,Female directors (%); Independent directors (%); Board attendance,永裕、聯成、炎洲,0.005
+1310,台苯,T.S.M.C.,塑膠工業,塑膠工業,-1.507,-0.002,0.413,-0.02,0.476,1,Moderate,0.099,Waste intensity; GHG intensity (scope 1+2 / revenue); Independent directors (%),國喬、台塑、勝悅-KY,-0.133
+1303,南亞,NPC,塑膠工業,塑膠工業,-0.93,-0.417,0.105,-0.085,0.429,1,Moderate,-0.074,Independent directors (%); Waste intensity; GHG intensity (scope 1+2 / revenue),台塑、華夏、台達化,-0.018
+1326,台化,FCFC,塑膠工業,塑膠工業,-0.806,0.249,-1.067,-0.235,0.381,0,Poor,-0.498,Female directors (%); GHG intensity (scope 1+2 / revenue); Audit committee attendance,台塑、亞聚、中石化,-0.408
+1301,台塑,FPC,塑膠工業,塑膠工業,-1.764,0.322,-0.416,-0.303,0.333,0,Poor,-0.147,Audit committee attendance; GHG intensity (scope 1+2 / revenue); Independent directors (%),南亞、台化、中石化,-0.308
+1321,大洋,OPC,塑膠工業,塑膠工業,0.597,-2.049,-0.368,-0.324,0.286,0,Poor,0.432,Occupational injury rate; Audit committee attendance; Independent directors (%),炎洲、再生-KY、永裕,-0.469
+4306,炎洲,YC,塑膠工業,塑膠工業,0.275,-2.161,-0.202,-0.418,0.238,0,Poor,0.638,Occupational injury rate; Director training compliance; Female directors (%),恆大、大洋、永裕,-0.421
+1312,國喬,GPPC,塑膠工業,塑膠工業,-2.008,-0.505,0.083,-0.508,0.19,0,Poor,-0.083,Water intensity; Waste intensity; Female directors (%),台苯、華夏、台塑,-0.35
+1323,永裕,YONYU,塑膠工業,塑膠工業,0.627,-2.028,-0.918,-0.513,0.143,0,Poor,0.254,Female directors (%); Independent comp. committee (%); Occupational injury rate,達新、炎洲、三芳,-0.639
+1305,華夏,CGPC,塑膠工業,塑膠工業,-1.225,-0.998,-0.518,-0.639,0.095,0,Poor,-0.109,Water intensity; Female directors (%); Occupational injury rate,亞聚、台塑、南亞,-0.354
+1314,中石化,CPDC,塑膠工業,塑膠工業,-1.529,-0.074,-1.184,-0.655,0.048,0,Poor,-0.161,Board attendance; Waste intensity; Female directors (%),台塑、華夏、南亞,-0.506
+2536,宏普,Hong Pu,建材營造,建材營造,0.694,0.781,1.317,1.389,1.0,2,Excellent,0.81,Investor conferences; GHG inventory verified,昇陽、長虹、上曜,0.695
+5534,長虹,CHONG HONG,建材營造,建材營造,0.692,0.468,0.488,0.962,0.982,2,Excellent,0.579,Independent directors (%); Waste intensity; GHG inventory verified,華固、聯上發、宏普,0.409
+3266,昇陽,SUNTY,建材營造,建材營造,0.515,0.314,0.637,0.898,0.964,2,Excellent,0.797,Female directors (%); Female managers (%); Average employee benefits,皇普、宏普、華固,0.365
+2548,華固,HUAKU,建材營造,建材營造,0.465,1.133,-0.138,0.892,0.945,2,Excellent,0.676,Independent directors (%); Board attendance; Audit committee attendance,長虹、遠雄、華建,0.613
+2537,聯上發,WE & WIN,建材營造,建材營造,0.538,-0.012,0.691,0.806,0.927,2,Excellent,0.351,Average employee benefits; Independent directors (%); Investor conferences,欣巴巴、長虹、名軒,0.296
+2505,國揚,ky,建材營造,建材營造,0.64,0.813,-0.383,0.744,0.909,2,Excellent,0.204,Independent directors (%); Female managers (%); Female directors (%),華固、冠德、長虹,0.147
+3052,夆典,APEX,建材營造,建材營造,0.529,-0.255,0.746,0.733,0.891,2,Excellent,0.477,Independent comp. committee (%); Median non-manager salary; Average employee benefits,皇普、興富發、三洋實業,0.183
+1316,上曜,SUN  YAD,建材營造,建材營造,-0.647,-0.028,1.574,0.711,0.873,2,Excellent,0.399,GHG intensity (scope 1+2 / revenue); Median non-manager salary; Director training compliance,達麗、欣陸、宏普,0.327
+2528,皇普,CROWELL,建材營造,建材營造,0.714,0.1,0.13,0.699,0.855,2,Excellent,0.526,Female directors (%); Audit committee attendance; Average employee benefits,昇陽、愛山林、夆典,0.176
+1442,名軒,ADVANCETEK,建材營造,建材營造,0.661,-0.045,0.255,0.673,0.836,2,Excellent,0.444,Median non-manager salary; Independent directors (%); Investor conferences,聯上發、華友聯、雋揚,0.377
+1436,華友聯,HUA YU LIEN,建材營造,建材營造,0.586,0.086,-0.176,0.534,0.818,2,Excellent,0.334,Female directors (%); Investor conferences; Average employee benefits,永固-KY、名軒、皇普,0.192
+2540,愛山林,JSL,建材營造,建材營造,0.333,0.379,-0.313,0.5,0.8,2,Excellent,0.421,Audit committee attendance; Board attendance; Median non-manager salary,京城、皇普、三地開發,0.095
+2530,華建,DELPHA,建材營造,建材營造,0.189,0.247,-0.148,0.463,0.782,2,Excellent,0.414,Female directors (%); Waste intensity; Independent directors (%),雋揚、華固、建國,0.21
+9906,欣巴巴,HSIN BA BA,建材營造,建材營造,0.01,-0.471,0.583,0.408,0.764,1,Moderate,0.111,Average employee benefits; Median non-manager salary; Audit committee attendance,聯上發、名軒、雋揚,0.155
+1805,寶徠,BLG,建材營造,建材營造,0.423,0.003,-0.368,0.373,0.745,1,Moderate,-0.079,Independent directors (%); Board attendance; Audit committee attendance,皇翔、三地開發、冠德,-0.095
+5546,永固-KY,YGI,建材營造,建材營造,0.705,0.003,-0.658,0.364,0.727,1,Moderate,-0.014,Board attendance; Female directors (%); Independent directors (%),三地開發、中工、華友聯,0.009
+2520,冠德,KINDOM,建材營造,建材營造,0.609,0.278,-0.973,0.313,0.709,1,Moderate,0.049,Independent directors (%); Board attendance; Female managers (%),建國、華固、中工,0.061
+2524,京城,KTC,建材營造,建材營造,0.567,0.014,-0.713,0.298,0.691,1,Moderate,0.199,Director training compliance; Board attendance; Audit committee attendance,愛山林、三地開發、全坤建,-0.197
+5519,隆大,LD,建材營造,建材營造,-0.792,0.425,0.028,0.247,0.673,1,Moderate,0.33,Waste intensity; Audit committee attendance; Female managers (%),雋揚、華固、三發地產,0.124
+2542,興富發,Highwealth,建材營造,建材營造,-0.784,0.118,0.296,0.237,0.655,1,Moderate,0.213,GHG intensity (scope 1+2 / revenue); Independent comp. committee (%); Waste intensity,潤隆、櫻花建、夆典,-0.081
+5533,皇鼎,FOUNDING,建材營造,建材營造,0.529,-0.091,-0.766,0.226,0.636,1,Moderate,-0.106,Independent directors (%); Independent comp. committee (%); Director training compliance,基泰、全坤建、皇翔,-0.369
+2539,櫻花建,SAKURAD,建材營造,建材營造,-0.976,0.174,0.392,0.225,0.618,1,Moderate,0.123,Waste intensity; Independent comp. committee (%); Independent directors (%),潤隆、興富發、隆大,-0.089
+1439,雋揚,ASCENT,建材營造,建材營造,-0.313,-0.031,-0.088,0.204,0.6,1,Moderate,0.418,Median non-manager salary; Female directors (%); Independent directors (%),華建、日勝生、隆大,0.254
+2534,宏盛,HSC,建材營造,建材營造,-0.245,-0.123,-0.083,0.196,0.582,1,Moderate,0.096,Audit committee attendance; Female managers (%); Average employee benefits,國產、雋揚、隆大,-0.163
+3703,欣陸,CHC,建材營造,建材營造,-2.079,0.226,1.171,0.146,0.564,1,Moderate,0.188,Water intensity; GHG intensity (scope 1+2 / revenue); Female managers (%),三發地產、達麗、鄉林,0.413
+3056,富華新,Fu Hua,建材營造,建材營造,-0.229,-0.332,-0.171,0.091,0.545,1,Moderate,-0.449,Independent directors (%); Median non-manager salary; Water intensity,新建、怡華、太子,-0.175
+5522,遠雄,Farglory,建材營造,建材營造,-0.973,0.928,-0.74,0.08,0.527,1,Moderate,0.238,Board attendance; Water intensity; Waste intensity,華固、達欣工、新美齊,0.153
+1438,三地開發,SanDi,建材營造,建材營造,0.36,-0.359,-0.805,0.052,0.509,1,Moderate,-0.305,Board attendance; Median non-manager salary; Audit committee attendance,寶徠、京城、永固-KY,-0.29
+1472,三洋實業,TRIOCEAN,建材營造,建材營造,-1.062,-0.136,0.152,-0.011,0.491,1,Moderate,0.075,Water intensity; Average employee benefits; Waste intensity,鄉林、皇昌、達麗,-0.071
+6177,達麗,"DA-LI CO.,LTD.",建材營造,建材營造,-2.136,0.148,0.795,-0.045,0.473,1,Moderate,0.1,Water intensity; GHG intensity (scope 1+2 / revenue); Waste intensity,三發地產、欣陸、鄉林,-0.076
+2535,達欣工,DA-CIN,建材營造,建材營造,-0.026,-0.354,-0.722,-0.052,0.455,1,Moderate,0.226,Female directors (%); Board attendance; Occupational injury rate,華固、中工、遠雄,-0.059
+2545,皇翔,HUANG HSIANG,建材營造,建材營造,-0.547,0.396,-0.991,-0.06,0.436,1,Moderate,0.083,Audit committee attendance; Independent comp. committee (%); Independent directors (%),全坤建、寶徠、基泰,-0.438
+2509,全坤建,CHAINQUI,建材營造,建材營造,-0.152,-0.267,-1.033,-0.181,0.418,1,Moderate,-0.037,Audit committee attendance; Independent comp. committee (%); Board attendance,皇翔、皇鼎、京城,-0.541
+2547,日勝生,RADIUM,建材營造,建材營造,-0.247,-1.251,0.022,-0.182,0.4,1,Moderate,0.388,GHG intensity (scope 1+2 / revenue); Occupational injury rate; Female directors (%),國建、國產、雋揚,0.111
+2538,基泰,KeeTai,建材營造,建材營造,-0.208,0.29,-1.619,-0.215,0.382,1,Moderate,-0.253,Independent directors (%); Director training compliance; Board attendance,皇鼎、冠德、皇翔,-0.749
+5515,建國,CHIEN KUO,建材營造,建材營造,0.267,-1.262,-0.545,-0.217,0.364,1,Moderate,-0.055,Independent directors (%); Occupational injury rate; Female directors (%),根基、國建、國產,-0.107
+2515,中工,BES,建材營造,建材營造,0.135,-0.972,-1.003,-0.329,0.345,0,Poor,0.133,Board attendance; Occupational injury rate; Female directors (%),國產、冠德、達欣工,-0.145
+2442,新美齊,JEAN,建材營造,建材營造,-1.862,0.56,-0.695,-0.355,0.327,0,Poor,-0.086,Waste intensity; Water intensity; Female directors (%),隆大、順天、遠雄,-0.317
+9946,三發地產,SANFAR,建材營造,建材營造,-2.947,0.213,0.648,-0.363,0.309,0,Poor,0.061,Waste intensity; Water intensity; GHG intensity (scope 1+2 / revenue),達麗、欣陸、鼎固-KY,0.006
+2506,太設,PCC,建材營造,建材營造,-1.537,-0.556,-0.171,-0.456,0.291,0,Poor,-0.558,Waste intensity; Independent directors (%); Average employee benefits,工信、鼎固-KY、潤隆,-0.436
+2501,國建,CATHAY RED,建材營造,建材營造,-0.46,-1.477,-0.445,-0.517,0.273,0,Poor,0.108,Independent directors (%); Occupational injury rate; GHG intensity (scope 1+2 / revenue),國產、建國、日勝生,-0.095
+2511,太子,PHD,建材營造,建材營造,-1.843,-0.259,-0.412,-0.545,0.255,0,Poor,-0.242,Water intensity; GHG intensity (scope 1+2 / revenue); Independent directors (%),怡華、鄉林、宏璟,-0.291
+2527,宏璟,Hung Ching,建材營造,建材營造,-2.23,0.213,-0.603,-0.579,0.236,0,Poor,-0.338,Independent directors (%); Water intensity; GHG intensity (scope 1+2 / revenue),順天、太子、鼎固-KY,-0.477
+2543,皇昌,HWANG CHANG,建材營造,建材營造,-2.133,-0.484,-0.236,-0.665,0.218,0,Poor,-0.39,Water intensity; GHG intensity (scope 1+2 / revenue); Median non-manager salary,鄉林、怡華、鼎固-KY,-0.543
+1808,潤隆,RUN LONG,建材營造,建材營造,-1.953,-0.926,-0.034,-0.688,0.2,0,Poor,-0.103,Waste intensity; GHG intensity (scope 1+2 / revenue); Independent comp. committee (%),興富發、櫻花建、鼎固-KY,-0.587
+5521,工信,KSECO,建材營造,建材營造,-1.375,-1.09,-0.428,-0.692,0.182,0,Poor,-0.698,Waste intensity; Median non-manager salary; Average employee benefits,太設、新建、鼎固-KY,-0.644
+1453,大將,TA  JIANG,建材營造,建材營造,-2.029,-0.549,-0.379,-0.706,0.164,0,Poor,-0.377,Water intensity; GHG intensity (scope 1+2 / revenue); Director training compliance,鄉林、皇昌、太子,-0.698
+2546,根基,KEDGE,建材營造,建材營造,-0.408,-1.816,-0.8,-0.757,0.145,0,Poor,-0.303,Independent directors (%); Occupational injury rate; Average employee benefits,建國、國產、國建,-0.412
+1456,怡華,I-HWA,建材營造,建材營造,-2.038,-0.971,-0.209,-0.801,0.127,0,Poor,-0.425,Water intensity; GHG intensity (scope 1+2 / revenue); Independent directors (%),皇昌、鄉林、太子,-0.55
+2923,鼎固-KY,Sino Horizon,建材營造,建材營造,-2.981,-0.006,-0.44,-0.865,0.109,0,Poor,-0.439,Waste intensity; Water intensity; GHG intensity (scope 1+2 / revenue),怡華、宏璟、順天,-0.656
+5531,鄉林,Shining,建材營造,建材營造,-2.972,-0.448,-0.142,-0.914,0.091,0,Poor,-0.279,Water intensity; GHG intensity (scope 1+2 / revenue); Median non-manager salary,皇昌、怡華、太子,-0.495
+2597,潤弘,REC,建材營造,建材營造,-1.04,-1.884,-0.956,-1.065,0.073,0,Poor,-0.212,GHG intensity (scope 1+2 / revenue); Independent directors (%); Occupational injury rate,國產、國建、潤隆,-0.584
+5525,順天,SWEETEN,建材營造,建材營造,-2.845,0.288,-1.405,-1.071,0.055,0,Poor,-0.406,Independent directors (%); Water intensity; GHG intensity (scope 1+2 / revenue),宏璟、鼎固-KY、太子,-0.617
+2516,新建,New Asia,建材營造,建材營造,-1.577,-1.06,-1.389,-1.113,0.036,0,Poor,-0.796,Water intensity; Median non-manager salary; Independent directors (%),工信、根基、皇昌,-0.885
+2504,國產,GBM,建材營造,建材營造,-2.124,-1.532,-0.935,-1.311,0.018,0,Poor,0.03,GHG intensity (scope 1+2 / revenue); Independent directors (%); Occupational injury rate,國建、建國、日勝生,-0.44
+2227,裕日車,YNM,汽車工業,汽車工業,0.75,1.529,-0.521,0.996,1.0,2,Excellent,0.763,Independent directors (%); Renewable energy share; Female directors (%),神數、三陽工業、和泰車,0.472
+2207,和泰車,HOTAI MOTOR,汽車工業,汽車工業,0.781,1.559,-0.644,0.972,0.977,2,Excellent,0.831,Independent directors (%),裕日車、神數、裕隆,0.557
+2243,宏旭-KY,HS,汽車工業,汽車工業,0.842,0.655,0.015,0.906,0.953,2,Excellent,0.195,Median non-manager salary; Average employee benefits; Renewable energy share,百達-KY、瑞利、吉茂,0.052
+2258,鴻華先進-創,Foxtron,汽車工業,汽車工業,0.345,0.903,0.186,0.886,0.93,2,Excellent,0.673,Renewable energy share; Occupational injury rate; Female managers (%),三陽工業、裕日車、神數,0.596
+7821,神數,MDT,汽車工業,汽車工業,0.659,0.51,-0.077,0.753,0.907,2,Excellent,0.723,Renewable energy share; Occupational injury rate; Independent directors (%),裕日車、和泰車、三陽工業,0.369
+2497,怡利電,E-LEAD,汽車工業,汽車工業,0.473,0.664,-0.082,0.742,0.884,2,Excellent,0.631,Renewable energy share; Median non-manager salary; Average employee benefits,汎德永業、裕日車、百達-KY,0.196
+2236,百達-KY,Patec,汽車工業,汽車工業,0.842,0.664,-0.44,0.739,0.86,2,Excellent,0.184,Board attendance; Median non-manager salary; Average employee benefits,宏旭-KY、吉茂、瑞利,0.058
+2254,巨鎧精密-創,COPLUS,汽車工業,汽車工業,0.6,0.052,0.034,0.605,0.837,2,Excellent,-0.234,Median non-manager salary; Average employee benefits; Renewable energy share,車王電、吉茂、虎山,0.027
+1512,瑞利,JL,汽車工業,汽車工業,0.734,0.265,-0.328,0.595,0.814,2,Excellent,-0.003,Average employee benefits; Median non-manager salary; Renewable energy share,宏旭-KY、百達-KY、吉茂,-0.131
+2206,三陽工業,SYM,汽車工業,汽車工業,-0.021,0.765,-0.18,0.568,0.791,2,Excellent,0.638,Renewable energy share; Waste intensity; Female directors (%),鴻華先進-創、裕日車、裕隆,0.421
+2201,裕隆,YL,汽車工業,汽車工業,0.441,0.297,-0.225,0.542,0.767,2,Excellent,0.705,Independent directors (%); Occupational injury rate; Female managers (%),中華、三陽工業、和泰車,0.542
+2247,汎德永業,PGUM,汽車工業,汽車工業,0.643,0.749,-0.912,0.522,0.744,2,Excellent,0.515,Audit committee attendance; Renewable energy share; Female directors (%),怡利電、裕日車、三陽工業,-0.102
+1533,車王電,MORE,汽車工業,汽車工業,0.415,0.105,-0.335,0.42,0.721,2,Excellent,-0.063,Median non-manager salary; Average employee benefits; Renewable energy share,巨鎧精密-創、倉佑、吉茂,0.067
+1587,吉茂,CM,汽車工業,汽車工業,0.173,-0.023,-0.081,0.382,0.698,2,Excellent,-0.312,Median non-manager salary; Average employee benefits; Renewable energy share,百達-KY、虎山、宏旭-KY,-0.094
+7736,虎山,HUSHAN,汽車工業,汽車工業,-0.661,-0.252,0.923,0.379,0.674,2,Excellent,-0.361,Median non-manager salary; Water intensity; Average employee benefits,吉茂、廣華-KY、昭輝,0.04
+2233,宇隆,TURVO,汽車工業,汽車工業,-0.213,0.455,-0.259,0.355,0.651,2,Excellent,-0.043,Independent comp. committee (%); Renewable energy share; Median non-manager salary,倉佑、IKKA-KY、裕日車,-0.203
+4557,永新-KY,Yusin,汽車工業,汽車工業,-0.684,0.663,-0.069,0.337,0.628,2,Excellent,0.248,Waste intensity; Median non-manager salary; Average employee benefits,金興精密、IKKA-KY、華勝-KY,0.018
+4581,光隆精密-KY,WKG,汽車工業,汽車工業,-0.329,0.664,-0.415,0.333,0.605,2,Excellent,0.036,Median non-manager salary; Average employee benefits; Renewable energy share,昭輝、江申、耿鼎,-0.14
+2204,中華,CMC,汽車工業,汽車工業,0.492,-1.009,0.324,0.283,0.581,2,Excellent,0.578,Occupational injury rate; Independent directors (%),裕隆、麗清、帝寶,0.599
+6988,威力暘-創,WELLYSUN,汽車工業,汽車工業,0.394,-0.983,0.169,0.2,0.558,1,Moderate,0.25,Occupational injury rate; Median non-manager salary; Renewable energy share,為升、劍麟、神數,0.128
+2248,華勝-KY,eLAND,汽車工業,汽車工業,-1.421,0.656,0.241,0.189,0.535,1,Moderate,-0.206,Waste intensity; Water intensity; Median non-manager salary,IKKA-KY、東陽、廣華-KY,-0.239
+6605,帝寶,DEPO,汽車工業,汽車工業,0.029,-0.792,0.188,0.148,0.512,1,Moderate,0.106,Occupational injury rate; Average employee benefits; Renewable energy share,中華、艾姆勒、堤維西,0.167
+3346,麗清,Laster Tech,汽車工業,汽車工業,0.672,-1.676,0.286,0.086,0.488,1,Moderate,0.333,Occupational injury rate; Independent comp. committee (%); Median non-manager salary,中華、裕隆、為升,0.153
+1339,昭輝,Y.C.C.,汽車工業,汽車工業,-1.921,0.063,0.841,0.018,0.465,1,Moderate,-0.47,GHG intensity (scope 1+2 / revenue); Water intensity; Median non-manager salary,六暉-KY、廣華-KY、虎山,-0.166
+1338,廣華-KY,Hiroca,汽車工業,汽車工業,-1.92,0.667,0.099,-0.038,0.442,1,Moderate,-0.202,Water intensity; GHG intensity (scope 1+2 / revenue); Waste intensity,六暉-KY、江申、東陽,-0.145
+1568,倉佑,T.Y.,汽車工業,汽車工業,-1.186,0.218,-0.398,-0.13,0.419,1,Moderate,-0.317,Waste intensity; Median non-manager salary; Renewable energy share,六暉-KY、IKKA-KY、東陽,-0.218
+1319,東陽,TYG,汽車工業,汽車工業,-1.903,0.422,-0.098,-0.196,0.395,1,Moderate,-0.138,Waste intensity; Director training compliance; Water intensity,廣華-KY、巧新、倉佑,-0.289
+2231,為升,CUB,汽車工業,汽車工業,0.36,-1.917,-0.019,-0.228,0.372,1,Moderate,-0.112,Occupational injury rate; Median non-manager salary; Average employee benefits,威力暘-創、劍麟、堤維西,-0.084
+2250,IKKA-KY,IKKA-KY,汽車工業,汽車工業,-1.732,0.653,-0.637,-0.252,0.349,1,Moderate,-0.231,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,六暉-KY、華勝-KY、倉佑,-0.591
+1525,江申,KSC,汽車工業,汽車工業,-1.506,0.329,-0.55,-0.259,0.326,1,Moderate,-0.15,Water intensity; Average employee benefits; GHG intensity (scope 1+2 / revenue),廣華-KY、六暉-KY、IKKA-KY,-0.337
+3717,聯嘉投控,EOI Holding,汽車工業,汽車工業,-0.889,-0.689,-0.13,-0.259,0.302,1,Moderate,-0.461,Average employee benefits; GHG intensity (scope 1+2 / revenue); Renewable energy share,巧新、和大、六方科-KY,-0.278
+1524,耿鼎,GORDON,汽車工業,汽車工業,-0.785,-0.496,-0.459,-0.275,0.279,1,Moderate,-0.13,Median non-manager salary; GHG intensity (scope 1+2 / revenue); Water intensity,艾姆勒、大億、廣華-KY,-0.24
+2228,劍麟,IRF,汽車工業,汽車工業,0.061,-1.941,0.096,-0.301,0.256,1,Moderate,-0.232,Occupational injury rate; Median non-manager salary; Average employee benefits,為升、堤維西、帝寶,-0.168
+4551,智伸科,GLOBAL PMX,汽車工業,汽車工業,-2.837,-0.217,1.092,-0.317,0.233,1,Moderate,0.071,GHG intensity (scope 1+2 / revenue); Waste intensity; Water intensity,廣華-KY、東陽、艾姆勒,0.218
+2115,六暉-KY,LU HAI,汽車工業,汽車工業,-2.923,0.665,0.218,-0.349,0.209,1,Moderate,-0.281,Water intensity; Waste intensity; GHG intensity (scope 1+2 / revenue),廣華-KY、六方科-KY、倉佑,-0.388
+1522,堤維西,TYC,汽車工業,汽車工業,0.417,-2.038,-0.488,-0.429,0.186,1,Moderate,-0.028,Occupational injury rate; Median non-manager salary; Average employee benefits,大億、劍麟、為升,-0.064
+2241,艾姆勒,Amulaire,汽車工業,汽車工業,-1.176,-1.619,-0.179,-0.723,0.163,0,Poor,-0.012,Occupational injury rate; Water intensity; GHG intensity (scope 1+2 / revenue),耿鼎、大億、和大,-0.257
+1521,大億,TA YIH,汽車工業,汽車工業,-0.184,-2.021,-1.17,-0.893,0.14,0,Poor,-0.111,Occupational injury rate; Board attendance; Median non-manager salary,耿鼎、艾姆勒、和大,-0.511
+1563,巧新,SAI,汽車工業,汽車工業,-1.554,-2.005,0.099,-0.896,0.116,0,Poor,-0.283,GHG intensity (scope 1+2 / revenue); Waste intensity; Occupational injury rate,和大、東陽、六方科-KY,-0.396
+7732,金興精密,KING SHING,汽車工業,汽車工業,-1.25,-2.384,-0.504,-1.154,0.093,0,Poor,-0.146,Waste intensity; Median non-manager salary; Occupational injury rate,英利-KY、和大、永新-KY,-0.381
+4569,六方科-KY,Sixxon,汽車工業,汽車工業,-2.824,-1.927,-0.006,-1.357,0.07,0,Poor,-0.322,Water intensity; Waste intensity; GHG intensity (scope 1+2 / revenue),和大、六暉-KY、廣華-KY,-0.501
+2239,英利-KY,Cayman Engley,汽車工業,汽車工業,-0.817,-2.943,-1.031,-1.406,0.047,0,Poor,0.167,Water intensity; Occupational injury rate; Board attendance,金興精密、艾姆勒、為升,-0.312
+1536,和大,HOTA,汽車工業,汽車工業,-2.137,-1.941,-0.96,-1.477,0.023,0,Poor,-0.201,GHG intensity (scope 1+2 / revenue); Waste intensity; Occupational injury rate,巧新、六方科-KY、大億,-0.671
+6754,匯僑設計,Rich Honour,居家生活,消費與服務（觀光、百貨、運動、居家）,0.501,0.983,0.304,1.016,1.0,2,Excellent,0.461,Renewable energy share; Investor conferences; Female managers (%),特力、復盛應用、東哥遊艇,0.402
+2929,淘帝-KY,TOPBI,貿易百貨,消費與服務（觀光、百貨、運動、居家）,0.677,0.658,0.384,0.988,0.985,2,Excellent,0.148,Renewable energy share; GHG inventory verified; Investor conferences,東哥遊艇、匯僑設計、享溫馨,0.179
+6965,中傑-KY,CJ,運動休閒,消費與服務（觀光、百貨、運動、居家）,0.3,0.674,0.393,0.863,0.97,2,Excellent,0.717,GHG inventory verified; Average employee benefits; Median non-manager salary,鈺齊-KY、寶成、志強-KY,0.513
+9934,成霖,GUIC,居家生活,消費與服務（觀光、百貨、運動、居家）,0.715,0.315,0.202,0.806,0.955,2,Excellent,0.383,Independent comp. committee (%); Renewable energy share; GHG inventory verified,櫻花、喬山、岱宇,0.074
+4536,拓凱,TOPKEY,運動休閒,消費與服務（觀光、百貨、運動、居家）,0.674,0.575,-0.029,0.801,0.939,2,Excellent,0.502,Renewable energy share; Female managers (%); Female directors (%),慶豐富、復盛應用、匯僑設計,0.307
+5906,台南-KY,TAINAN CAYMAN,貿易百貨,消費與服務（觀光、百貨、運動、居家）,0.581,0.67,-0.078,0.785,0.924,2,Excellent,0.124,Renewable energy share; GHG inventory verified; Investor conferences,潤泰全、第一店、遠百,0.135
+5706,鳳凰,PHX TOUR,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,0.682,0.419,-0.084,0.725,0.909,2,Excellent,0.006,Renewable energy share; GHG inventory verified; Median non-manager salary,雄獅、福興、慶豐富,0.158
+8478,東哥遊艇,Ocean Alexander,運動休閒,消費與服務（觀光、百貨、運動、居家）,0.405,0.663,-0.11,0.707,0.894,2,Excellent,0.34,Renewable energy share; Female managers (%); GHG inventory verified,匯僑設計、淘帝-KY、拓凱,0.063
+2731,雄獅,Liontravel,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,0.717,0.313,-0.097,0.694,0.879,2,Excellent,0.403,Renewable energy share; Independent directors (%),慶豐富、潤泰全、鳳凰,0.364
+9935,慶豐富,CF,居家生活,消費與服務（觀光、百貨、運動、居家）,0.587,-0.031,0.009,0.56,0.864,2,Excellent,0.363,Renewable energy share; Median non-manager salary; Average employee benefits,拓凱、復盛應用、岱宇,0.223
+9911,櫻花,TAIWAN SAKURA,居家生活,消費與服務（觀光、百貨、運動、居家）,0.27,0.59,-0.347,0.544,0.848,2,Excellent,0.356,Independent comp. committee (%); Renewable energy share; GHG inventory verified,成霖、喬山、岱宇,-0.133
+9904,寶成,PCC,運動休閒,消費與服務（觀光、百貨、運動、居家）,-0.418,0.665,0.207,0.536,0.833,2,Excellent,0.756,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,志強-KY、巨大、豐泰,0.597
+9910,豐泰,FT,運動休閒,消費與服務（觀光、百貨、運動、居家）,-0.587,1.012,0.016,0.532,0.818,2,Excellent,0.796,Waste intensity; GHG intensity (scope 1+2 / revenue); Independent directors (%),寶成、志強-KY、桂盟,0.42
+9914,美利達,MIC,運動休閒,消費與服務（觀光、百貨、運動、居家）,0.691,0.032,-0.273,0.515,0.803,2,Excellent,0.759,Independent comp. committee (%); Female managers (%); Average employee benefits,巨大、志強-KY、喬山,0.192
+1598,岱宇,Dyaco,運動休閒,消費與服務（觀光、百貨、運動、居家）,0.592,-0.102,-0.063,0.508,0.788,2,Excellent,0.328,Renewable energy share; Independent comp. committee (%); Median non-manager salary,慶豐富、成霖、喬山,0.006
+6768,志強-KY,SPG-KY,運動休閒,消費與服務（觀光、百貨、運動、居家）,-0.347,0.532,0.198,0.508,0.773,2,Excellent,0.728,Female managers (%); GHG intensity (scope 1+2 / revenue); Water intensity,寶成、巨大、美利達,0.47
+2706,第一店,FIRST HOTEL,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,-0.373,0.07,0.656,0.5,0.758,2,Excellent,-0.129,Renewable energy share; Water intensity; Median non-manager salary,王品、三商餐飲、鈺齊-KY,0.18
+2908,特力,Test Rite,貿易百貨,消費與服務（觀光、百貨、運動、居家）,0.596,-0.232,0.038,0.5,0.742,2,Excellent,0.288,Renewable energy share; Occupational injury rate; Board attendance,三商、匯僑設計、復盛應用,0.33
+9802,鈺齊-KY,Fulgent Sun,運動休閒,消費與服務（觀光、百貨、運動、居家）,-0.278,0.036,0.511,0.466,0.727,2,Excellent,0.571,Water intensity; GHG inventory verified; Average employee benefits,中傑-KY、寶成、日成-KY,0.379
+2939,永邑-KY,Vitafoss-KY,貿易百貨,消費與服務（觀光、百貨、運動、居家）,0.669,0.65,-1.045,0.445,0.712,2,Excellent,0.041,Director training compliance; Renewable energy share; Board attendance,統領、美食-KY、農林,-0.59
+6670,復盛應用,FSP,運動休閒,消費與服務（觀光、百貨、運動、居家）,0.288,0.131,-0.183,0.442,0.697,2,Excellent,0.373,Renewable energy share; Female directors (%); Female managers (%),拓凱、匯僑設計、慶豐富,0.157
+2906,高林,Collins,貿易百貨,消費與服務（觀光、百貨、運動、居家）,0.704,-0.521,0.043,0.433,0.682,2,Excellent,0.151,Renewable energy share; Occupational injury rate; Average employee benefits,統一超、慶豐富、潤泰全,0.336
+2723,美食-KY,Gourmet,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,0.567,-0.463,0.097,0.426,0.667,2,Excellent,-0.049,Director training compliance; Renewable energy share; GHG inventory verified,永邑-KY、拓凱、億豐,-0.092
+2912,統一超,PCSC,貿易百貨,消費與服務（觀光、百貨、運動、居家）,-0.097,0.103,0.165,0.425,0.652,2,Excellent,0.247,Renewable energy share; GHG intensity (scope 1+2 / revenue); Occupational injury rate,高林、寶成、三商,0.405
+3557,嘉威,JiaWei,居家生活,消費與服務（觀光、百貨、運動、居家）,-1.007,0.636,0.247,0.33,0.636,2,Excellent,0.12,Renewable energy share; GHG intensity (scope 1+2 / revenue); GHG inventory verified,匯僑設計、欣欣、豐泰,0.098
+6807,峰源-KY,FY-KY,居家生活,消費與服務（觀光、百貨、運動、居家）,-0.718,0.653,-0.118,0.303,0.621,2,Excellent,0.499,Waste intensity; Female directors (%); Female managers (%),桂盟、享溫馨、豐泰,-0.073
+8464,億豐,Nien Made,居家生活,消費與服務（觀光、百貨、運動、居家）,0.757,-0.975,-0.035,0.255,0.606,2,Excellent,0.18,Occupational injury rate; Renewable energy share; Female directors (%),八方雲集、三商、復盛應用,0.195
+9921,巨大,GIANT,運動休閒,消費與服務（觀光、百貨、運動、居家）,-0.174,0.047,-0.185,0.246,0.591,2,Excellent,0.695,Audit committee attendance; Water intensity; Independent directors (%),志強-KY、寶成、來億-KY,0.317
+9924,福興,TAIWAN FU HSING,居家生活,消費與服務（觀光、百貨、運動、居家）,0.404,-0.451,-0.296,0.225,0.576,2,Excellent,-0.033,Renewable energy share; Median non-manager salary; GHG inventory verified,麗嬰房、鳳凰、慶豐富,-0.119
+2915,潤泰全,RUENTEX IND.LTD,貿易百貨,消費與服務（觀光、百貨、運動、居家）,0.328,-0.222,-0.518,0.2,0.561,2,Excellent,0.133,Renewable energy share; Board attendance; Median non-manager salary,三商家購、雄獅、慶豐富,0.072
+1736,喬山,JHT,運動休閒,消費與服務（觀光、百貨、運動、居家）,0.309,-1.081,0.175,0.135,0.545,1,Moderate,0.481,Occupational injury rate; Independent comp. committee (%); Renewable energy share,成霖、美利達、櫻花,0.006
+2911,麗嬰房,Les enphants,貿易百貨,消費與服務（觀光、百貨、運動、居家）,0.683,-0.629,-0.712,0.102,0.53,1,Moderate,-0.044,Renewable energy share; Median non-manager salary; Female directors (%),福興、華園、三商家購,-0.217
+7760,享溫馨,ENJOY,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,-0.736,0.32,-0.457,0.046,0.515,1,Moderate,-0.105,Renewable energy share; Waste intensity; Investor conferences,峰源-KY、遠雄來、欣欣,-0.494
+8429,金麗-KY,Jinli,貿易百貨,消費與服務（觀光、百貨、運動、居家）,-1.287,0.648,-0.405,-0.009,0.5,1,Moderate,-0.06,Water intensity; Renewable energy share; Female managers (%),大洋-KY、欣欣、國賓,-0.399
+8443,阿瘦,ASO,貿易百貨,消費與服務（觀光、百貨、運動、居家）,0.304,-1.75,0.384,-0.035,0.485,1,Moderate,0.033,Occupational injury rate; Renewable energy share; Average employee benefits,商億-KY、新天地、華園,0.13
+6890,來億-KY,Lai Yih,運動休閒,消費與服務（觀光、百貨、運動、居家）,-0.882,0.267,-0.62,-0.087,0.47,1,Moderate,0.46,Board attendance; Female managers (%); Waste intensity,巨大、志強-KY、寶成,0.023
+2905,三商,MERCURIES,貿易百貨,消費與服務（觀光、百貨、運動、居家）,0.618,-0.985,-0.91,-0.127,0.455,1,Moderate,0.248,Occupational injury rate; Renewable energy share; Board attendance,特力、億豐、三能-KY,0.225
+2945,三商家購,Simple Mart,貿易百貨,消費與服務（觀光、百貨、運動、居家）,0.202,-0.502,-1.007,-0.132,0.439,1,Moderate,0.036,Board attendance; Renewable energy share; Average employee benefits,潤泰全、世界健身-KY、夏都,-0.155
+2901,欣欣,SHIN SHIN,貿易百貨,消費與服務（觀光、百貨、運動、居家）,-2.402,0.7,0.168,-0.17,0.424,1,Moderate,-0.081,Water intensity; Waste intensity; Renewable energy share,萬企、遠雄來、大魯閣,-0.352
+2903,遠百,FEDS,貿易百貨,消費與服務（觀光、百貨、運動、居家）,-1.39,0.64,-0.824,-0.206,0.409,1,Moderate,0.197,Water intensity; Audit committee attendance; Board attendance,雲品、柏文、大洋-KY,-0.314
+2062,橋椿,SSM,居家生活,消費與服務（觀光、百貨、運動、居家）,-0.674,-1.266,0.264,-0.248,0.394,1,Moderate,0.312,GHG intensity (scope 1+2 / revenue); Occupational injury rate; Median non-manager salary,志強-KY、日成-KY、寶成,0.207
+2727,王品,WOWPRIME,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,-1.083,-0.78,0.155,-0.255,0.379,1,Moderate,-0.378,Water intensity; Renewable energy share; Occupational injury rate,三商餐飲、六福、新天地,-0.218
+5306,桂盟,KMC,運動休閒,消費與服務（觀光、百貨、運動、居家）,-1.358,-0.79,0.374,-0.273,0.364,1,Moderate,0.426,Waste intensity; Occupational injury rate; Water intensity,波力-KY、豐泰、峰源-KY,0.009
+2753,八方雲集,Bafang,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,-0.88,-1.408,0.528,-0.275,0.348,1,Moderate,-0.172,Occupational injury rate; Renewable energy share; Waste intensity,商億-KY、波力-KY、新天地,-0.111
+2701,萬企,WANHWA,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,-2.114,0.188,0.078,-0.292,0.333,1,Moderate,-0.19,Water intensity; Waste intensity; Renewable energy share,遠雄來、欣欣、大魯閣,-0.437
+2702,華園,HG,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,0.519,-2.223,-0.277,-0.383,0.318,1,Moderate,-0.034,Occupational injury rate; Independent comp. committee (%); Renewable energy share,阿瘦、岱宇、麗嬰房,-0.408
+2913,農林,TTC,貿易百貨,消費與服務（觀光、百貨、運動、居家）,-0.498,-0.361,-1.208,-0.404,0.303,1,Moderate,-0.088,Board attendance; Renewable energy share; Audit committee attendance,統領、寒舍、三商家購,-0.523
+1432,大魯閣,TAROKO,運動休閒,消費與服務（觀光、百貨、運動、居家）,-2.084,0.112,-0.254,-0.433,0.288,1,Moderate,-0.239,Water intensity; Renewable energy share; GHG intensity (scope 1+2 / revenue),夏都、遠雄來、萬企,-0.352
+4807,日成-KY,RH,貿易百貨,消費與服務（觀光、百貨、運動、居家）,0.193,-2.445,0.1,-0.439,0.273,1,Moderate,0.493,Occupational injury rate; GHG inventory verified; Average employee benefits,橋椿、三能-KY、寶成,0.285
+2748,雲品,FDC,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,-1.267,-0.979,-0.038,-0.466,0.258,1,Moderate,0.032,Water intensity; Renewable energy share; Occupational injury rate,遠百、夏都、六福,-0.047
+8940,新天地,New Palace,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,-1.113,-1.432,0.247,-0.472,0.242,1,Moderate,-0.302,Occupational injury rate; Renewable energy share; Water intensity,六福、王品、三商餐飲,-0.27
+2762,世界健身-KY,World Gym,運動休閒,消費與服務（觀光、百貨、運動、居家）,-0.48,-1.232,-0.794,-0.564,0.227,1,Moderate,0.018,Board attendance; GHG intensity (scope 1+2 / revenue); Renewable energy share,三商家購、夏都、橋椿,-0.203
+2707,晶華,GFRT,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,-1.435,-0.696,-0.462,-0.58,0.212,0,Poor,-0.255,Water intensity; Fire casualties; Renewable energy share,國賓、寒舍、王品,-0.614
+2712,遠雄來,FGH,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,-2.472,-0.194,-0.115,-0.632,0.197,0,Poor,-0.242,Water intensity; GHG intensity (scope 1+2 / revenue); Renewable energy share,萬企、大魯閣、三商餐飲,-0.609
+8462,柏文,Power Wind,運動休閒,消費與服務（觀光、百貨、運動、居家）,-1.433,-0.467,-0.868,-0.647,0.182,0,Poor,-0.159,Water intensity; Renewable energy share; Audit committee attendance,寒舍、六福、統領,-0.445
+9943,好樂迪,HOLIDAY,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,-0.777,-2.123,0.023,-0.692,0.167,0,Poor,-0.395,Occupational injury rate; Renewable energy share; GHG intensity (scope 1+2 / revenue),六福、八方雲集、夏都,-0.414
+7705,三商餐飲,Mercuries F&B,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,-1.482,-1.14,-0.332,-0.713,0.152,0,Poor,-0.313,Water intensity; Average employee benefits; Renewable energy share,王品、六福、遠雄來,-0.579
+2704,國賓,AMBH,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,-1.841,-0.137,-1.209,-0.798,0.121,0,Poor,-0.224,Water intensity; Board attendance; GHG intensity (scope 1+2 / revenue),大洋-KY、統領、寒舍,-0.705
+6671,三能-KY,San Neng-KY,居家生活,消費與服務（觀光、百貨、運動、居家）,-0.613,-2.124,-0.411,-0.798,0.136,0,Poor,-0.084,Occupational injury rate; Renewable energy share; GHG intensity (scope 1+2 / revenue),日成-KY、橋椿、三商,-0.222
+8482,商億-KY,Shane Global,居家生活,消費與服務（觀光、百貨、運動、居家）,-0.399,-2.941,-0.019,-0.877,0.106,0,Poor,-0.143,Occupational injury rate; Renewable energy share; Waste intensity,阿瘦、八方雲集、波力-KY,-0.237
+5907,大洋-KY,GORG,貿易百貨,消費與服務（觀光、百貨、運動、居家）,-2.978,0.651,-1.288,-0.939,0.091,0,Poor,-0.195,GHG intensity (scope 1+2 / revenue); Water intensity; Board attendance,國賓、統領、柏文,-0.89
+2910,統領,TONLIN,貿易百貨,消費與服務（觀光、百貨、運動、居家）,-2.352,0.445,-1.868,-1.012,0.076,0,Poor,-0.205,GHG intensity (scope 1+2 / revenue); Water intensity; Board attendance,大洋-KY、國賓、農林,-1.06
+2705,六福,LEOFOO,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,-1.979,-2.067,0.027,-1.097,0.061,0,Poor,-0.38,Occupational injury rate; Water intensity; Renewable energy share,寒舍、王品、新天地,-0.595
+2739,寒舍,My Humble House,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,-1.736,-1.776,-1.103,-1.328,0.045,0,Poor,-0.224,Occupational injury rate; Water intensity; Board attendance,柏文、六福、夏都,-0.77
+8467,波力-KY,BONNY,運動休閒,消費與服務（觀光、百貨、運動、居家）,-1.598,-2.954,-0.09,-1.334,0.03,0,Poor,0.168,Occupational injury rate; Water intensity; Waste intensity,桂盟、寒舍、新天地,-0.445
+2722,夏都,Chateau,觀光餐旅,消費與服務（觀光、百貨、運動、居家）,-2.176,-1.982,-1.032,-1.533,0.015,0,Poor,-0.189,Water intensity; Board attendance; Occupational injury rate,寒舍、六福、大魯閣,-0.719
+6446,藥華藥,PEC,生技醫療,生技醫療,0.697,1.066,0.315,1.12,1.0,2,Excellent,0.644,,佳醫、美時、全福生技,0.728
+4137,麗豐-KY,CHLITINA-KY,生技醫療,生技醫療,0.539,0.018,0.765,0.845,0.984,2,Excellent,0.512,Average employee benefits,亞諾法、金萬林-創、美時,0.647
+6431,光麗-KY,KL,生技醫療,生技醫療,0.792,-0.014,0.116,0.679,0.967,2,Excellent,0.118,Female managers (%); Female directors (%); GHG inventory verified,ABC-KY、晉弘、睿生光電,-0.016
+6796,晉弘,MiiS,生技醫療,生技醫療,0.562,-0.034,0.294,0.657,0.951,2,Excellent,0.375,GHG inventory verified; Average employee benefits; Female managers (%),光麗-KY、雃博、承業醫,0.13
+4106,雃博,WELLELL,生技醫療,生技醫療,0.57,-0.269,0.374,0.603,0.934,2,Excellent,0.328,Independent comp. committee (%); Female managers (%); GHG inventory verified,晉弘、中化控股、訊映,-0.08
+6918,愛派司,A Plus Biotech,生技醫療,生技醫療,0.614,-0.04,0.057,0.584,0.918,2,Excellent,0.34,Female directors (%); GHG inventory verified; Waste intensity,承業醫、泰宗、泰博,0.085
+6645,金萬林-創,KIM FOREST,生技醫療,生技醫療,0.71,-0.102,0.02,0.582,0.902,2,Excellent,0.557,Average employee benefits; Median non-manager salary; Independent directors (%),佳醫、麗豐-KY、和康生,0.224
+4104,佳醫,EXCELSIOR,生技醫療,生技醫療,0.744,0.013,-0.133,0.579,0.885,2,Excellent,0.619,Female directors (%); Independent directors (%),金萬林-創、藥華藥、睿生光電,0.277
+4155,訊映,OK BIOTECH,生技醫療,生技醫療,0.609,0.003,-0.01,0.573,0.869,2,Excellent,0.338,Female managers (%); Median non-manager salary; GHG inventory verified,科妍、光麗-KY、睿生光電,-0.086
+1795,美時,Lotus Pharm,生技醫療,生技醫療,0.496,0.356,-0.337,0.541,0.852,2,Excellent,0.63,Board attendance; Independent directors (%); Audit committee attendance,和康生、藥華藥、麗豐-KY,0.259
+4169,泰宗,TCM,生技醫療,生技醫療,0.649,-0.042,-0.107,0.535,0.836,2,Excellent,0.469,Investor conferences; GHG inventory verified; Independent directors (%),永笙-KY、愛派司、承業醫,-0.03
+4178,永笙-KY,StemCyte,生技醫療,生技醫療,0.376,0.007,-0.022,0.488,0.82,2,Excellent,0.331,Investor conferences; GHG intensity (scope 1+2 / revenue); GHG inventory verified,泰宗、亞諾法、雲象科技,0.022
+7803,雲象科技,aetherAI,生技醫療,生技醫療,0.49,0.119,-0.297,0.466,0.803,2,Excellent,0.31,Board attendance; GHG inventory verified; Investor conferences,邦睿生技-創、基米、永笙-KY,0.088
+4133,亞諾法,Abnova,生技醫療,生技醫療,0.329,-0.363,0.327,0.465,0.787,2,Excellent,0.238,Median non-manager salary; Average employee benefits; GHG inventory verified,麗豐-KY、永笙-KY、向榮生技,0.038
+6534,正瀚-創,CHBIO,生技醫療,生技醫療,0.313,0.416,-0.488,0.442,0.77,2,Excellent,0.127,Female managers (%); Board attendance; Independent directors (%),生達、視陽、睿生光電,0.258
+6598,ABC-KY,Applied BioCode,生技醫療,生技醫療,0.719,-0.004,-0.458,0.441,0.754,2,Excellent,0.011,Female directors (%); GHG inventory verified; Water intensity,光麗-KY、承業醫、基米,-0.111
+6861,睿生光電,INCX,生技醫療,生技醫療,0.593,0.125,-0.499,0.429,0.738,2,Excellent,0.417,Female managers (%); Female directors (%); Audit committee attendance,和康生、正瀚-創、漢康-KY,-0.022
+4736,泰博,TaiDoc,生技醫療,生技醫療,0.301,-0.434,0.291,0.415,0.721,2,Excellent,-0.187,Median non-manager salary; Average employee benefits; Female directors (%),五鼎、南光、青松健康,-0.014
+4164,承業醫,CHC,生技醫療,生技醫療,0.674,-0.556,0.057,0.414,0.705,2,Excellent,0.481,Female directors (%); Median non-manager salary; Occupational injury rate,愛派司、ABC-KY、光麗-KY,0.021
+3705,永信,Y.S.H.,生技醫療,生技醫療,0.023,0.278,-0.192,0.399,0.689,2,Excellent,0.262,Female directors (%); Water intensity; GHG inventory verified,藥華藥、承業醫、佳醫,0.05
+4190,佐登-KY,JDS,生技醫療,生技醫療,0.304,0.021,-0.265,0.376,0.672,2,Excellent,-0.234,Female directors (%); GHG inventory verified; Investor conferences,生達、景岳、雲象科技,0.285
+6955,邦睿生技-創,BONRAYBIO,生技醫療,生技醫療,0.576,-0.072,-0.446,0.37,0.656,2,Excellent,0.154,Board attendance; GHG inventory verified; Average employee benefits,雲象科技、漢康-KY、生達,0.027
+6666,羅麗芬-KY,LLF-KY,生技醫療,生技醫療,-0.329,-0.02,0.104,0.275,0.639,2,Excellent,-0.075,Waste intensity; Female managers (%); GHG inventory verified,葡萄王、華廣、望隼,-0.058
+6936,永鴻生技,Vetnostrum,生技醫療,生技醫療,-0.407,0.036,0.107,0.269,0.623,2,Excellent,-0.098,Water intensity; Waste intensity; GHG intensity (scope 1+2 / revenue),台耀、全福生技、視陽,0.087
+7827,漢康-KY,Hanchor-KY,生技醫療,生技醫療,0.792,-0.014,-1.013,0.255,0.607,2,Excellent,-0.016,Board attendance; Female managers (%); Audit committee attendance,華廣、邦睿生技-創、晶碩,-0.339
+6782,視陽,VISCO,生技醫療,生技醫療,-1.619,0.932,0.222,0.214,0.59,2,Excellent,-0.18,Waste intensity; Water intensity; GHG intensity (scope 1+2 / revenue),華安、正瀚-創、禾榮科,0.275
+4771,望隼,VF,生技醫療,生技醫療,-0.612,-0.39,0.406,0.151,0.574,1,Moderate,0.069,Waste intensity; Female managers (%); Audit committee attendance,中化生、葡萄王、寶齡富錦,0.002
+3716,中化控股,Cenra Inc.,生技醫療,生技醫療,-0.133,-0.836,0.263,0.102,0.557,1,Moderate,0.434,Occupational injury rate; Audit committee attendance; Water intensity,望隼、美時、心誠鎂,0.107
+4148,全宇生技-KY,ACBT,生技醫療,生技醫療,-0.677,-0.713,0.615,0.087,0.541,1,Moderate,0.046,Waste intensity; GHG inventory verified; Occupational injury rate,葡萄王、望隼、中化控股,0.016
+1720,生達,S.C.P.C,生技醫療,生技醫療,0.267,-0.284,-0.775,0.059,0.525,1,Moderate,-0.041,Board attendance; Average employee benefits; Audit committee attendance,正瀚-創、和康生、漢康-KY,0.129
+1783,和康生,MBI,生技醫療,生技醫療,0.137,-0.187,-0.751,0.057,0.492,1,Moderate,0.295,Audit committee attendance; Board attendance; Average employee benefits,美時、晶碩、睿生光電,-0.124
+6885,全福生技,BRIM,生技醫療,生技醫療,-2.459,1.089,0.443,0.057,0.508,1,Moderate,0.254,GHG intensity (scope 1+2 / revenue); GHG inventory verified; Independent directors (%),台新藥、禾榮科、藥華藥,0.42
+1760,寶齡富錦,PBF,生技醫療,生技醫療,-0.28,-0.227,-0.323,0.055,0.475,1,Moderate,0.258,Waste intensity; Average employee benefits; Independent directors (%),晶碩、泰福-KY、望隼,-0.095
+7799,禾榮科,HNMC,生技醫療,生技醫療,-1.901,0.846,0.127,0.046,0.459,1,Moderate,-0.11,Waste intensity; GHG intensity (scope 1+2 / revenue); Female managers (%),台新藥、華安、神隆,-0.163
+1733,五鼎,ApexBio,生技醫療,生技醫療,-0.207,-1.035,0.257,0.0,0.443,1,Moderate,-0.426,Median non-manager salary; Average employee benefits; GHG intensity (scope 1+2 / revenue),泰博、南光、青松健康,-0.174
+1786,科妍,SVBI,生技醫療,生技醫療,-0.144,0.008,-0.836,-0.003,0.426,1,Moderate,0.102,Audit committee attendance; Water intensity; Board attendance,和康生、懷特、中化生,-0.359
+1731,美吾華,Maywufa,生技醫療,生技醫療,0.11,-0.315,-0.846,-0.035,0.41,1,Moderate,0.092,Director training compliance; Board attendance; Water intensity,懷特、科妍、景岳,-0.365
+4195,基米,Genomics,生技醫療,生技醫療,0.176,-0.154,-1.08,-0.04,0.393,1,Moderate,-0.112,Board attendance; Investor conferences; Female directors (%),漢康-KY、邦睿生技-創、華廣,-0.403
+6472,保瑞,Bora,生技醫療,生技醫療,0.123,-0.4,-0.902,-0.084,0.377,1,Moderate,0.131,Board attendance; Audit committee attendance; Median non-manager salary,華廣、和康生、晶碩,0.162
+1707,葡萄王,GKB,生技醫療,生技醫療,-1.069,-0.291,-0.065,-0.151,0.361,1,Moderate,-0.103,Waste intensity; Water intensity; Average employee benefits,羅麗芬-KY、泰福-KY、望隼,0.142
+1752,南光,NANG KUANG,生技醫療,生技醫療,-0.866,-0.681,0.116,-0.156,0.344,1,Moderate,-0.586,Water intensity; GHG intensity (scope 1+2 / revenue); Average employee benefits,五鼎、北極星藥業-KY、泰博,-0.343
+6589,台康生技,EirGenix,生技醫療,生技醫療,-2.091,0.243,0.258,-0.195,0.328,1,Moderate,-0.062,Water intensity; GHG intensity (scope 1+2 / revenue); Waste intensity,旭富、華安、北極星藥業-KY,0.065
+6949,沛爾生醫-創,PELL BMT,生技醫療,生技醫療,-2.421,0.117,0.61,-0.226,0.311,1,Moderate,-0.333,GHG intensity (scope 1+2 / revenue); Water intensity; GHG inventory verified,北極星藥業-KY、向榮生技、台康生技,-0.029
+6838,台新藥,FRMSP,生技醫療,生技醫療,-2.951,0.724,0.482,-0.238,0.295,1,Moderate,0.102,GHG intensity (scope 1+2 / revenue); Female managers (%); GHG inventory verified,全福生技、禾榮科、台康生技,0.088
+6794,向榮生技,UnicoCell,生技醫療,生技醫療,-1.349,-0.046,-0.33,-0.26,0.279,1,Moderate,-0.164,GHG intensity (scope 1+2 / revenue); Water intensity; Board attendance,懷特、沛爾生醫-創、北極星藥業-KY,-0.226
+6931,青松健康,Qing Song,生技醫療,生技醫療,0.672,-2.593,0.057,-0.34,0.262,1,Moderate,-0.117,Occupational injury rate; Average employee benefits; Median non-manager salary,五鼎、泰博、承業醫,-0.325
+1734,杏輝,SINPHAR,生技醫療,生技醫療,-0.471,-0.771,-0.781,-0.386,0.246,1,Moderate,0.078,Independent comp. committee (%); Water intensity; Female directors (%),國光生、金萬林-創、神隆,-0.496
+4746,台耀,FRMSL,生技醫療,生技醫療,-2.216,-0.215,0.298,-0.394,0.23,1,Moderate,-0.373,Water intensity; Waste intensity; Fire casualties,華安、旭富、泰福-KY,-0.388
+1789,神隆,SPT,生技醫療,生技醫療,-1.979,0.066,-0.308,-0.434,0.213,1,Moderate,-0.327,Waste intensity; GHG intensity (scope 1+2 / revenue); Independent comp. committee (%),國光生、旭富、泰福-KY,-0.548
+4737,華廣,BIONIME,生技醫療,生技醫療,-0.039,-1.272,-0.974,-0.49,0.197,0,Poor,-0.134,Board attendance; Median non-manager salary; Average employee benefits,漢康-KY、保瑞、羅麗芬-KY,-0.421
+3164,景岳,GenMont,生技醫療,生技醫療,-0.933,-0.47,-0.983,-0.514,0.18,0,Poor,-0.636,Director training compliance; Female directors (%); Average employee benefits,懷特、生達、佐登-KY,-0.506
+6657,華安,ENERGENESIS,生技醫療,生技醫療,-2.833,0.627,-0.316,-0.532,0.164,0,Poor,-0.227,Water intensity; Waste intensity; GHG intensity (scope 1+2 / revenue),旭富、泰福-KY、視陽,-0.285
+6550,北極星藥業-KY,PG,生技醫療,生技醫療,-2.978,0.009,0.066,-0.669,0.148,0,Poor,-0.495,Water intensity; GHG intensity (scope 1+2 / revenue); Female directors (%),沛爾生醫-創、南光、華安,-0.377
+4119,旭富,SCI,生技醫療,生技醫療,-2.917,-0.162,0.142,-0.682,0.131,0,Poor,-0.358,Water intensity; Waste intensity; GHG intensity (scope 1+2 / revenue),華安、中化生、泰福-KY,-0.477
+6541,泰福-KY,Tanvex,生技醫療,生技醫療,-2.129,-0.282,-0.547,-0.705,0.115,0,Poor,-0.262,Waste intensity; Water intensity; GHG intensity (scope 1+2 / revenue),中化生、華安、旭富,-0.471
+6919,康霈*,Caliway,生技醫療,生技醫療,-2.951,0.63,-0.673,-0.707,0.098,0,Poor,0.015,GHG intensity (scope 1+2 / revenue); Audit committee attendance; Board attendance,全福生技、懷特、向榮生技,-0.078
+4108,懷特,PhytoHealth,生技醫療,生技醫療,-1.788,-0.133,-1.156,-0.758,0.082,0,Poor,-0.285,GHG intensity (scope 1+2 / revenue); Audit committee attendance; Water intensity,向榮生技、北極星藥業-KY、中化生,-0.759
+6491,晶碩,PEGAVISION,生技醫療,生技醫療,-1.617,-0.175,-1.489,-0.838,0.066,0,Poor,-0.16,Waste intensity; Board attendance; Audit committee attendance,泰福-KY、中化生、和康生,-0.524
+6934,心誠鎂,HCMED,生技醫療,生技醫療,-2.212,-1.317,-0.775,-1.203,0.049,0,Poor,-0.218,Waste intensity; Water intensity; Female managers (%),中化生、國光生、禾榮科,-0.959
+1762,中化生,CCSB,生技醫療,生技醫療,-2.882,-0.966,-0.559,-1.23,0.033,0,Poor,-0.304,Water intensity; Waste intensity; GHG intensity (scope 1+2 / revenue),旭富、泰福-KY、晶碩,-0.83
+4142,國光生,ADIM,生技醫療,生技醫療,-2.981,-1.892,-1.087,-1.806,0.016,0,Poor,-0.285,Water intensity; Waste intensity; GHG intensity (scope 1+2 / revenue),中化生、旭富、神隆,-1.09
+1423,利華,REWARD WOOL,紡織纖維,紡織纖維,0.262,0.552,1.626,1.268,1.0,2,Excellent,0.634,Female managers (%); Renewable energy share; Investor conferences,如興、嘉裕、南染,0.595
+4414,如興,ROO HSING,紡織纖維,紡織纖維,0.675,1.034,0.588,1.203,0.976,2,Excellent,0.749,Renewable energy share; Investor conferences; Independent directors (%),聚陽、儒鴻、利華,0.582
+4438,廣越,QVE,紡織纖維,紡織纖維,0.716,0.697,0.862,1.196,0.952,2,Excellent,0.834,Fire casualties; Independent directors (%),聚陽、台南、儒鴻,0.78
+4441,振大環球,GGF,紡織纖維,紡織纖維,0.688,0.398,0.727,1.024,0.929,2,Excellent,0.59,Renewable energy share; Female directors (%); GHG inventory verified,如興、儒鴻、台富,0.504
+1477,聚陽,Makalot,紡織纖維,紡織纖維,-0.043,0.908,0.818,0.988,0.905,2,Excellent,0.893,Independent directors (%); Independent comp. committee (%); Waste intensity,廣越、儒鴻、台南,0.911
+1475,業旺,BIG SUNSHINE,紡織纖維,紡織纖維,0.714,0.083,0.756,0.928,0.881,2,Excellent,0.456,Director training compliance; Renewable energy share; Median non-manager salary,南染、利華、得力,0.261
+1473,台南,TAINAN,紡織纖維,紡織纖維,0.317,0.194,0.79,0.841,0.857,2,Excellent,0.763,Independent directors (%); Median non-manager salary; Average employee benefits,聚陽、廣越、力鵬,0.567
+1476,儒鴻,ECLAT,紡織纖維,紡織纖維,-0.521,0.654,1.032,0.805,0.833,2,Excellent,0.741,Waste intensity; Renewable energy share; Water intensity,聚陽、遠東新、廣越,0.74
+1441,大東,TAH TONG,紡織纖維,紡織纖維,0.682,0.372,0.146,0.794,0.81,2,Excellent,0.457,Female directors (%); Renewable energy share; Independent comp. committee (%),南染、新紡、聯發,0.165
+1459,聯發,LAN FA,紡織纖維,紡織纖維,0.667,0.385,-0.034,0.726,0.786,2,Excellent,0.381,Female directors (%); Renewable energy share; Female managers (%),如興、大東、振大環球,0.231
+1410,南染,NYDF,紡織纖維,紡織纖維,0.63,0.07,0.307,0.724,0.762,2,Excellent,0.319,Renewable energy share; Median non-manager salary; Female directors (%),業旺、大東、利華,0.148
+1457,宜進,YI JINN,紡織纖維,紡織纖維,0.707,0.273,-0.339,0.585,0.738,2,Excellent,0.387,Board attendance; Investor conferences; Audit committee attendance,宜新實業、宏洲、宏和,0.258
+1467,南緯,TEX-RAY,紡織纖維,紡織纖維,0.363,-0.235,0.228,0.487,0.714,1,Moderate,0.311,Female directors (%); Renewable energy share; Median non-manager salary,福懋、新纖、儒鴻,0.399
+1419,新紡,SHINKO.TEXTILE,紡織纖維,紡織纖維,0.409,0.168,-0.218,0.485,0.69,1,Moderate,0.081,Female directors (%); Independent comp. committee (%); Renewable energy share,大東、大宇、年興,0.0
+1454,台富,TTF,紡織纖維,紡織纖維,0.245,-0.288,0.346,0.47,0.667,1,Moderate,0.025,Median non-manager salary; Female directors (%); Average employee benefits,振大環球、新紡、南緯,0.105
+1466,聚隆,Acelon,紡織纖維,紡織纖維,-0.245,-0.213,0.633,0.432,0.643,1,Moderate,0.314,Average employee benefits; Renewable energy share; Median non-manager salary,得力、利勤、嘉裕,0.223
+1464,得力,DE LICACY,紡織纖維,紡織纖維,0.354,-1.372,1.166,0.415,0.619,1,Moderate,0.338,Average employee benefits; Renewable energy share; Median non-manager salary,聚隆、嘉裕、利勤,0.436
+1409,新纖,SSFC,紡織纖維,紡織纖維,-0.09,-0.022,0.176,0.386,0.595,1,Moderate,0.071,Female managers (%); Renewable energy share; Independent directors (%),南紡、福懋、儒鴻,0.187
+1417,嘉裕,CARNIVAL,紡織纖維,紡織纖維,0.183,-1.501,1.174,0.311,0.571,1,Moderate,0.401,Occupational injury rate; Renewable energy share; Average employee benefits,得力、利華、聚隆,0.162
+1414,東和,TUNG HO,紡織纖維,紡織纖維,-0.905,-0.501,1.162,0.29,0.548,1,Moderate,0.191,Waste intensity; Median non-manager salary; Average employee benefits,強盛新、偉全、得力,-0.187
+1468,昶和,CHANG HO,紡織纖維,紡織纖維,-0.991,-0.133,0.684,0.216,0.524,1,Moderate,0.153,Water intensity; Median non-manager salary; Female directors (%),弘裕、佳和、業旺,-0.004
+1418,東華,TongHwa,紡織纖維,紡織纖維,-0.886,0.127,0.012,0.097,0.5,1,Moderate,-0.057,GHG intensity (scope 1+2 / revenue); Female directors (%); Median non-manager salary,集盛、力麗、大統新創,-0.146
+1446,宏和,HONG HO,紡織纖維,紡織纖維,0.624,0.234,-1.536,0.091,0.476,1,Moderate,0.018,Board attendance; Audit committee attendance; Director training compliance,宏洲、宜新實業、利勤,-0.426
+1440,南紡,TAINAN SPINNING,紡織纖維,紡織纖維,-0.107,-0.56,-0.099,0.077,0.452,1,Moderate,-0.055,Average employee benefits; Renewable energy share; Median non-manager salary,福懋、新纖、得力,0.076
+1402,遠東新,FENC,紡織纖維,紡織纖維,-1.722,0.748,0.067,0.051,0.429,1,Moderate,0.532,Water intensity; Fire casualties; Independent comp. committee (%),儒鴻、年興、聚陽,0.115
+1445,大宇,UNIVERSAL,紡織纖維,紡織纖維,-0.229,0.048,-0.719,0.026,0.405,1,Moderate,-0.025,Board attendance; Female directors (%); Independent comp. committee (%),宏遠、年興、宜新實業,-0.243
+4440,宜新實業,Yi Shin,紡織纖維,紡織纖維,-0.102,-0.02,-0.778,0.024,0.381,1,Moderate,-0.047,Board attendance; Female directors (%); Average employee benefits,宏洲、大宇、宏和,-0.117
+1447,力鵬,LP,紡織纖維,紡織纖維,-1.234,-0.266,0.231,-0.089,0.357,1,Moderate,0.293,Water intensity; Median non-manager salary; Average employee benefits,力麗、冠星-KY、強盛新,-0.134
+1474,弘裕,HONMYUE,紡織纖維,紡織纖維,-1.111,-0.134,-0.033,-0.096,0.333,1,Moderate,-0.154,Water intensity; Female directors (%); Median non-manager salary,佳和、昶和、大統新創,-0.181
+1465,偉全,WISHER,紡織纖維,紡織纖維,-0.945,-0.525,0.027,-0.16,0.31,1,Moderate,-0.185,Median non-manager salary; Average employee benefits; Waste intensity,大統新創、東和、強盛新,-0.314
+1413,宏洲,H.C.,紡織纖維,紡織纖維,-0.466,0.083,-1.105,-0.19,0.286,1,Moderate,-0.114,Board attendance; Audit committee attendance; Renewable energy share,宜新實業、宏和、大宇,-0.313
+1434,福懋,F.T.C,紡織纖維,紡織纖維,-0.482,-1.066,-0.16,-0.265,0.262,0,Poor,-0.249,Average employee benefits; Median non-manager salary; Female directors (%),南紡、新纖、佳和,-0.1
+1455,集盛,ZIG SHENG,紡織纖維,紡織纖維,-0.875,-0.718,-0.215,-0.297,0.238,0,Poor,-0.11,Female directors (%); Female managers (%); Average employee benefits,大統新創、宏遠、福懋,-0.233
+1452,宏益,HONG YI,紡織纖維,紡織纖維,0.074,-2.168,0.241,-0.325,0.214,0,Poor,-0.121,Occupational injury rate; Median non-manager salary; Renewable energy share,福懋、集盛、得力,-0.13
+1449,佳和,CHIA HER,紡織纖維,紡織纖維,-1.447,-0.722,-0.124,-0.467,0.19,0,Poor,-0.392,Female directors (%); Water intensity; Average employee benefits,弘裕、福懋、大統新創,-0.354
+4426,利勤,LI CHENG,紡織纖維,紡織纖維,-0.05,-2.249,-0.168,-0.553,0.167,0,Poor,0.114,Board attendance; Occupational injury rate; Median non-manager salary,得力、聚隆、宏和,-0.583
+1451,年興,NIEN HSING,紡織纖維,紡織纖維,-1.815,0.062,-0.921,-0.607,0.143,0,Poor,0.033,Female directors (%); Water intensity; Waste intensity,大統新創、宏遠、遠東新,-0.528
+1470,大統新創,EVERTEX,紡織纖維,紡織纖維,-2.38,-0.189,-0.594,-0.778,0.119,0,Poor,-0.201,Female directors (%); Water intensity; Waste intensity,年興、宏遠、集盛,-0.498
+1463,強盛新,CSG,紡織纖維,紡織纖維,-2.411,-0.631,-0.243,-0.82,0.095,0,Poor,-0.004,Median non-manager salary; Water intensity; Waste intensity,力鵬、力麗、東和,-0.707
+1444,力麗,LEALEA,紡織纖維,紡織纖維,-2.28,-1.634,0.296,-0.942,0.071,0,Poor,0.134,Water intensity; Median non-manager salary; GHG intensity (scope 1+2 / revenue),力鵬、冠星-KY、強盛新,-0.404
+1460,宏遠,EVEREST,紡織纖維,紡織纖維,-2.271,-0.819,-0.819,-1.056,0.048,0,Poor,-0.106,Water intensity; Waste intensity; Median non-manager salary,年興、大統新創、集盛,-0.552
+4439,冠星-KY,TST Group,紡織纖維,紡織纖維,-1.939,-2.422,0.269,-1.123,0.024,0,Poor,0.27,Water intensity; Waste intensity; Occupational injury rate,力麗、力鵬、大統新創,-0.228
+6869,雲豹能源,J&V Energy,綠能環保,綠能環保,0.716,0.148,0.828,0.979,1.0,2,Excellent,0.769,Audit committee attendance; Board attendance; Median non-manager salary,基士德-KY、熙特爾-創、泓德能源,0.68
+7740,熙特爾-創,SEETEL,綠能環保,綠能環保,0.765,0.411,0.406,0.936,0.962,2,Excellent,0.701,Female directors (%); Waste intensity,兆聯實業、東方風能、雲豹能源,0.46
+7786,東方風能,DFO,綠能環保,綠能環保,0.58,0.528,0.309,0.877,0.923,2,Excellent,0.75,Renewable energy share; Female managers (%),泓德能源、富威電力、熙特爾-創,0.446
+6641,基士德-KY,GSD-KY,綠能環保,綠能環保,0.574,0.009,0.799,0.867,0.885,2,Excellent,0.694,Average employee benefits; Median non-manager salary; Investor conferences,富威電力、雲豹能源、昶昕,0.446
+6994,富威電力,FWP,綠能環保,綠能環保,0.299,0.357,0.509,0.789,0.846,2,Excellent,0.687,Investor conferences; Renewable energy share; GHG intensity (scope 1+2 / revenue),基士德-KY、東方風能、雲豹能源,0.284
+6944,兆聯實業,Mega Union,綠能環保,綠能環保,0.367,0.326,0.424,0.77,0.808,2,Excellent,0.604,Female directors (%); GHG inventory verified; Water intensity,熙特爾-創、東方風能、雲豹能源,0.345
+5292,華懋,DTECH,綠能環保,綠能環保,0.625,-0.135,0.503,0.72,0.769,2,Excellent,-0.095,Female managers (%); Average employee benefits; Investor conferences,台境*、成信實業*-創、昶昕,0.014
+8438,昶昕,AMIA,綠能環保,綠能環保,-0.351,-0.286,0.815,0.436,0.731,1,Moderate,0.142,Average employee benefits; Median non-manager salary; GHG intensity (scope 1+2 / revenue),成信實業*-創、基士德-KY、寶綠特-KY,0.025
+6873,泓德能源,HDRE,綠能環保,綠能環保,0.616,0.223,-0.617,0.429,0.692,1,Moderate,0.417,Audit committee attendance; Board attendance; Female directors (%),東方風能、台境*、雲豹能源,0.172
+9955,佳龍,SDTI,綠能環保,綠能環保,0.097,-0.41,0.346,0.373,0.654,1,Moderate,0.208,Female directors (%); Median non-manager salary; Average employee benefits,上緯投控、熙特爾-創、雲豹能源,0.148
+8476,台境*,TESC,綠能環保,綠能環保,0.25,-0.202,-0.387,0.228,0.615,1,Moderate,-0.109,Average employee benefits; Female managers (%); Audit committee attendance,泓德能源、華懋、平和環保-創,-0.246
+3708,上緯投控,Swancor,綠能環保,綠能環保,0.313,-0.209,-0.454,0.223,0.577,1,Moderate,-0.294,Female directors (%); Median non-manager salary; Average employee benefits,溢泰實業、佳龍、聯友金屬-創,-0.077
+4582,聚恆,HENGS,綠能環保,綠能環保,0.624,-0.157,-1.036,0.134,0.538,1,Moderate,-0.095,Director training compliance; Investor conferences; Audit committee attendance,台境*、上緯投控、泓德能源,-0.359
+7610,聯友金屬-創,LIANYOU METALS,綠能環保,綠能環保,-0.304,0.018,-0.427,0.098,0.5,1,Moderate,-0.157,GHG intensity (scope 1+2 / revenue); Female directors (%); Independent directors (%),青新-創、中台、中聯資源,-0.236
+6951,青新-創,CHIN HSIN,綠能環保,綠能環保,-1.6,-0.077,0.312,-0.119,0.462,1,Moderate,-0.219,Waste intensity; GHG intensity (scope 1+2 / revenue); Female directors (%),鋼聯、中台、日友,-0.266
+6887,寶綠特-KY,BORETECH-KY,綠能環保,綠能環保,-2.805,-0.524,1.116,-0.41,0.423,0,Poor,-0.021,Waste intensity; Water intensity; GHG intensity (scope 1+2 / revenue),平和環保-創、中台、成信實業*-創,-0.179
+2072,世紀風電,CENE,綠能環保,綠能環保,-0.085,-1.716,-0.314,-0.423,0.385,0,Poor,0.039,Occupational injury rate; Female directors (%); Average employee benefits,溢泰實業、泓德能源、東方風能,-0.077
+8473,山林水,FOREST WATER,綠能環保,綠能環保,-1.493,-0.564,-0.521,-0.574,0.346,0,Poor,-0.132,Waste intensity; Board attendance; Average employee benefits,平和環保-創、中台、寶綠特-KY,-0.529
+6969,成信實業*-創,Transcene,綠能環保,綠能環保,-1.489,-2.068,0.94,-0.58,0.308,0,Poor,0.042,GHG intensity (scope 1+2 / revenue); Occupational injury rate; Female managers (%),昶昕、寶綠特-KY、中台,-0.395
+8422,可寧衛*,Cleanaway,綠能環保,綠能環保,-2.908,-0.125,0.166,-0.655,0.269,0,Poor,-0.093,Waste intensity; Water intensity; GHG intensity (scope 1+2 / revenue),鋼聯、中聯資源、日友,-0.267
+6581,鋼聯,TSU,綠能環保,綠能環保,-2.775,0.27,-0.386,-0.669,0.231,0,Poor,-0.174,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,中聯資源、可寧衛*、日友,-0.275
+7818,溢泰實業,KEMFLO,綠能環保,綠能環保,0.15,-2.507,-0.686,-0.772,0.192,0,Poor,-0.4,Female directors (%); Occupational injury rate; Average employee benefits,上緯投控、世紀風電、日友,-0.404
+9930,中聯資源,CHC,綠能環保,綠能環保,-2.875,0.616,-0.969,-0.796,0.154,0,Poor,-0.222,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,鋼聯、日友、中台,-0.484
+6771,平和環保-創,PHET,綠能環保,綠能環保,-2.639,-0.331,-0.356,-0.832,0.115,0,Poor,-0.388,Waste intensity; Water intensity; Female managers (%),中台、日友、寶綠特-KY,-0.808
+8341,日友,SF,綠能環保,綠能環保,-2.986,-0.37,-0.899,-1.174,0.077,0,Poor,-0.55,Female directors (%); Waste intensity; Water intensity,中台、鋼聯、中聯資源,-0.9
+6923,中台,ctrt,綠能環保,綠能環保,-2.986,-0.647,-0.695,-1.2,0.038,0,Poor,-0.508,Waste intensity; Water intensity; GHG intensity (scope 1+2 / revenue),平和環保-創、日友、鋼聯,-1.006
+5608,四維航,S. W.,航運業,航運業,-0.276,0.369,1.167,0.836,1.0,2,Excellent,0.728,Waste intensity; GHG inventory verified; Renewable energy share,台驊控股、新興、慧洋-KY,0.216
+2636,台驊控股,T3EX,航運業,航運業,0.698,0.121,0.248,0.745,0.964,2,Excellent,0.463,Renewable energy share; Median non-manager salary; GHG inventory verified,四維航、建新國際、慧洋-KY,0.093
+2611,志信,TSI,航運業,航運業,0.66,0.159,-0.06,0.63,0.929,2,Excellent,0.414,Female managers (%); Female directors (%); GHG inventory verified,益航、龍德造船、中航,-0.378
+2612,中航,CMT,航運業,航運業,-0.06,0.494,0.168,0.585,0.893,2,Excellent,0.572,Female directors (%); Independent directors (%); Renewable energy share,華航、志信、中櫃,-0.014
+2610,華航,CAL,航運業,航運業,-0.467,0.448,0.231,0.447,0.857,2,Excellent,0.738,GHG intensity (scope 1+2 / revenue); Independent comp. committee (%); Audit committee attendance,長榮航、星宇航空、長榮,0.138
+2606,裕民,U-MING,航運業,航運業,-0.373,0.76,-0.194,0.436,0.821,2,Excellent,0.519,GHG intensity (scope 1+2 / revenue); Board attendance; Independent directors (%),華航、長榮、萬海,0.258
+2603,長榮,EMC,航運業,航運業,-0.527,0.541,0.134,0.423,0.786,2,Excellent,0.21,GHG intensity (scope 1+2 / revenue); Female directors (%); Independent directors (%),長榮航、台灣虎航、陽明,0.024
+2615,萬海,WANHAI,航運業,航運業,-1.038,0.373,0.6,0.355,0.75,1,Moderate,0.442,GHG intensity (scope 1+2 / revenue); Renewable energy share; Waste intensity,新興、星宇航空、陽明,0.1
+2601,益航,FSC,航運業,航運業,0.296,0.301,-0.672,0.323,0.714,1,Moderate,0.356,Female directors (%); Audit committee attendance; Investor conferences,志信、建新國際、慧洋-KY,-0.283
+2637,慧洋-KY,WISDOM,航運業,航運業,0.616,-1.305,0.516,0.289,0.679,1,Moderate,0.374,Occupational injury rate; Renewable energy share; Audit committee attendance,四維航、益航、台驊控股,0.253
+2645,長榮航太,EGAT,航運業,航運業,-0.557,0.101,0.165,0.262,0.643,1,Moderate,0.047,Female managers (%); Water intensity; Investor conferences,台船、漢翔、台灣高鐵,0.011
+2633,台灣高鐵,THSRC,航運業,航運業,-1.028,0.467,0.211,0.247,0.571,1,Moderate,-0.037,Water intensity; Renewable energy share; Female managers (%),龍德造船、遠雄港、漢翔,-0.098
+6753,龍德造船,LUNGTEH,航運業,航運業,-0.544,0.13,0.087,0.247,0.607,1,Moderate,-0.135,Female managers (%); Renewable energy share; Waste intensity,志信、嘉里大榮、台灣高鐵,-0.391
+2618,長榮航,EVAAIR,航運業,航運業,-0.51,-0.284,0.231,0.161,0.536,1,Moderate,0.305,GHG intensity (scope 1+2 / revenue); Occupational injury rate; Investor conferences,華航、星宇航空、長榮,0.179
+2630,亞航,AACL,航運業,航運業,-0.16,-0.078,-0.4,0.124,0.5,1,Moderate,-0.119,Water intensity; Female directors (%); Average employee benefits,台船、漢翔、志信,-0.19
+2646,星宇航空,STARLUX AIR,航運業,航運業,-0.749,-0.469,0.517,0.115,0.464,1,Moderate,0.352,GHG intensity (scope 1+2 / revenue); Investor conferences; Occupational injury rate,長榮航、華航、萬海,0.083
+2605,新興,SNC,航運業,航運業,-1.559,0.804,-0.126,0.057,0.429,1,Moderate,0.588,Board attendance; GHG intensity (scope 1+2 / revenue); Water intensity,萬海、四維航、遠雄港,-0.11
+2617,台航,TNC,航運業,航運業,0.607,-1.752,0.205,0.004,0.393,1,Moderate,0.017,Occupational injury rate; Investor conferences; Female managers (%),嘉里大榮、榮運、建新國際,-0.198
+2607,榮運,EITC,航運業,航運業,-0.095,-0.852,-0.023,0.003,0.357,1,Moderate,-0.366,Occupational injury rate; Female directors (%); Independent directors (%),宅配通、台航、嘉里大榮,-0.113
+8367,建新國際,CS,航運業,航運業,0.55,-1.219,-0.657,-0.143,0.321,1,Moderate,0.242,Occupational injury rate; Audit committee attendance; Female directors (%),益航、台航、台驊控股,-0.47
+2609,陽明,YMTC,航運業,航運業,-0.991,-1.495,0.578,-0.327,0.286,0,Poor,0.117,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Renewable energy share,台灣虎航、長榮航、萬海,-0.116
+2634,漢翔,AIDC,航運業,航運業,-0.944,-0.134,-0.926,-0.372,0.25,0,Poor,0.054,Water intensity; Independent directors (%); Female directors (%),台船、長榮航太、宅配通,-0.06
+6757,台灣虎航,TTW,航運業,航運業,-0.973,-1.503,0.381,-0.398,0.214,0,Poor,0.187,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Independent directors (%),陽明、長榮航、長榮,-0.023
+2613,中櫃,CCTC,航運業,航運業,-0.411,-1.22,-0.649,-0.481,0.179,0,Poor,0.111,Independent directors (%); Occupational injury rate; Female managers (%),宅配通、建新國際、榮運,-0.705
+2208,台船,CSBC,航運業,航運業,-0.891,-0.064,-1.588,-0.576,0.143,0,Poor,-0.007,Water intensity; Director training compliance; Board attendance,漢翔、長榮航太、亞航,-0.614
+2608,嘉里大榮,Kerry TJ,航運業,航運業,-0.446,-2.164,-0.373,-0.739,0.107,0,Poor,-0.019,Occupational injury rate; Female managers (%); Director training compliance,台航、台船、遠雄港,-0.835
+5607,遠雄港,Farglory FTZ,航運業,航運業,-2.14,-1.164,-0.17,-0.894,0.071,0,Poor,0.117,Water intensity; Waste intensity; Board attendance,新興、嘉里大榮、萬海,-0.544
+2642,宅配通,Pelican,航運業,航運業,-1.387,-2.339,-0.709,-1.264,0.036,0,Poor,-0.352,Occupational injury rate; Water intensity; Independent directors (%),榮運、中櫃、漢翔,-0.722
+6165,浪凡,Lang,數位雲端,資訊服務與數位雲端,0.521,0.068,0.716,0.838,1.0,2,Excellent,0.652,GHG inventory verified; Investor conferences; Renewable energy share,零壹、傳奇、LINEPAY,0.181
+6112,邁達特,Metaage,資訊服務,資訊服務與數位雲端,0.622,-0.233,0.448,0.663,0.957,2,Excellent,0.634,Energy management certified; Average employee benefits,LINEPAY、精誠、浪凡,0.26
+7722,LINEPAY,LINEPAY,數位雲端,資訊服務與數位雲端,0.079,0.12,0.566,0.645,0.913,2,Excellent,0.595,Waste intensity; Renewable energy share; Energy management certified,邁達特、訊連、浪凡,0.28
+6214,精誠,SYSTEX,資訊服務,資訊服務與數位雲端,0.44,-0.089,0.268,0.584,0.87,2,Excellent,0.493,Female managers (%); Independent directors (%); Average employee benefits,華經、邁達特、一零四,0.322
+3029,零壹,ZERO ONE,資訊服務,資訊服務與數位雲端,0.79,0.142,-0.451,0.524,0.826,2,Excellent,0.447,GHG inventory verified; Board attendance; Independent directors (%),GOGOLOOK、三商電、浪凡,-0.113
+2480,敦陽科,STARK,資訊服務,資訊服務與數位雲端,0.555,0.04,-0.712,0.304,0.783,1,Moderate,-0.157,Board attendance; Female managers (%); Female directors (%),GOGOLOOK、伊雲谷、三商電,-0.059
+6902,GOGOLOOK,Gogolook,數位雲端,資訊服務與數位雲端,0.442,0.464,-1.048,0.294,0.739,1,Moderate,0.085,Board attendance; Female managers (%); Female directors (%),敦陽科、零壹、三商電,-0.118
+6689,伊雲谷,ECV,數位雲端,資訊服務與數位雲端,0.744,-0.6,-0.3,0.289,0.696,1,Moderate,0.252,Board attendance; Average employee benefits; Occupational injury rate,敦陽科、富邦媒、GOGOLOOK,0.089
+6614,資拓宏宇,IISI,數位雲端,資訊服務與數位雲端,-0.075,-0.27,-0.005,0.231,0.652,1,Moderate,-0.375,Average employee benefits; Renewable energy share; Female managers (%),華經、凌群、傳奇,-0.196
+4994,傳奇,X-LEGEND,資訊服務,資訊服務與數位雲端,-0.603,-0.311,0.322,0.152,0.609,1,Moderate,-0.032,Water intensity; GHG intensity (scope 1+2 / revenue); Average employee benefits,現觀科、奧義賽博-KY、微程式,-0.198
+2453,凌群,SYSCOM,資訊服務,資訊服務與數位雲端,-0.358,-0.53,0.258,0.134,0.565,1,Moderate,-0.02,Director training compliance; Female managers (%); GHG intensity (scope 1+2 / revenue),現觀科、資拓宏宇、資通,-0.249
+2468,華經,FIS,資訊服務,資訊服務與數位雲端,0.401,-0.962,-0.046,0.129,0.522,1,Moderate,0.23,Average employee benefits; Female managers (%); Median non-manager salary,精誠、資拓宏宇、一零四,-0.031
+7765,中華資安,CHT Security,數位雲端,資訊服務與數位雲端,-1.121,0.355,0.035,0.107,0.478,1,Moderate,-0.298,Water intensity; Female directors (%); Female managers (%),訊連、資通、關貿,-0.041
+5203,訊連,CyberLink,資訊服務,資訊服務與數位雲端,-1.715,0.513,0.205,0.018,0.435,1,Moderate,-0.159,Waste intensity; Water intensity; Female directors (%),資通、中華資安、現觀科,-0.112
+7721,微程式,MICROPROGRAM,數位雲端,資訊服務與數位雲端,-1.43,-0.471,0.14,-0.269,0.391,0,Poor,-0.048,GHG intensity (scope 1+2 / revenue); Waste intensity; Average employee benefits,現觀科、奧義賽博-KY、三商電,-0.527
+2471,資通,ARES,資訊服務,資訊服務與數位雲端,-2.278,0.346,0.064,-0.296,0.348,0,Poor,-0.018,Water intensity; Waste intensity; GHG intensity (scope 1+2 / revenue),訊連、現觀科、愛爾達-創,-0.355
+6906,現觀科,Groundhog,數位雲端,資訊服務與數位雲端,-2.136,0.108,0.137,-0.307,0.304,0,Poor,-0.09,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,資通、微程式、訊連,-0.554
+8454,富邦媒,momo,數位雲端,資訊服務與數位雲端,0.278,-2.191,0.077,-0.323,0.261,0,Poor,0.092,Occupational injury rate; Average employee benefits; Board attendance,伊雲谷、邁達特、一零四,-0.078
+6183,關貿,TRADE-VAN,資訊服務,資訊服務與數位雲端,-1.51,0.314,-0.746,-0.34,0.217,0,Poor,-0.299,GHG intensity (scope 1+2 / revenue); Independent comp. committee (%); Independent directors (%),一零四、愛爾達-創、中華資安,-0.465
+2427,三商電,MDS,資訊服務,資訊服務與數位雲端,-0.313,-0.284,-1.37,-0.371,0.174,0,Poor,-0.171,Audit committee attendance; Board attendance; Independent comp. committee (%),奧義賽博-KY、GOGOLOOK、微程式,-0.795
+8487,愛爾達-創,ELTA,數位雲端,資訊服務與數位雲端,-1.707,0.023,-0.633,-0.475,0.13,0,Poor,-0.076,Board attendance; GHG intensity (scope 1+2 / revenue); Water intensity,資通、奧義賽博-KY、現觀科,-0.469
+3130,一零四,104,數位雲端,資訊服務與數位雲端,-1.468,-1.08,-0.581,-0.779,0.087,0,Poor,0.01,Independent comp. committee (%); Occupational injury rate; Water intensity,關貿、資通、訊連,-0.369
+7823,奧義賽博-KY,CyCraft-KY,數位雲端,資訊服務與數位雲端,-2.963,0.0,-0.836,-1.005,0.043,0,Poor,-0.186,GHG intensity (scope 1+2 / revenue); Board attendance; Investor conferences,三商電、微程式、愛爾達-創,-0.715
+6442,光聖,EZconn,通信網路,通信網路,0.638,0.292,0.766,0.982,1.0,2,Excellent,0.702,Independent comp. committee (%); Renewable energy share; Median non-manager salary,仲琦、智邦、盛達,0.323
+2419,仲琦,H.T.,通信網路,通信網路,0.798,0.305,0.378,0.898,0.978,2,Excellent,0.788,Independent directors (%),友訊、盛達、光聖,0.38
+6136,富爾特,FTC,通信網路,通信網路,0.599,-0.16,0.667,0.764,0.956,2,Excellent,0.374,GHG inventory verified; Investor conferences; Median non-manager salary,達運光電、盛達、隴華,0.052
+3027,盛達,BILLION,通信網路,通信網路,0.723,-0.156,0.435,0.722,0.933,2,Excellent,0.61,Average employee benefits; Female managers (%); Median non-manager salary,仲琦、富爾特、達運光電,0.189
+3045,台灣大,TWM,通信網路,通信網路,0.093,-0.017,0.705,0.652,0.911,2,Excellent,0.569,GHG intensity (scope 1+2 / revenue); Female directors (%),遠傳、啟碁、中華電,0.552
+3596,智易,Arcadyan,通信網路,通信網路,0.024,0.741,-0.008,0.64,0.889,2,Excellent,0.669,Waste intensity; Female directors (%); Independent directors (%),啟碁、美律、仲琦,0.432
+2332,友訊,D-LINK,通信網路,通信網路,0.651,0.225,-0.329,0.55,0.867,2,Excellent,0.416,Female directors (%); Board attendance; Renewable energy share,仲琦、耀登、遠傳,0.124
+3138,耀登,Auden,通信網路,通信網路,0.73,0.069,-0.291,0.535,0.844,2,Excellent,0.312,Audit committee attendance; Investor conferences; Female directors (%),鋐寶科技、神腦、友訊,0.079
+3062,建漢,CyberTAN,通信網路,通信網路,-0.939,0.436,0.869,0.514,0.822,2,Excellent,0.338,Waste intensity; Water intensity; Investor conferences,展達、明泰、啟碁,0.145
+6416,瑞祺電通,CASWELL,通信網路,通信網路,0.76,-0.347,0.0,0.501,0.8,2,Excellent,-0.184,Median non-manager salary; Average employee benefits; Renewable energy share,神腦、盛達、富爾特,-0.051
+6285,啟碁,WNC,通信網路,通信網路,-0.75,0.065,1.015,0.499,0.778,2,Excellent,0.651,Waste intensity; Water intensity,中磊、美律、明泰,0.474
+8045,達運光電,TWOWAY,通信網路,通信網路,0.051,-0.398,0.66,0.479,0.756,2,Excellent,0.259,Female managers (%); Director training compliance; GHG inventory verified,富爾特、隴華、盛達,-0.216
+2345,智邦,ACCTON,通信網路,通信網路,0.278,0.334,-0.326,0.459,0.733,2,Excellent,0.428,Independent comp. committee (%); Board attendance; Investor conferences,美律、宏達電、光聖,0.176
+3380,明泰,Alpha,通信網路,通信網路,-0.823,0.175,0.771,0.422,0.711,2,Excellent,0.241,Female managers (%); Waste intensity; Water intensity,啟碁、展達、建漢,0.106
+2424,隴華,LUNG HWA,通信網路,通信網路,0.28,-0.231,0.055,0.394,0.689,2,Excellent,0.275,Independent comp. committee (%); Director training compliance; GHG inventory verified,達運光電、居易、富爾特,-0.358
+2439,美律,MERRY,通信網路,通信網路,-0.415,-0.039,0.406,0.351,0.667,2,Excellent,0.527,Independent comp. committee (%); Waste intensity; Water intensity,啟碁、中磊、智邦,0.25
+3047,訊舟,EDIMAX,通信網路,通信網路,0.52,0.054,-0.634,0.326,0.644,2,Excellent,-0.041,Female directors (%); GHG inventory verified; Board attendance,華冠、譁裕、鋐寶科技,-0.187
+3694,海華,AzureWave,通信網路,通信網路,-0.23,0.303,-0.204,0.314,0.622,2,Excellent,-0.125,Female managers (%); Board attendance; Water intensity,百一、中華電、明泰,-0.096
+2412,中華電,CHT,通信網路,通信網路,-0.737,0.602,-0.12,0.276,0.6,1,Moderate,0.222,GHG intensity (scope 1+2 / revenue); Female directors (%); Water intensity,遠傳、台灣大、宏達電,0.151
+3025,星通,LOOP,通信網路,通信網路,-1.045,0.124,0.488,0.218,0.578,1,Moderate,0.016,Water intensity; GHG inventory verified; GHG intensity (scope 1+2 / revenue),眾達-KY、台揚、百一,-0.131
+5388,中磊,Sercomm,通信網路,通信網路,-0.398,-0.471,0.373,0.185,0.556,1,Moderate,0.321,Waste intensity; Median non-manager salary; Board attendance,啟碁、美律、明泰,0.224
+3669,圓展,AVer,通信網路,通信網路,-0.178,-0.314,0.008,0.183,0.533,1,Moderate,-0.025,Female directors (%); Female managers (%); Waste intensity,詠業、譁裕、台灣大,-0.057
+3419,譁裕,WHAYU,通信網路,通信網路,0.198,-0.268,-0.431,0.169,0.511,1,Moderate,-0.148,Female directors (%); Independent directors (%); Investor conferences,訊舟、圓展、友訊,-0.133
+2450,神腦,SENAO,通信網路,通信網路,0.721,-0.615,-0.772,0.098,0.489,1,Moderate,0.042,Audit committee attendance; Female managers (%); Average employee benefits,瑞祺電通、兆勁、耀登,-0.352
+3447,展達,XAVi,通信網路,通信網路,-1.89,0.283,0.808,0.098,0.467,1,Moderate,-0.006,Water intensity; Waste intensity; Female managers (%),建漢、明泰、百一,-0.053
+4904,遠傳,Far EasTone,通信網路,通信網路,-0.387,0.087,-0.54,0.052,0.444,1,Moderate,0.259,Board attendance; GHG intensity (scope 1+2 / revenue); Renewable energy share,中華電、台灣大、宏達電,0.117
+6216,居易,DrayTek Corp.,通信網路,通信網路,-0.061,0.006,-0.844,0.023,0.422,1,Moderate,0.058,Board attendance; GHG inventory verified; Investor conferences,鋐寶科技、兆勁、合勤控,-0.328
+6674,鋐寶科技,CBN,通信網路,通信網路,0.285,0.042,-1.322,-0.02,0.4,1,Moderate,0.015,Board attendance; Audit committee attendance; GHG inventory verified,居易、合勤控、兆勁,-0.368
+3704,合勤控,Zyxel Group,通信網路,通信網路,-0.087,0.182,-1.133,-0.03,0.378,1,Moderate,-0.168,Board attendance; Renewable energy share; Investor conferences,鋐寶科技、居易、閎暉,-0.215
+8101,華冠,Arima Comm.,通信網路,通信網路,0.675,-0.138,-1.581,-0.046,0.356,1,Moderate,-0.234,Board attendance; Director training compliance; Female directors (%),訊舟、兆赫、鋐寶科技,-0.606
+4977,眾達-KY,PCL,通信網路,通信網路,-1.898,0.009,0.667,-0.06,0.333,1,Moderate,-0.032,Water intensity; GHG intensity (scope 1+2 / revenue); GHG inventory verified,星通、台揚、統新,-0.265
+6152,百一,PRIME,通信網路,通信網路,-1.718,-0.038,0.356,-0.13,0.311,1,Moderate,-0.17,Water intensity; GHG intensity (scope 1+2 / revenue); Female managers (%),統新、眾達-KY、星通,-0.198
+6863,永道-KY,Arizon RFID,通信網路,通信網路,-1.225,-0.062,-0.311,-0.215,0.289,1,Moderate,0.111,Waste intensity; Audit committee attendance; GHG intensity (scope 1+2 / revenue),友勁、正文、宏達電,-0.223
+8011,台通,TTCC,通信網路,通信網路,-0.836,-1.484,0.405,-0.334,0.267,1,Moderate,-0.006,Waste intensity; GHG inventory verified; Average employee benefits,友勁、中磊、永道-KY,-0.36
+4906,正文,GEMTEK,通信網路,通信網路,-1.075,-0.361,-0.621,-0.388,0.244,0,Poor,0.109,Waste intensity; GHG inventory verified; GHG intensity (scope 1+2 / revenue),永道-KY、宏達電、台揚,-0.324
+3311,閎暉,Silitech,通信網路,通信網路,-0.591,-0.707,-0.982,-0.48,0.222,0,Poor,-0.405,Board attendance; Average employee benefits; Median non-manager salary,兆赫、兆勁、合勤控,-0.422
+2498,宏達電,HTC,通信網路,通信網路,-2.534,0.321,-0.266,-0.52,0.2,0,Poor,0.123,Water intensity; Waste intensity; Independent comp. committee (%),全新、永道-KY、正文,-0.367
+2314,台揚,MTI,通信網路,通信網路,-1.787,-0.712,0.015,-0.532,0.178,0,Poor,-0.244,Water intensity; GHG intensity (scope 1+2 / revenue); GHG inventory verified,星通、眾達-KY、統新,-0.557
+6142,友勁,CAMEO,通信網路,通信網路,-1.766,-1.048,0.158,-0.595,0.156,0,Poor,-0.26,Waste intensity; Median non-manager salary; GHG intensity (scope 1+2 / revenue),詠業、統新、永道-KY,-0.465
+2455,全新,VPEC,通信網路,通信網路,-2.77,-0.357,-0.063,-0.778,0.133,0,Poor,0.019,GHG intensity (scope 1+2 / revenue); Waste intensity; Water intensity,宏達電、詠業、友勁,-0.687
+2321,東訊,TECOM,通信網路,通信網路,-1.08,-2.151,0.033,-0.807,0.111,0,Poor,-0.146,Water intensity; Occupational injury rate; Median non-manager salary,統新、百一、兆赫,-0.527
+6792,詠業,Unictron,通信網路,通信網路,-2.286,-0.754,-0.288,-0.838,0.089,0,Poor,-0.383,GHG intensity (scope 1+2 / revenue); Waste intensity; Female managers (%),友勁、統新、全新,-0.801
+2444,兆勁,AboCom,通信網路,通信網路,-1.586,-1.075,-0.844,-0.918,0.067,0,Poor,-0.247,Board attendance; Median non-manager salary; Audit committee attendance,兆赫、鋐寶科技、居易,-0.832
+6426,統新,APOGEE,通信網路,通信網路,-2.257,-1.321,-0.091,-0.964,0.044,0,Poor,-0.401,Water intensity; GHG intensity (scope 1+2 / revenue); Average employee benefits,東訊、友勁、眾達-KY,-0.611
+2485,兆赫,ZINWELL,通信網路,通信網路,-1.219,-1.44,-1.545,-1.186,0.022,0,Poor,-0.464,Board attendance; Median non-manager salary; Water intensity,兆勁、閎暉、統新,-1.06
+2820,華票,CBF,金融保險,金融保險,1.462,0.81,0.245,1.271,1.0,2,Excellent,0.594,Female managers (%); Independent directors (%); Investor conferences,群益期、台產、第一保,0.161
+2885,元大金,Yuanta Group,金融保險,金融保險,0.033,0.779,1.137,1.086,0.968,2,Excellent,0.548,GHG intensity (scope 1+2 / revenue); Waste intensity; Renewable energy share,中信金、富邦金、中再保,0.669
+6024,群益期,CFC,金融保險,金融保險,0.769,0.528,0.639,1.068,0.935,2,Excellent,0.693,Investor conferences; Energy management certified; Renewable energy share,台中銀、華票、中再保,0.177
+2884,玉山金,E.S.F.H,金融保險,金融保險,1.616,-0.35,0.587,1.025,0.903,2,Excellent,0.663,GHG intensity (scope 1+2 / revenue); Waste intensity; Water intensity,國泰金、永豐金、富邦金,0.316
+2882,國泰金,CATHAY FHC,金融保險,金融保險,1.616,-0.836,0.546,0.83,0.871,2,Excellent,0.53,Average employee benefits; Occupational injury rate; GHG intensity (scope 1+2 / revenue),玉山金、永豐金、王道銀行,0.202
+2891,中信金,CTBC HOLDING,金融保險,金融保險,-0.097,0.117,0.939,0.721,0.839,2,Excellent,0.517,Renewable energy share; GHG intensity (scope 1+2 / revenue); Waste intensity,元大金、富邦金、中再保,0.54
+2883,凱基金,KGI Financial,金融保險,金融保險,0.385,0.493,0.03,0.691,0.806,2,Excellent,0.319,Independent directors (%); GHG intensity (scope 1+2 / revenue); Waste intensity,合庫金、玉山金、元大金,0.147
+2812,台中銀,T.C.C.B.,金融保險,金融保險,0.185,-0.029,0.652,0.659,0.774,2,Excellent,0.362,Renewable energy share; Median non-manager salary; GHG intensity (scope 1+2 / revenue),群益期、台新新光金、富邦金,-0.085
+2892,第一金,FFHC,金融保險,金融保險,0.0,0.311,0.332,0.6,0.742,2,Excellent,0.101,Independent directors (%); GHG intensity (scope 1+2 / revenue); Renewable energy share,中再保、兆豐金、元大金,0.217
+2881,富邦金,Fubon Financial,金融保險,金融保險,0.185,0.264,0.037,0.537,0.71,2,Excellent,0.328,Board attendance; GHG intensity (scope 1+2 / revenue); Waste intensity,台新新光金、元大金、中信金,0.148
+6005,群益證,CSC,金融保險,金融保險,-0.248,0.009,0.559,0.485,0.677,1,Moderate,-0.311,Renewable energy share; Independent directors (%); Median non-manager salary,彰銀、台中銀、台產,-0.015
+2832,台產,TFMI,金融保險,金融保險,1.368,-1.002,-0.261,0.377,0.645,1,Moderate,0.086,Independent directors (%); Median non-manager salary; Average employee benefits,第一保、旺旺保、王道銀行,-0.3
+2887,台新新光金,TS Holdings,金融保險,金融保險,-0.094,0.164,-0.083,0.355,0.613,1,Moderate,0.193,Audit committee attendance; Board attendance; Average employee benefits,遠東銀、富邦金、台中銀,-0.092
+2834,臺企銀,TBB,金融保險,金融保險,-0.016,-0.001,-0.019,0.347,0.581,1,Moderate,0.035,Independent directors (%); Renewable energy share; Water intensity,凱基金、台中銀、中信金,-0.019
+2855,統一證,PSC,金融保險,金融保險,-0.131,0.135,-0.044,0.346,0.548,1,Moderate,-0.122,Renewable energy share; Independent directors (%); GHG intensity (scope 1+2 / revenue),國票金、第一金、遠東銀,-0.079
+5880,合庫金,TCFHC,金融保險,金融保險,0.245,0.524,-0.878,0.311,0.516,1,Moderate,-0.24,Independent directors (%); Board attendance; GHG intensity (scope 1+2 / revenue),兆豐金、凱基金、彰銀,0.054
+2801,彰銀,CHANG HWA BANK,金融保險,金融保險,-1.0,0.653,0.15,0.303,0.484,1,Moderate,-0.365,Waste intensity; Independent directors (%); Renewable energy share,第一金、高雄銀、合庫金,0.014
+2886,兆豐金,MEGA FHC,金融保險,金融保險,0.849,-0.706,-0.277,0.296,0.452,1,Moderate,0.191,Audit committee attendance; Occupational injury rate; Independent directors (%),中再保、華南金、永豐金,0.056
+2852,第一保,FIRST INS,金融保險,金融保險,0.854,-0.999,-0.232,0.206,0.419,1,Moderate,0.079,GHG inventory verified; Investor conferences; Average employee benefits,旺旺保、台產、王道銀行,-0.555
+2890,永豐金,SINOPACHOLDINGS,金融保險,金融保險,0.05,-1.938,1.061,0.059,0.387,1,Moderate,0.378,Occupational injury rate; Waste intensity; Average employee benefits,中再保、王道銀行、玉山金,0.128
+2889,國票金,IBF,金融保險,金融保險,-0.351,0.042,-0.558,0.041,0.355,1,Moderate,-0.224,Independent directors (%); Independent comp. committee (%); Median non-manager salary,新產、統一證、旺旺保,-0.517
+5876,上海商銀,SCSB,金融保險,金融保險,0.614,-1.62,0.141,0.031,0.323,1,Moderate,0.144,Independent comp. committee (%); Occupational injury rate; Independent directors (%),王道銀行、華南金、永豐金,-0.204
+2845,遠東銀,FEIB,金融保險,金融保險,-0.572,0.348,-0.81,-0.019,0.29,1,Moderate,-0.158,Audit committee attendance; Board attendance; Water intensity,台新新光金、新產、統一證,-0.367
+2851,中再保,Central Re,金融保險,金融保險,-1.355,-1.293,1.061,-0.201,0.258,1,Moderate,0.464,Occupational injury rate; Energy management certified; GHG intensity (scope 1+2 / revenue),永豐金、華南金、群益期,0.166
+2897,王道銀行,O-Bank,金融保險,金融保險,0.264,-1.898,-0.019,-0.255,0.226,1,Moderate,0.103,Occupational injury rate; Independent directors (%); Investor conferences,聯邦銀、永豐金、上海商銀,-0.227
+2880,華南金,HNFHC,金融保險,金融保險,-0.498,-1.58,-0.18,-0.469,0.194,0,Poor,-0.111,Occupational injury rate; Renewable energy share; Board attendance,中再保、高雄銀、永豐金,-0.191
+2850,新產,SK Insurance,金融保險,金融保險,-1.355,0.037,-1.535,-0.684,0.161,0,Poor,-0.141,Independent directors (%); Board attendance; Independent comp. committee (%),國票金、遠東銀、台產,-1.101
+2838,聯邦銀,UBOT,金融保險,金融保險,0.119,-2.471,-0.633,-0.75,0.129,0,Poor,-0.267,Occupational injury rate; Average employee benefits; Median non-manager salary,王道銀行、高雄銀、安泰銀,-0.521
+2816,旺旺保,UNION INS.,金融保險,金融保險,-2.479,-0.322,-0.632,-0.876,0.097,0,Poor,-0.115,GHG inventory verified; Investor conferences; Median non-manager salary,第一保、台產、聯邦銀,-0.879
+2836,高雄銀,B.O.K,金融保險,金融保險,-1.598,-2.167,-0.092,-1.043,0.065,0,Poor,-0.418,Waste intensity; Occupational injury rate; GHG intensity (scope 1+2 / revenue),安泰銀、聯邦銀、華南金,-0.608
+2849,安泰銀,EnTie Bank,金融保險,金融保險,-2.478,-2.557,-0.075,-1.493,0.032,0,Poor,-0.468,GHG intensity (scope 1+2 / revenue); Water intensity; Waste intensity,高雄銀、聯邦銀、王道銀行,-1.036
+5538,東明-KY,TONG MING,鋼鐵工業,鋼鐵工業,0.656,0.314,0.387,0.855,1.0,2,Excellent,0.585,Director training compliance; Average employee benefits; Investor conferences,允強、運錩、三星,0.458
+2069,運錩,YC,鋼鐵工業,鋼鐵工業,0.669,0.14,0.423,0.808,0.968,2,Excellent,0.093,Median non-manager salary; Average employee benefits; Energy management certified,聚亨、春雨、東明-KY,0.263
+2023,燁輝,YP,鋼鐵工業,鋼鐵工業,-0.019,0.678,-0.144,0.55,0.935,2,Excellent,0.451,Female managers (%); GHG intensity (scope 1+2 / revenue); Renewable energy share,中鴻、中鋼、長榮鋼,0.139
+9958,世紀鋼,CIS,鋼鐵工業,鋼鐵工業,0.761,0.52,-0.795,0.524,0.903,2,Excellent,0.738,Audit committee attendance; Independent directors (%); Renewable energy share,新光鋼、中鴻、豐達科,0.167
+2031,新光鋼,Hkssteel,鋼鐵工業,鋼鐵工業,0.838,-0.114,-0.417,0.458,0.871,2,Excellent,0.572,Female directors (%); Female managers (%); Median non-manager salary,世紀鋼、三星、允強,0.08
+2027,大成鋼,TC,鋼鐵工業,鋼鐵工業,0.546,0.084,-0.548,0.379,0.839,1,Moderate,0.447,Board attendance; Renewable energy share; Energy management certified,豐達科、新鋼、官田鋼,-0.032
+2013,中鋼構,CSSC,鋼鐵工業,鋼鐵工業,0.651,0.451,-1.02,0.375,0.806,1,Moderate,0.476,Independent directors (%); Female managers (%); Board attendance,豐達科、春源、盛餘,0.114
+5007,三星,SAN SHING,鋼鐵工業,鋼鐵工業,0.078,0.094,-0.197,0.348,0.774,1,Moderate,0.357,Average employee benefits; Water intensity; Female managers (%),新光鋼、燁興、高興昌,0.011
+2034,允強,YC,鋼鐵工業,鋼鐵工業,0.519,-0.759,0.22,0.346,0.742,1,Moderate,0.541,Occupational injury rate; Renewable energy share; Median non-manager salary,新鋼、三星、彰源,0.21
+2022,聚亨,TYCOONS,鋼鐵工業,鋼鐵工業,0.031,-0.302,0.212,0.339,0.71,1,Moderate,0.048,Average employee benefits; Median non-manager salary; Energy management certified,運錩、威致、東明-KY,0.15
+2008,高興昌,KHC,鋼鐵工業,鋼鐵工業,0.023,0.093,-0.183,0.334,0.677,1,Moderate,-0.181,Average employee benefits; Median non-manager salary; Water intensity,春雨、三星、千興,-0.138
+2211,長榮鋼,EGST,鋼鐵工業,鋼鐵工業,-0.794,-0.152,0.711,0.289,0.645,1,Moderate,0.187,GHG intensity (scope 1+2 / revenue); Occupational injury rate; Waste intensity,中鋼、威致、東和鋼鐵,0.25
+2024,志聯,CHIH LIEN,鋼鐵工業,鋼鐵工業,-1.241,0.116,0.711,0.23,0.613,1,Moderate,-0.068,Water intensity; Average employee benefits; Median non-manager salary,威致、千興、中鋼,0.068
+2012,春雨,CHUN YU,鋼鐵工業,鋼鐵工業,-0.418,-0.038,-0.079,0.168,0.581,1,Moderate,-0.198,Water intensity; Female directors (%); Average employee benefits,高興昌、千興、運錩,-0.12
+2010,春源,CHUN YUAN STEEL,鋼鐵工業,鋼鐵工業,0.483,-0.966,-0.07,0.148,0.548,1,Moderate,0.175,Occupational injury rate; Independent directors (%); Female managers (%),美亞、新鋼、彰源,-0.034
+2014,中鴻,CHUNG HUNG,鋼鐵工業,鋼鐵工業,-0.767,0.55,-0.442,0.125,0.516,1,Moderate,0.394,Waste intensity; Audit committee attendance; Female managers (%),海光、東和鋼鐵、豐興,-0.026
+3004,豐達科,NAFCO,鋼鐵工業,鋼鐵工業,-0.254,0.351,-0.887,0.066,0.484,1,Moderate,0.403,Board attendance; Water intensity; Energy management certified,大成鋼、佳大、官田鋼,-0.114
+2020,美亞,MAYER PIPE,鋼鐵工業,鋼鐵工業,-0.025,-0.939,0.127,0.052,0.452,1,Moderate,-0.026,Waste intensity; Occupational injury rate; Renewable energy share,春源、新鋼、彰源,-0.063
+2002,中鋼,CSC,鋼鐵工業,鋼鐵工業,-2.559,1.064,0.506,0.036,0.419,1,Moderate,-0.005,GHG intensity (scope 1+2 / revenue); Water intensity; Waste intensity,威致、長榮鋼、豐興,0.012
+2028,威致,WEI CHIH,鋼鐵工業,鋼鐵工業,-2.942,0.203,1.315,-0.115,0.387,0,Poor,-0.379,GHG intensity (scope 1+2 / revenue); Water intensity; Waste intensity,中鋼、志聯、豐興,-0.118
+2025,千興,CSSSC,鋼鐵工業,鋼鐵工業,-0.601,-0.617,-0.188,-0.153,0.355,0,Poor,-0.182,Water intensity; Average employee benefits; Median non-manager salary,第一銅、志聯、新鋼,-0.325
+2006,東和鋼鐵,Tung Ho Steel,鋼鐵工業,鋼鐵工業,-2.281,0.736,-0.08,-0.207,0.323,0,Poor,0.112,Waste intensity; Independent comp. committee (%); GHG intensity (scope 1+2 / revenue),豐興、中鋼、中鴻,-0.103
+2029,盛餘,SYSCO,鋼鐵工業,鋼鐵工業,-0.537,-1.222,0.009,-0.279,0.29,0,Poor,0.226,Occupational injury rate; Independent comp. committee (%); Water intensity,東和鋼鐵、燁興、允強,-0.296
+2007,燁興,YH,鋼鐵工業,鋼鐵工業,-1.168,-0.171,-0.54,-0.321,0.258,0,Poor,0.013,Water intensity; Female directors (%); Waste intensity,海光、三星、東和鋼鐵,-0.351
+2038,海光,HAIKWANG,鋼鐵工業,鋼鐵工業,-1.646,0.339,-0.598,-0.323,0.226,0,Poor,0.026,Waste intensity; GHG intensity (scope 1+2 / revenue); Female directors (%),中鴻、燁興、豐興,-0.364
+2030,彰源,FROCH,鋼鐵工業,鋼鐵工業,0.457,-1.807,-0.478,-0.326,0.194,0,Poor,0.142,Occupational injury rate; Female managers (%); Energy management certified,新鋼、第一銅、春源,-0.291
+2032,新鋼,Sinkang,鋼鐵工業,鋼鐵工業,0.812,-2.126,-0.556,-0.347,0.161,0,Poor,0.286,Occupational injury rate; Average employee benefits; Audit committee attendance,彰源、春源、第一銅,-0.352
+2033,佳大,CHIA TA,鋼鐵工業,鋼鐵工業,-0.687,-0.391,-0.97,-0.393,0.129,0,Poor,-0.095,Board attendance; Water intensity; Median non-manager salary,官田鋼、豐達科、千興,-0.467
+2017,官田鋼,Quintain Steel,鋼鐵工業,鋼鐵工業,-1.074,-0.019,-1.188,-0.475,0.097,0,Poor,-0.121,Board attendance; Water intensity; Average employee benefits,佳大、豐達科、豐興,-0.448
+2009,第一銅,FCC,鋼鐵工業,鋼鐵工業,-1.09,-1.81,-0.358,-0.831,0.065,0,Poor,-0.03,Water intensity; Occupational injury rate; Audit committee attendance,千興、彰源、新鋼,-0.494
+2015,豐興,FH,鋼鐵工業,鋼鐵工業,-2.825,0.559,-1.151,-0.868,0.032,0,Poor,-0.028,Water intensity; Waste intensity; GHG intensity (scope 1+2 / revenue),中鋼、東和鋼鐵、海光,-0.603
+3036,文曄,WT,電子通路,電子通路,0.662,0.317,0.499,0.9,1.0,2,Excellent,0.846,Energy management certified,展碁國際、至上、大聯大,0.589
+8112,至上,Supreme,電子通路,電子通路,0.716,0.097,0.168,0.713,0.955,2,Excellent,0.367,Renewable energy share; Female directors (%); Investor conferences,大聯大、文曄、全科,0.207
+3702,大聯大,WPG,電子通路,電子通路,0.398,0.231,0.037,0.6,0.909,2,Excellent,0.143,Renewable energy share; Female directors (%); Energy management certified,至上、聯強、全科,0.116
+6776,展碁國際,Weblink,電子通路,電子通路,0.093,-0.085,0.524,0.558,0.864,2,Excellent,0.722,Female directors (%); Average employee benefits; Water intensity,宏碁遊戲、文曄、陞泰,0.343
+6189,豐藝,Promate,電子通路,電子通路,0.298,-0.262,0.428,0.529,0.818,2,Excellent,0.333,Renewable energy share; Average employee benefits; Board attendance,長華*、燦坤、蔚華科,0.249
+3048,益登,EDOM,電子通路,電子通路,0.517,0.245,-0.874,0.306,0.773,2,Excellent,0.028,Director training compliance; Audit committee attendance; Independent directors (%),聯強、弘憶股、增你強,-0.297
+3209,全科,ALLTEK,電子通路,電子通路,0.152,0.038,-0.373,0.288,0.727,2,Excellent,-0.244,Female directors (%); Independent directors (%); Female managers (%),大聯大、至上、華立,-0.172
+3028,增你強,ZENITRON,電子通路,電子通路,0.034,-0.676,-0.03,0.111,0.682,1,Moderate,-0.067,Renewable energy share; Investor conferences; Occupational injury rate,全國電、燦坤、聯強,-0.089
+3033,威健,Weikeng,電子通路,電子通路,0.014,-0.015,-0.677,0.105,0.636,1,Moderate,0.026,Independent comp. committee (%); Board attendance; Renewable energy share,弘憶股、華立、聯強,-0.247
+3010,華立,WAH LEE,電子通路,電子通路,-0.962,0.1,0.119,0.1,0.591,1,Moderate,0.035,Waste intensity; GHG inventory verified; Renewable energy share,安馳、崇越、全國電,-0.227
+3312,弘憶股,GMI,電子通路,電子通路,0.403,-0.119,-0.986,0.088,0.545,1,Moderate,-0.188,Renewable energy share; GHG inventory verified; Board attendance,精技、益登、聯強,-0.398
+2347,聯強,Synnex,電子通路,電子通路,0.326,-0.37,-0.896,0.002,0.5,1,Moderate,0.103,Audit committee attendance; Independent directors (%); Renewable energy share,益登、大聯大、弘憶股,-0.164
+3528,安馳,ANSTEK,電子通路,電子通路,-1.511,-0.152,0.127,-0.185,0.455,1,Moderate,-0.231,Waste intensity; GHG inventory verified; Independent directors (%),長華*、華立、立萬利,-0.425
+8072,陞泰,AV TECH,電子通路,電子通路,-1.579,-0.775,0.72,-0.217,0.409,1,Moderate,-0.083,Median non-manager salary; GHG intensity (scope 1+2 / revenue); GHG inventory verified,全國電、展碁國際、立萬利,-0.251
+2414,精技,UT,電子通路,電子通路,-0.612,-0.292,-0.701,-0.228,0.364,1,Moderate,-0.525,Renewable energy share; GHG inventory verified; Water intensity,弘憶股、蔚華科、全國電,-0.552
+6908,宏碁遊戲,AGM,電子通路,電子通路,-1.798,0.026,0.101,-0.23,0.318,1,Moderate,0.215,Water intensity; Investor conferences; Waste intensity,展碁國際、長華*、蔚華科,-0.171
+5434,崇越,TOPCO,電子通路,電子通路,-2.951,0.841,0.15,-0.319,0.273,1,Moderate,-0.182,GHG intensity (scope 1+2 / revenue); Water intensity; Waste intensity,蔚華科、長華*、華立,-0.273
+3054,立萬利,LIWANLI,電子通路,電子通路,-2.964,0.231,0.51,-0.415,0.227,1,Moderate,-0.05,GHG intensity (scope 1+2 / revenue); GHG inventory verified; Renewable energy share,蔚華科、安馳、崇越,-0.04
+3055,蔚華科,Spirox Corp.,電子通路,電子通路,-2.984,0.166,0.444,-0.47,0.182,1,Moderate,-0.162,GHG intensity (scope 1+2 / revenue); Water intensity; GHG inventory verified,立萬利、崇越、長華*,-0.381
+8070,長華*,CHANG WAH,電子通路,電子通路,-2.931,-0.666,0.141,-0.873,0.136,0,Poor,0.018,GHG intensity (scope 1+2 / revenue); Water intensity; Waste intensity,燦坤、全國電、蔚華科,-0.325
+2430,燦坤,TKE,電子通路,電子通路,-1.531,-2.659,0.283,-1.06,0.091,0,Poor,-0.022,GHG intensity (scope 1+2 / revenue); Waste intensity; Average employee benefits,長華*、全國電、豐藝,-0.603
+6281,全國電,E-LIFE,電子通路,電子通路,-2.985,-2.502,-0.101,-1.663,0.045,0,Poor,-0.354,GHG intensity (scope 1+2 / revenue); Water intensity; Waste intensity,長華*、燦坤、安馳,-0.964
+2059,川湖,king slide,電子零組件,電子零組件,0.566,0.608,1.517,1.355,1.0,2,Excellent,0.561,Renewable energy share,佳必琪、信錦、志聖,0.654
+6197,佳必琪,JPC,電子零組件,電子零組件,0.59,0.69,0.609,1.053,0.99,2,Excellent,0.431,Renewable energy share,川湖、立隆電、勝德,0.51
+6924,榮惠-KY創,EIKEI-KY,電子零組件,電子零組件,0.729,0.651,0.48,1.039,0.981,2,Excellent,0.546,Female managers (%); Renewable energy share; Independent directors (%),毅嘉、康控-KY、聯穎,0.071
+2493,揚博,AMPOC,電子零組件,電子零組件,0.519,0.551,0.753,1.03,0.971,2,Excellent,0.627,Renewable energy share; Female managers (%); GHG inventory verified,日電貿、康控-KY、榮惠-KY創,0.083
+3090,日電貿,NDB,電子零組件,電子零組件,0.755,0.468,0.484,0.982,0.962,2,Excellent,0.739,Renewable energy share; GHG inventory verified; Female directors (%),揚博、立隆電、驊陞,0.131
+1471,首利,SL,電子零組件,電子零組件,0.64,0.458,0.317,0.876,0.952,2,Excellent,0.498,Director training compliance; Independent directors (%); Renewable energy share,長廣、聯德、聯穎,-0.09
+6272,驊陞,WIESON,電子零組件,電子零組件,0.504,0.881,0.023,0.873,0.942,2,Excellent,0.714,Investor conferences; Audit committee attendance; Board attendance,瀚荃、日電貿、良得電,0.26
+3550,聯穎,COPARTNER,電子零組件,電子零組件,0.743,0.576,-0.017,0.83,0.933,2,Excellent,0.556,Independent directors (%); Renewable energy share; GHG inventory verified,毅嘉、榮惠-KY創、新巨,0.098
+2472,立隆電,LELON,電子零組件,電子零組件,0.082,1.107,0.026,0.808,0.923,2,Excellent,0.677,Independent comp. committee (%); Audit committee attendance; Board attendance,菱光、日電貿、瀚荃,0.029
+2402,毅嘉,ICHIA,電子零組件,電子零組件,0.703,0.252,0.161,0.763,0.913,2,Excellent,0.421,Median non-manager salary; Independent directors (%); Renewable energy share,聯穎、新巨、健和興,0.018
+2460,建通,GEM,電子零組件,電子零組件,0.54,0.147,0.407,0.759,0.904,2,Excellent,0.358,Independent comp. committee (%); Median non-manager salary; Average employee benefits,太空梭、新巨、毅嘉,-0.215
+1582,信錦,SYNCMOLD,電子零組件,電子零組件,-0.546,0.667,0.892,0.748,0.894,2,Excellent,0.473,GHG intensity (scope 1+2 / revenue); Renewable energy share; Waste intensity,川湖、廣宇、泰碩,0.238
+6449,鈺邦,APAQ,電子零組件,電子零組件,-0.006,1.043,-0.065,0.719,0.885,2,Excellent,0.201,GHG intensity (scope 1+2 / revenue); Female directors (%); Independent directors (%),菱光、嘉基、信錦,0.273
+4943,康控-KY,CONCRAFT,電子零組件,電子零組件,0.721,0.646,-0.384,0.711,0.875,2,Excellent,0.351,Female managers (%); Female directors (%); Independent directors (%),太空梭、榮惠-KY創、揚博,-0.292
+3533,嘉澤,LOTES,電子零組件,電子零組件,-0.433,1.226,0.044,0.677,0.865,2,Excellent,0.49,Waste intensity; Independent directors (%); Board attendance,台光電、台達電、廣宇,0.51
+3032,偉訓,COMPUCASE,電子零組件,電子零組件,0.752,0.64,-0.503,0.675,0.856,2,Excellent,0.148,Independent directors (%); Renewable energy share; GHG inventory verified,台端、鎰勝、谷崧,-0.22
+3296,勝德,POWERTECH,電子零組件,電子零組件,0.237,0.211,0.348,0.653,0.846,2,Excellent,0.514,Median non-manager salary; Average employee benefits; Renewable energy share,詮欣、新巨、毅嘉,0.147
+2328,廣宇,PI,電子零組件,電子零組件,-1.315,1.079,0.903,0.632,0.837,2,Excellent,0.624,Water intensity; Waste intensity,臻鼎-KY、嘉澤、定穎投控,0.444
+3338,泰碩,TAISOL,電子零組件,電子零組件,-1.03,0.537,1.149,0.625,0.827,2,Excellent,0.559,GHG intensity (scope 1+2 / revenue); Investor conferences; Waste intensity,驊陞、定穎投控、AES-KY,0.358
+2462,良得電,LINETEK,電子零組件,電子零組件,0.34,0.643,-0.255,0.623,0.817,2,Excellent,0.455,Female managers (%); Renewable energy share; Audit committee attendance,瀚荃、驊陞、日電貿,-0.066
+7795,長廣,EPM,電子零組件,電子零組件,0.547,0.592,-0.45,0.604,0.808,2,Excellent,0.402,Director training compliance; Renewable energy share; Independent directors (%),首利、太空梭、聚鼎,-0.26
+2383,台光電,EMC,電子零組件,電子零組件,-0.202,0.812,0.03,0.6,0.798,2,Excellent,0.24,Renewable energy share; Waste intensity; Board attendance,嘉澤、志聖、臻鼎-KY,0.254
+2420,新巨,ZIPPY,電子零組件,電子零組件,0.302,0.068,0.272,0.594,0.788,2,Excellent,0.221,Renewable energy share; Average employee benefits; Median non-manager salary,毅嘉、勝德、建通,-0.036
+6205,詮欣,COXOC,電子零組件,電子零組件,0.693,0.197,-0.237,0.589,0.779,2,Excellent,0.458,Audit committee attendance; Average employee benefits; Median non-manager salary,勝德、鑫禾、新巨,-0.179
+2431,聯昌,LIEN CHANG,電子零組件,電子零組件,0.703,0.505,-0.75,0.514,0.769,2,Excellent,0.124,Independent directors (%); Female managers (%); Independent comp. committee (%),鴻名、偉訓、鎰勝,-0.521
+3432,台端,TAI TWUN,電子零組件,電子零組件,0.274,0.237,-0.103,0.507,0.76,2,Excellent,-0.009,Independent directors (%); Average employee benefits; Median non-manager salary,谷崧、偉訓、鴻名,-0.182
+2440,太空梭,SPACE SHUTTLE,電子零組件,電子零組件,0.452,0.364,-0.402,0.504,0.75,2,Excellent,0.412,Independent comp. committee (%); Female managers (%); Independent directors (%),聯昌、康控-KY、建通,-0.432
+6862,三集瑞-KY,TRIO-KY,電子零組件,電子零組件,-0.451,0.67,0.124,0.494,0.74,2,Excellent,0.512,Water intensity; GHG inventory verified; Female directors (%),晟鈦、廣宇、臻鼎-KY,0.043
+3021,鴻名,WELLTEND,電子零組件,電子零組件,0.699,0.115,-0.451,0.481,0.731,2,Excellent,0.008,Independent directors (%); Average employee benefits; Median non-manager salary,谷崧、鎰勝、台端,-0.328
+3607,谷崧,Coxon,電子零組件,電子零組件,0.659,-0.024,-0.314,0.467,0.721,2,Excellent,-0.071,Independent directors (%); Median non-manager salary; Average employee benefits,鴻名、台端、鎰勝,-0.26
+6715,嘉基,Lintes,電子零組件,電子零組件,-0.04,0.653,-0.326,0.464,0.712,2,Excellent,0.3,Board attendance; Independent directors (%); Renewable energy share,鴻碩、嘉澤、瀚荃,0.042
+3003,健和興,KST,電子零組件,電子零組件,0.048,0.067,0.161,0.462,0.702,2,Excellent,0.219,Investor conferences; Average employee benefits; Renewable energy share,毅嘉、康控-KY、揚博,-0.272
+4915,致伸,Primax,電子零組件,電子零組件,0.55,-1.036,0.597,0.396,0.692,2,Excellent,0.53,Occupational injury rate; Audit committee attendance,群電、志聖、台達電,0.646
+2428,興勤,THINKING,電子零組件,電子零組件,-1.083,0.274,0.832,0.389,0.683,2,Excellent,0.233,Independent comp. committee (%); Water intensity; GHG intensity (scope 1+2 / revenue),臻鼎-KY、定穎投控、信錦,0.104
+8103,瀚荃,CviLux,電子零組件,電子零組件,-0.497,0.732,-0.194,0.381,0.673,2,Excellent,0.557,Board attendance; Audit committee attendance; Waste intensity,驊陞、良得電、廣宇,0.097
+6115,鎰勝,I-SHENG,電子零組件,電子零組件,0.721,0.261,-0.896,0.376,0.663,2,Excellent,-0.027,Independent directors (%); Board attendance; Median non-manager salary,鴻名、谷崧、台端,-0.221
+2308,台達電,DELTA,電子零組件,電子零組件,0.393,-0.954,0.569,0.361,0.654,2,Excellent,0.3,Occupational injury rate; Independent directors (%),群電、群光、建準,0.702
+4999,鑫禾,Sinher,電子零組件,電子零組件,0.231,0.115,-0.343,0.355,0.644,2,Excellent,0.193,Audit committee attendance; Average employee benefits; Median non-manager salary,詮欣、銘鈺、力銘,-0.183
+3015,全漢,FSP,電子零組件,電子零組件,0.42,0.505,-0.966,0.333,0.635,2,Excellent,-0.118,Independent directors (%); Female directors (%); Renewable energy share,晶技、鎰勝、環科,0.045
+2467,志聖,C SUN,電子零組件,電子零組件,0.588,-1.367,0.593,0.286,0.625,2,Excellent,0.34,Occupational injury rate; Board attendance; Renewable energy share,致伸、群電、飛宏,0.405
+2385,群光,CHICONY,電子零組件,電子零組件,0.605,-0.884,0.097,0.284,0.615,2,Excellent,0.195,Occupational injury rate; Independent directors (%); Female managers (%),台達電、群電、康舒,0.522
+2413,環科,UMEC,電子零組件,電子零組件,0.58,-0.064,-0.831,0.23,0.606,2,Excellent,-0.273,Independent directors (%); Average employee benefits; Median non-manager salary,鴻名、鎰勝、谷崧,-0.278
+6412,群電,Chicony Power,電子零組件,電子零組件,0.327,-1.173,0.346,0.173,0.596,2,Excellent,0.308,Occupational injury rate; Independent directors (%),台達電、群光、建準,0.535
+8249,菱光,CSI,電子零組件,電子零組件,-0.452,-0.868,0.6,0.103,0.587,1,Moderate,0.411,Occupational injury rate; Independent comp. committee (%); Water intensity,立隆電、精成科、建準,0.072
+2421,建準,SUNON,電子零組件,電子零組件,0.249,-1.363,0.239,0.034,0.577,1,Moderate,0.294,Occupational injury rate; Independent comp. committee (%); Board attendance,群電、台達電、致伸,0.385
+2392,正崴,FOXLINK,電子零組件,電子零組件,0.552,-1.46,0.029,0.027,0.567,1,Moderate,0.267,Occupational injury rate; Female directors (%); Female managers (%),AES-KY、康舒、群電,0.182
+6141,柏承,PLOTECH,電子零組件,電子零組件,-0.605,-0.157,-0.195,0.014,0.558,1,Moderate,-0.168,Average employee benefits; Median non-manager salary; Female managers (%),健和興、松川精密、環科,-0.399
+2476,鉅祥,GS,電子零組件,電子零組件,0.609,-2.061,0.49,-0.003,0.548,1,Moderate,0.139,Occupational injury rate; Average employee benefits; Median non-manager salary,百容、聚鼎、松川精密,-0.128
+3011,今皓,JH,電子零組件,電子零組件,-0.457,0.283,-1.057,-0.095,0.538,1,Moderate,0.247,Independent directors (%); Independent comp. committee (%); Water intensity,聯昌、太空梭、力銘,-0.498
+6224,聚鼎,PTTC.,電子零組件,電子零組件,0.453,-1.83,0.145,-0.102,0.519,1,Moderate,0.127,Occupational injury rate; Director training compliance; Renewable energy share,金橋、鉅祥、百容,-0.347
+6781,AES-KY,AES-KY,電子零組件,電子零組件,0.668,-2.963,1.059,-0.102,0.529,1,Moderate,0.432,Occupational injury rate; Female managers (%); Investor conferences,正崴、致伸、志聖,0.415
+2484,希華,SIWARD,電子零組件,電子零組件,-0.342,0.034,-0.961,-0.11,0.51,1,Moderate,-0.148,Independent directors (%); Average employee benefits; Renewable energy share,鈞寶、谷崧、台端,-0.6
+3229,晟鈦,CHEER TIME,電子零組件,電子零組件,-1.408,-0.04,0.018,-0.148,0.5,1,Moderate,0.015,Waste intensity; Average employee benefits; Water intensity,鈞寶、天二科技、南電,-0.397
+6805,富世達,Fositek,電子零組件,電子零組件,0.482,-1.475,-0.399,-0.165,0.49,1,Moderate,-0.281,Independent directors (%); Occupational injury rate; Renewable energy share,晶技、台虹、康舒,0.003
+3092,鴻碩,HOTRON,電子零組件,電子零組件,-1.368,0.591,-0.734,-0.183,0.481,1,Moderate,0.046,Board attendance; Waste intensity; Water intensity,嘉基、燿華、榮科,-0.13
+3042,晶技,TXC,電子零組件,電子零組件,0.54,-1.697,-0.289,-0.185,0.471,1,Moderate,-0.165,Independent directors (%); Occupational injury rate; Average employee benefits,富世達、群光、康舒,0.088
+2457,飛宏,PHIHONG,電子零組件,電子零組件,-0.185,-1.553,0.153,-0.223,0.462,1,Moderate,-0.017,Occupational injury rate; Renewable energy share; Female directors (%),圓裕、大毅、騰輝電子-KY,0.061
+2415,錩新,CX TECH,電子零組件,電子零組件,-2.556,0.722,0.135,-0.229,0.452,1,Moderate,0.225,Water intensity; Waste intensity; Independent comp. committee (%),金像電、臻鼎-KY、泰鼎-KY,-0.266
+4958,臻鼎-KY,ZDT,電子零組件,電子零組件,-1.878,-0.669,0.838,-0.239,0.442,1,Moderate,0.331,Water intensity; Waste intensity; Independent comp. committee (%),廣宇、金像電、定穎投控,0.089
+2483,百容,ECE,電子零組件,電子零組件,0.114,-2.413,0.604,-0.266,0.433,1,Moderate,0.039,Occupational injury rate; Average employee benefits; Median non-manager salary,鉅祥、松川精密、金橋,-0.359
+3605,宏致,ACES,電子零組件,電子零組件,-0.581,-1.932,0.726,-0.288,0.423,1,Moderate,-0.033,Occupational injury rate; Independent comp. committee (%); Waste intensity,信邦、圓裕、華新科,-0.097
+3593,力銘,Logah,電子零組件,電子零組件,-0.803,0.353,-1.323,-0.291,0.413,1,Moderate,0.226,Board attendance; Audit committee attendance; Independent directors (%),希華、詮欣、今皓,-0.645
+4545,銘鈺,MAP,電子零組件,電子零組件,-1.133,0.09,-0.825,-0.319,0.404,1,Moderate,-0.146,Water intensity; Female directors (%); Renewable energy share,榮科、欣興、天二科技,-0.399
+2368,金像電,GCE,電子零組件,電子零組件,-2.129,-0.014,0.177,-0.333,0.394,1,Moderate,0.147,Water intensity; Waste intensity; Independent directors (%),華通、臻鼎-KY、健鼎,0.026
+6155,鈞寶,KC,電子零組件,電子零組件,-1.386,-0.021,-0.526,-0.337,0.385,1,Moderate,-0.24,Independent directors (%); Water intensity; GHG intensity (scope 1+2 / revenue),天二科技、希華、台端,-0.592
+6282,康舒,Acbel,電子零組件,電子零組件,0.274,-1.535,-0.627,-0.346,0.375,1,Moderate,-0.054,Independent directors (%); Occupational injury rate; Female directors (%),群光、正崴、新至陞,-0.016
+3023,信邦,SINBON,電子零組件,電子零組件,0.424,-2.167,-0.184,-0.36,0.365,1,Moderate,-0.13,Occupational injury rate; Independent comp. committee (%); Independent directors (%),宏致、華新科、建準,-0.142
+5469,瀚宇博,HSB,電子零組件,電子零組件,-0.173,-1.73,-0.065,-0.366,0.356,1,Moderate,0.041,Occupational injury rate; Independent comp. committee (%); Female managers (%),宏致、志聖、華新科,-0.333
+7788,松川精密,SONG CHUAN,電子零組件,電子零組件,-0.415,-2.307,0.557,-0.432,0.346,1,Moderate,-0.158,Occupational injury rate; Median non-manager salary; Average employee benefits,百容、鉅祥、金橋,-0.39
+4989,榮科,LCYT,電子零組件,電子零組件,-2.17,0.738,-0.81,-0.441,0.337,1,Moderate,0.001,Water intensity; GHG intensity (scope 1+2 / revenue); Female directors (%),銘鈺、南電、燿華,-0.409
+3308,聯德,BESTEC,電子零組件,電子零組件,-2.964,0.332,0.312,-0.451,0.327,1,Moderate,0.279,GHG intensity (scope 1+2 / revenue); Director training compliance; Independent directors (%),首利、新巨、勝德,-0.275
+6269,台郡,FLEXIUM,電子零組件,電子零組件,-0.814,-1.059,-0.36,-0.456,0.317,1,Moderate,-0.32,Independent directors (%); Water intensity; Director training compliance,健策、華通、新日興,-0.407
+3026,禾伸堂,HOLY STONE,電子零組件,電子零組件,0.039,-1.776,-0.461,-0.457,0.308,1,Moderate,-0.18,Occupational injury rate; Renewable energy share; Board attendance,維熹、立德、圓裕,-0.146
+6133,金橋,GBE,電子零組件,電子零組件,-0.391,-1.895,0.018,-0.473,0.298,1,Moderate,0.124,Occupational injury rate; Director training compliance; Female managers (%),聚鼎、百容、松川精密,-0.71
+6835,圓裕,CMI,電子零組件,電子零組件,-0.769,-1.89,0.179,-0.545,0.288,1,Moderate,-0.098,Occupational injury rate; Water intensity; Renewable energy share,飛宏、競國、大毅,-0.081
+6834,天二科技,EVEROHMS,電子零組件,電子零組件,-1.85,-0.046,-0.687,-0.571,0.279,1,Moderate,-0.49,Independent directors (%); Water intensity; Average employee benefits,鈞寶、健鼎、南電,-0.571
+3715,定穎投控,Dynamic Holding,電子零組件,電子零組件,-2.892,-1.293,1.505,-0.579,0.269,1,Moderate,0.256,Occupational injury rate; Water intensity; Waste intensity,競國、志超、廣宇,0.377
+6213,聯茂,ITEQ,電子零組件,電子零組件,-0.666,-2.026,-0.067,-0.651,0.26,1,Moderate,0.032,Occupational injury rate; Fire casualties; Waste intensity,騰輝電子-KY、競國、聯德控股-KY,-0.401
+2492,華新科,WTC,電子零組件,電子零組件,-0.323,-2.022,-0.436,-0.666,0.25,1,Moderate,-0.162,Occupational injury rate; Independent comp. committee (%); Board attendance,宏致、信邦、禾伸堂,-0.424
+2478,大毅,TA-I,電子零組件,電子零組件,-1.627,-1.52,0.241,-0.689,0.24,1,Moderate,-0.211,Occupational injury rate; Water intensity; Waste intensity,志超、圓裕、飛宏,-0.298
+3376,新日興,SZS,電子零組件,電子零組件,-0.261,-2.257,-0.381,-0.711,0.231,1,Moderate,-0.644,Independent directors (%); Occupational injury rate; Average employee benefits,晶技、台虹、富世達,-0.413
+3044,健鼎,Tripod,電子零組件,電子零組件,-2.943,0.243,-0.381,-0.737,0.221,1,Moderate,-0.268,Independent directors (%); Water intensity; Waste intensity,南電、天二科技、金像電,-0.474
+8039,台虹,TAIFLEX,電子零組件,電子零組件,-0.089,-1.884,-1.013,-0.749,0.212,1,Moderate,-0.273,Independent directors (%); Occupational injury rate; Female directors (%),新至陞、富世達、新日興,-0.559
+3501,維熹,Well Shin,電子零組件,電子零組件,0.279,-2.117,-1.232,-0.787,0.202,1,Moderate,-0.034,Occupational injury rate; Board attendance; Female directors (%),立德、禾伸堂、嘉聯益,-0.572
+3679,新至陞,Nishoku,電子零組件,電子零組件,-0.839,-1.603,-0.686,-0.788,0.192,1,Moderate,-0.258,Independent directors (%); Occupational injury rate; GHG intensity (scope 1+2 / revenue),台虹、康舒、富世達,-0.407
+8046,南電,N.P.C,電子零組件,電子零組件,-2.959,0.261,-0.684,-0.85,0.183,0,Poor,-0.146,Independent directors (%); Water intensity; Waste intensity,健鼎、欣興、鈞寶,-0.803
+6191,精成科,GBM,電子零組件,電子零組件,-2.491,-0.765,-0.244,-0.899,0.173,0,Poor,0.119,Occupational injury rate; Water intensity; Waste intensity,泰鼎-KY、志超、大毅,-0.411
+2355,敬鵬,CHIN-POON,電子零組件,電子零組件,-1.485,-2.039,-0.063,-0.944,0.163,0,Poor,-0.155,Occupational injury rate; Independent directors (%); Waste intensity,達邁、華通、新至陞,-0.361
+2327,國巨*,YAGEO,電子零組件,電子零組件,-0.008,-1.902,-1.615,-0.953,0.154,0,Poor,-0.254,Independent directors (%); Occupational injury rate; Board attendance,禾伸堂、晶技、新日興,-0.453
+4912,聯德控股-KY,Lemtech-KY,電子零組件,電子零組件,-0.547,-2.946,-0.14,-0.976,0.144,0,Poor,0.002,Occupational injury rate; Waste intensity; Independent comp. committee (%),建準、宏致、華新科,-0.361
+3058,立德,LEI,電子零組件,電子零組件,-0.39,-2.016,-1.222,-0.984,0.135,0,Poor,-0.044,Occupational injury rate; Board attendance; Audit committee attendance,維熹、禾伸堂、嘉聯益,-0.589
+2375,凱美,KAIMEI,電子零組件,電子零組件,-1.716,-1.733,-0.54,-1.093,0.125,0,Poor,-0.278,Occupational injury rate; Water intensity; GHG intensity (scope 1+2 / revenue),嘉聯益、燿華、泰鼎-KY,-0.491
+8213,志超,tpt,電子零組件,電子零組件,-2.94,-1.659,0.526,-1.099,0.115,0,Poor,-0.044,Occupational injury rate; Water intensity; Waste intensity,大毅、競國、達邁,-0.399
+3321,同泰,UNIFLEX,電子零組件,電子零組件,-1.526,-2.272,-0.236,-1.111,0.106,0,Poor,-0.065,Occupational injury rate; Water intensity; Average employee benefits,圓裕、凱美、競國,-0.742
+6108,競國,APCB INC.,電子零組件,電子零組件,-2.978,-1.952,0.786,-1.124,0.096,0,Poor,0.087,Occupational injury rate; Water intensity; Waste intensity,志超、定穎投控、圓裕,-0.363
+6672,騰輝電子-KY,Ventec,電子零組件,電子零組件,-1.009,-2.944,-0.177,-1.154,0.087,0,Poor,0.041,Occupational injury rate; Waste intensity; Renewable energy share,大毅、飛宏、欣興,-0.42
+3653,健策,JENTECH,電子零組件,電子零組件,-0.849,-1.741,-1.77,-1.25,0.077,0,Poor,-0.225,Independent directors (%); Occupational injury rate; Water intensity,欣興、台郡、楠梓電,-0.832
+3645,達邁,TMT,電子零組件,電子零組件,-2.627,-1.899,-0.133,-1.324,0.067,0,Poor,-0.316,Independent directors (%); Occupational injury rate; Waste intensity,志超、欣興、楠梓電,-0.662
+2313,華通,COMPEQ,電子零組件,電子零組件,-2.606,-1.832,-0.409,-1.395,0.058,0,Poor,-0.048,Occupational injury rate; Water intensity; Waste intensity,金像電、志超、燿華,-0.538
+6153,嘉聯益,Career Tech.,電子零組件,電子零組件,-1.801,-2.112,-1.242,-1.527,0.048,0,Poor,-0.404,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Board attendance,凱美、燿華、立德,-0.796
+2367,燿華,UNITECH,電子零組件,電子零組件,-2.705,-2.042,-0.923,-1.702,0.038,0,Poor,-0.263,Occupational injury rate; Water intensity; Board attendance,凱美、嘉聯益、志超,-0.791
+4927,泰鼎-KY,Apex,電子零組件,電子零組件,-2.953,-2.948,0.008,-1.775,0.029,0,Poor,-0.18,Occupational injury rate; Water intensity; Waste intensity,志超、燿華、凱美,-0.861
+3037,欣興,UNIMICRON,電子零組件,電子零組件,-2.761,-1.963,-1.524,-1.918,0.019,0,Poor,-0.329,Independent directors (%); Occupational injury rate; Water intensity,楠梓電、達邁、燿華,-1.002
+2316,楠梓電,WUS,電子零組件,電子零組件,-2.951,-2.335,-1.431,-2.088,0.01,0,Poor,-0.322,Independent directors (%); Occupational injury rate; Water intensity,欣興、達邁、燿華,-1.246
+8374,羅昇,ACE PILLAR,電機機械,電機機械與電器電纜,0.792,0.765,0.431,1.086,1.0,2,Excellent,0.64,Renewable energy share,宏泰、大東電、中宇,0.406
+1519,華城,FE,電機機械,電機機械與電器電纜,0.614,1.239,0.06,1.058,0.985,2,Excellent,0.504,Female managers (%); Female directors (%); Investor conferences,中宇、士電、宏泰,0.421
+1612,宏泰,HONG TAI,電器電纜,電機機械與電器電纜,0.422,0.957,0.467,1.039,0.97,2,Excellent,0.587,Renewable energy share,羅昇、中宇、華城,0.396
+1535,中宇,CEC,電機機械,電機機械與電器電纜,0.787,1.025,-0.195,0.945,0.955,2,Excellent,0.763,Female managers (%); GHG inventory verified; Independent directors (%),中電、大量、華城,0.124
+1623,大東電,TEWC,電器電纜,電機機械與電器電纜,0.049,0.531,0.879,0.904,0.939,2,Excellent,0.495,GHG inventory verified; Renewable energy share; Waste intensity,日馳、羅昇、程泰,0.37
+1538,正峰,JF,電機機械,電機機械與電器電纜,0.643,0.244,0.269,0.779,0.924,2,Excellent,0.423,Median non-manager salary; GHG inventory verified; Female directors (%),建德工業、程泰、大東電,0.139
+1541,錩泰,Chang Type,電機機械,電機機械與電器電纜,0.041,0.066,0.947,0.755,0.909,2,Excellent,0.168,Director training compliance; Average employee benefits; Median non-manager salary,寶一、大東電、鑽全,0.053
+1528,恩德,ANDERSON,電機機械,電機機械與電器電纜,0.467,0.211,0.207,0.681,0.894,2,Excellent,0.226,Female managers (%); Average employee benefits; Median non-manager salary,中電、建德工業、氣立,0.018
+1611,中電,CE,電器電纜,電機機械與電器電纜,0.736,0.488,-0.473,0.624,0.879,2,Excellent,0.608,Female managers (%); Female directors (%); GHG inventory verified,中宇、建德工業、大量,-0.115
+4555,氣立,CHELIC,電機機械,電機機械與電器電纜,0.53,-0.009,0.156,0.603,0.864,2,Excellent,-0.004,Female directors (%); Average employee benefits; Median non-manager salary,正峰、建德工業、恩德,0.116
+1514,亞力,AEC,電機機械,電機機械與電器電纜,0.529,0.794,-0.683,0.585,0.848,2,Excellent,0.627,Board attendance; Independent directors (%); Female managers (%),東元、大亞、中砂,0.423
+3167,大量,TA LIANG,電機機械,電機機械與電器電纜,0.742,0.836,-0.941,0.579,0.833,2,Excellent,0.637,Board attendance; GHG inventory verified; Audit committee attendance,中宇、士電、中電,-0.006
+6606,建德工業,KENT,電機機械,電機機械與電器電纜,0.5,0.177,-0.151,0.546,0.818,2,Excellent,0.468,GHG inventory verified; Female directors (%); Average employee benefits,正峰、中電、程泰,-0.1
+1504,東元,TECO,電機機械,電機機械與電器電纜,0.514,-0.494,0.469,0.536,0.803,2,Excellent,0.521,Occupational injury rate,大亞、時碩工業、直得,0.427
+1526,日馳,SUNRACE,電機機械,電機機械與電器電纜,0.001,0.116,0.33,0.527,0.788,2,Excellent,0.437,Audit committee attendance; Median non-manager salary; GHG inventory verified,億泰、大東電、巨庭,-0.109
+1558,伸興,ZENG HSING,電機機械,電機機械與電器電纜,-0.32,0.347,0.104,0.414,0.773,2,Excellent,0.254,Water intensity; Renewable energy share; Female directors (%),高力、大東電、大銀微系統,0.374
+1503,士電,SEEC,電機機械,電機機械與電器電纜,0.54,0.873,-1.241,0.408,0.758,2,Excellent,0.207,Female directors (%); Board attendance; Independent directors (%),大量、中電、中宇,-0.093
+1616,億泰,EVERTOP,電器電纜,電機機械與電器電纜,-0.169,0.515,-0.231,0.404,0.742,2,Excellent,0.264,Audit committee attendance; Board attendance; Waste intensity,日馳、瑞智、大同,-0.037
+1531,高林股,KAULIN,電機機械,電機機械與電器電纜,-1.256,0.59,0.585,0.352,0.727,2,Excellent,0.341,Water intensity; Waste intensity; GHG inventory verified,直得、上銀、寶一,0.113
+1583,程泰,GOODWAY,電機機械,電機機械與電器電纜,0.299,-0.345,0.029,0.349,0.712,2,Excellent,0.422,GHG inventory verified; Median non-manager salary; Occupational injury rate,東台、亞崴、大東電,-0.006
+8222,寶一,Aero Win,電機機械,電機機械與電器電纜,-1.065,0.196,0.738,0.331,0.697,2,Excellent,-0.07,GHG intensity (scope 1+2 / revenue); Water intensity; Average employee benefits,燦星網、上銀、錩泰,0.02
+7750,新代,Syntec,電機機械,電機機械與電器電纜,0.785,-0.674,-0.342,0.261,0.682,2,Excellent,0.206,Occupational injury rate; Audit committee attendance; Renewable energy share,華榮、聲寶、高力,0.18
+1539,巨庭,GT,電機機械,電機機械與電器電纜,0.08,-0.159,-0.199,0.254,0.667,2,Excellent,0.288,Board attendance; Median non-manager salary; Average employee benefits,喬福、穎漢、三洋電,-0.295
+1540,喬福,ROUNDTOP,電機機械,電機機械與電器電纜,0.504,0.067,-0.923,0.216,0.652,1,Moderate,0.219,Board attendance; Female managers (%); Average employee benefits,穎漢、巨庭、榮星,-0.426
+4576,大銀微系統,HMC,電機機械,電機機械與電器電纜,-0.057,-0.94,0.588,0.213,0.636,1,Moderate,0.28,Occupational injury rate; Renewable energy share; Water intensity,合機、大同、大亞,0.208
+1608,華榮,HE,電器電纜,電機機械與電器電纜,-0.103,-0.618,0.259,0.192,0.621,1,Moderate,0.047,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Female directors (%),新代、高力、合機,0.086
+1617,榮星,JSW,電器電纜,電機機械與電器電纜,-0.28,0.277,-0.697,0.101,0.606,1,Moderate,0.268,Board attendance; Director training compliance; Water intensity,喬福、穎漢、艾美特-KY,-0.407
+4571,鈞興-KY,KHGEARS,電機機械,電機機械與電器電纜,-1.48,0.225,0.386,0.063,0.591,1,Moderate,0.064,Water intensity; GHG intensity (scope 1+2 / revenue); Waste intensity,亞德客-KY、華新、燦星網,0.073
+1614,三洋電,Taiwan Sanyo,電器電纜,電機機械與電器電纜,-0.439,0.011,-0.443,0.042,0.576,1,Moderate,0.139,Independent comp. committee (%); Average employee benefits; Waste intensity,巨庭、喬福、穎漢,-0.645
+1603,華電,CWCO,電器電纜,電機機械與電器電纜,0.536,-2.01,0.602,0.032,0.561,1,Moderate,-0.173,Occupational injury rate; Median non-manager salary; Average employee benefits,禾聯碩、力山、合機,0.068
+1609,大亞,TA YA,電器電纜,電機機械與電器電纜,0.108,-1.438,0.432,0.029,0.545,1,Moderate,0.323,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Waste intensity,東元、中砂、中興電,0.402
+2371,大同,TATUNG COMPANY,電機機械,電機機械與電器電纜,-0.135,-0.455,-0.351,0.012,0.53,1,Moderate,0.176,Occupational injury rate; Board attendance; Renewable energy share,大銀微系統、聲寶、亞崴,-0.055
+4560,強信-KY,STRONG H,電機機械,電機機械與電器電纜,-1.79,0.654,0.081,-0.003,0.515,1,Moderate,0.017,GHG intensity (scope 1+2 / revenue); Water intensity; Waste intensity,勤美、上銀、豐祥-KY,-0.326
+1615,大山,Dah  San,電器電纜,電機機械與電器電纜,0.313,-1.053,-0.239,-0.008,0.485,1,Moderate,0.282,Director training compliance; Occupational injury rate; Board attendance,鑽全、榮星、亞崴,-0.411
+8996,高力,KAORI,電機機械,電機機械與電器電纜,-0.047,-0.87,-0.077,-0.008,0.5,1,Moderate,0.058,Occupational injury rate; Female directors (%); Renewable energy share,華榮、中砂、新代,0.056
+4562,穎漢,YHT,電機機械,電機機械與電器電纜,-0.124,0.113,-0.978,-0.01,0.47,1,Moderate,0.079,Board attendance; Waste intensity; GHG intensity (scope 1+2 / revenue),喬福、巨庭、榮星,-0.467
+1618,合機,HK,電器電纜,電機機械與電器電纜,-0.158,-1.479,0.588,-0.022,0.455,1,Moderate,0.087,Occupational injury rate; Waste intensity; GHG intensity (scope 1+2 / revenue),大銀微系統、禾聯碩、華榮,0.026
+4526,東台,TONGTAI,電機機械,電機機械與電器電纜,0.472,-0.858,-0.886,-0.123,0.439,1,Moderate,0.34,Audit committee attendance; Occupational injury rate; Female directors (%),亞崴、聲寶、程泰,-0.332
+2049,上銀,HIWIN,電機機械,電機機械與電器電纜,-2.532,0.474,0.501,-0.175,0.424,1,Moderate,0.134,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,勤美、豐祥-KY、強信-KY,-0.214
+4552,力達-KY,Lida,電機機械,電機機械與電器電纜,-1.783,0.649,-0.425,-0.192,0.409,1,Moderate,0.116,Water intensity; Female managers (%); Audit committee attendance,強信-KY、艾美特-KY、高林股,-0.623
+1513,中興電,CHEM,電機機械,電機機械與電器電纜,0.578,-1.514,-0.757,-0.279,0.394,1,Moderate,0.128,Occupational injury rate; Female directors (%); Board attendance,大亞、東元、中砂,0.024
+5283,禾聯碩,Heran,電器電纜,電機機械與電器電纜,0.349,-1.887,-0.188,-0.285,0.379,1,Moderate,-0.085,Occupational injury rate; Board attendance; Average employee benefits,合機、華電、聲寶,-0.18
+1560,中砂,KINIK,電機機械,電機機械與電器電纜,-0.635,-0.881,-0.291,-0.3,0.364,1,Moderate,0.126,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Female directors (%),大亞、華新、高力,0.005
+1515,力山,REXON,電機機械,電機機械與電器電纜,0.571,-1.965,-0.378,-0.306,0.348,1,Moderate,-0.023,Occupational injury rate; Independent comp. committee (%); Audit committee attendance,樂事綠能、聲寶、禾聯碩,-0.397
+1532,勤美,CMP,電機機械,電機機械與電器電纜,-2.662,0.528,0.216,-0.308,0.333,1,Moderate,0.043,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,上銀、豐祥-KY、強信-KY,-0.205
+5288,豐祥-KY,Eurocharm,電機機械,電機機械與電器電纜,-2.689,0.212,0.533,-0.315,0.318,1,Moderate,-0.134,Waste intensity; Water intensity; GHG intensity (scope 1+2 / revenue),上銀、勤美、永冠-KY,-0.248
+1604,聲寶,SAMPO,電器電纜,電機機械與電器電纜,0.512,-1.732,-0.596,-0.323,0.303,1,Moderate,0.078,Occupational injury rate; Audit committee attendance; Renewable energy share,亞崴、東台、大同,-0.191
+4566,時碩工業,GLOBAL TEK,電機機械,電機機械與電器電纜,-1.09,-1.813,0.957,-0.338,0.288,1,Moderate,0.05,Occupational injury rate; Waste intensity; GHG intensity (scope 1+2 / revenue),直得、大亞、利奇,0.166
+4930,燦星網,Star  Comgistic,電器電纜,電機機械與電器電纜,-1.878,-1.156,0.846,-0.416,0.273,1,Moderate,-0.121,Water intensity; Occupational injury rate; Waste intensity,亞德客-KY、駐龍、元翎,-0.21
+1517,利奇,Lee Chi,電機機械,電機機械與電器電纜,-0.864,-2.226,0.879,-0.439,0.258,1,Moderate,-0.064,Occupational injury rate; Water intensity; Average employee benefits,直得、駐龍、時碩工業,-0.062
+1597,直得,cpc,電機機械,電機機械與電器電纜,-1.187,-1.929,0.798,-0.475,0.242,1,Moderate,0.147,Occupational injury rate; Water intensity; GHG intensity (scope 1+2 / revenue),利奇、時碩工業、駐龍,-0.099
+1537,廣隆,KUNG LONG,電機機械,電機機械與電器電纜,-2.951,0.508,-0.041,-0.514,0.227,1,Moderate,-0.357,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,永冠-KY、正道、勤美,-0.538
+1530,亞崴,AWEA,電機機械,電機機械與電器電纜,-0.127,-1.898,-0.409,-0.541,0.212,1,Moderate,0.111,Occupational injury rate; Audit committee attendance; Water intensity,聲寶、東台、程泰,-0.385
+4532,瑞智,RECHI,電機機械,電機機械與電器電纜,-2.125,0.85,-1.496,-0.641,0.197,0,Poor,0.068,Waste intensity; Water intensity; Audit committee attendance,華新、勤美、亞力,-0.369
+1529,樂事綠能,LUXE,電機機械,電機機械與電器電纜,-0.235,-2.247,-0.604,-0.782,0.182,0,Poor,0.027,Occupational injury rate; Independent comp. committee (%); GHG intensity (scope 1+2 / revenue),力山、台灣精銳、元翎,-0.643
+1506,正道,RIGHT WAY,電機機械,電機機械與電器電纜,-2.956,-0.033,-0.295,-0.812,0.167,0,Poor,-0.515,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,永冠-KY、豐祥-KY、全球傳動,-0.751
+1589,永冠-KY,YGG,電機機械,電機機械與電器電纜,-2.985,-0.29,-0.265,-0.906,0.152,0,Poor,-0.477,Waste intensity; GHG intensity (scope 1+2 / revenue); Water intensity,正道、廣隆、豐祥-KY,-0.767
+4540,全球傳動,TBI MOTION,電機機械,電機機械與電器電纜,-2.059,-1.489,0.007,-0.919,0.136,0,Poor,-0.564,Waste intensity; Occupational injury rate; Water intensity,亞德客-KY、駐龍、永冠-KY,-0.523
+1626,艾美特-KY,AIRMATE,電器電纜,電機機械與電器電纜,-1.207,-1.58,-0.766,-0.94,0.121,0,Poor,-0.108,Water intensity; Board attendance; Occupational injury rate,元翎、台灣精銳、駐龍,-0.59
+1590,亞德客-KY,AIRTAC,電機機械,電機機械與電器電纜,-2.152,-1.703,0.203,-0.957,0.106,0,Poor,-0.183,Waste intensity; Water intensity; Occupational injury rate,全球傳動、豐祥-KY、華新,-0.361
+4572,駐龍,DPI,電機機械,電機機械與電器電纜,-2.099,-2.201,0.559,-0.989,0.091,0,Poor,-0.272,Occupational injury rate; Water intensity; Waste intensity,富田、元翎、全球傳動,-0.603
+4590,富田,FUKUTA,電機機械,電機機械與電器電纜,-1.823,-1.99,-0.156,-1.082,0.076,0,Poor,-0.287,Waste intensity; Occupational injury rate; Water intensity,駐龍、台灣精銳、全球傳動,-0.663
+4564,元翎,MOSA,電機機械,電機機械與電器電纜,-2.141,-1.915,-0.001,-1.108,0.061,0,Poor,-0.168,GHG intensity (scope 1+2 / revenue); Occupational injury rate; Water intensity,駐龍、台灣精銳、艾美特-KY,-0.61
+1527,鑽全,BASSO,電機機械,電機機械與電器電纜,-2.453,-2.093,0.407,-1.131,0.045,0,Poor,-0.165,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Director training compliance,合機、大山、元翎,-0.57
+4583,台灣精銳,APEXDYNA,電機機械,電機機械與電器電纜,-1.984,-1.94,-0.528,-1.26,0.03,0,Poor,-0.163,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Water intensity,元翎、富田、艾美特-KY,-0.684
+1605,華新,WALSIN,電器電纜,電機機械與電器電纜,-2.909,-1.365,-0.546,-1.382,0.015,0,Poor,-0.145,Waste intensity; GHG intensity (scope 1+2 / revenue); Occupational injury rate,亞德客-KY、中砂、瑞智,-0.283
+6414,樺漢,ENNOCONN,電腦及週邊設備,電腦及週邊設備,0.761,0.86,0.914,1.291,1.0,2,Excellent,0.52,Female managers (%); Renewable energy share,攸泰科技、輔信、和碩,0.487
+3515,華擎,ASROCK,電腦及週邊設備,電腦及週邊設備,0.72,1.196,0.277,1.162,0.984,2,Excellent,0.428,Female directors (%),承啟、永擎、華碩,0.579
+4916,事欣科,PARPRO,電腦及週邊設備,電腦及週邊設備,0.747,0.323,0.843,1.061,0.969,2,Excellent,0.787,GHG inventory verified; Median non-manager salary; Waste intensity,偉聯、歐格、飛捷,0.268
+3046,建碁,AOPEN,電腦及週邊設備,電腦及週邊設備,0.783,0.868,-0.078,0.929,0.953,2,Excellent,0.601,GHG inventory verified; Female directors (%); Audit committee attendance,承啟、永擎、緯穎,0.27
+2405,輔信,Shuttle,電腦及週邊設備,電腦及週邊設備,0.374,0.27,0.839,0.907,0.938,2,Excellent,0.666,GHG intensity (scope 1+2 / revenue); Average employee benefits; Female managers (%),攸泰科技、精元、事欣科,0.225
+2425,承啟,CHAINTECH,電腦及週邊設備,電腦及週邊設備,0.77,0.765,-0.2,0.841,0.922,2,Excellent,0.387,Female directors (%); Board attendance; Waste intensity,建碁、永擎、華擎,0.21
+6933,AMAX-KY,AMAX,電腦及週邊設備,電腦及週邊設備,0.447,0.68,0.117,0.813,0.906,2,Excellent,0.437,Female directors (%); GHG inventory verified; Renewable energy share,歐格、喬鼎、偉聯,0.055
+2387,精元,SUNREX,電腦及週邊設備,電腦及週邊設備,0.681,0.041,0.512,0.809,0.891,2,Excellent,0.562,Director training compliance; Median non-manager salary; Average employee benefits,輔信、振樺電、事欣科,-0.002
+2417,圓剛,AVERMEDIA,電腦及週邊設備,電腦及週邊設備,0.474,0.472,0.129,0.751,0.875,2,Excellent,0.162,Female directors (%); Female managers (%); Waste intensity,虹光、樺漢、建碁,0.084
+6928,攸泰科技,UTI,電腦及週邊設備,電腦及週邊設備,0.108,0.169,0.682,0.717,0.859,2,Excellent,0.353,Female managers (%); Average employee benefits; Water intensity,輔信、樺漢、精元,-0.019
+9912,偉聯,AIC,電腦及週邊設備,電腦及週邊設備,0.104,0.273,0.558,0.707,0.844,2,Excellent,0.67,GHG inventory verified; Average employee benefits; GHG intensity (scope 1+2 / revenue),事欣科、歐格、飛捷,0.075
+3002,歐格,AHOKU,電腦及週邊設備,電腦及週邊設備,0.376,0.417,0.149,0.704,0.828,2,Excellent,0.499,GHG inventory verified; Independent directors (%); Female directors (%),AMAX-KY、偉聯、事欣科,0.15
+7711,永擎,ASROCK RACK,電腦及週邊設備,電腦及週邊設備,0.705,0.689,-0.44,0.7,0.812,2,Excellent,0.471,Audit committee attendance; Female directors (%); Director training compliance,仁寶、和碩、建碁,0.056
+8114,振樺電,POSIFLEX,電腦及週邊設備,電腦及週邊設備,0.112,0.124,0.605,0.673,0.797,2,Excellent,0.472,Median non-manager salary; Independent directors (%); Water intensity,事欣科、精元、輔信,0.213
+3712,永崴投控,FITH,電腦及週邊設備,電腦及週邊設備,0.572,-0.053,0.17,0.607,0.781,2,Excellent,0.159,Average employee benefits; Independent directors (%); Renewable energy share,友通、研華、振樺電,0.162
+3057,喬鼎,Promise,電腦及週邊設備,電腦及週邊設備,-0.379,0.526,0.28,0.525,0.766,2,Excellent,0.383,GHG intensity (scope 1+2 / revenue); GHG inventory verified; Female directors (%),AMAX-KY、偉聯、歐格,0.036
+6669,緯穎,Wiwynn,電腦及週邊設備,電腦及週邊設備,0.497,-0.95,0.901,0.523,0.75,2,Excellent,0.425,Occupational injury rate; Waste intensity; Investor conferences,宏碁、華碩、倚天酷碁-創,0.644
+2395,研華,Advantech,電腦及週邊設備,電腦及週邊設備,-0.069,0.563,-0.072,0.517,0.734,2,Excellent,-0.04,Female directors (%); Independent directors (%); Female managers (%),和碩、仁寶、廣達,0.23
+6206,飛捷,FLYTECH,電腦及週邊設備,電腦及週邊設備,0.145,0.117,0.035,0.468,0.719,2,Excellent,0.606,Average employee benefits; GHG inventory verified; Audit committee attendance,昆盈、偉聯、事欣科,-0.131
+2353,宏碁,ACER,電腦及週邊設備,電腦及週邊設備,0.652,-1.464,1.036,0.439,0.703,2,Excellent,0.266,Occupational injury rate,緯創、倚天酷碁-創、緯穎,0.625
+2432,倚天酷碁-創,AGT,電腦及週邊設備,電腦及週邊設備,0.724,-1.509,0.945,0.413,0.688,2,Excellent,0.257,Occupational injury rate; Renewable energy share,技嘉、宏碁、緯穎,0.407
+4938,和碩,Pegatron,電腦及週邊設備,電腦及週邊設備,-0.16,0.68,-0.379,0.412,0.672,2,Excellent,0.193,Audit committee attendance; Female managers (%); Independent directors (%),仁寶、研華、英業達,0.149
+3022,威強電,IEI,電腦及週邊設備,電腦及週邊設備,-0.658,0.32,0.28,0.35,0.656,2,Excellent,-0.086,GHG intensity (scope 1+2 / revenue); Water intensity; Female directors (%),動力-KY、邁科、普安,-0.016
+2380,虹光,AVISION,電腦及週邊設備,電腦及週邊設備,-0.102,0.198,-0.139,0.344,0.641,2,Excellent,0.239,Female managers (%); Board attendance; GHG inventory verified,誠研、映泰、銘異,-0.281
+2399,映泰,BIOSTAR,電腦及週邊設備,電腦及週邊設備,0.4,0.169,-0.601,0.338,0.625,2,Excellent,0.349,Audit committee attendance; Female managers (%); GHG inventory verified,虹光、飛捷、上福,-0.433
+2365,昆盈,KYE,電腦及週邊設備,電腦及週邊設備,-0.525,0.307,-0.004,0.286,0.609,2,Excellent,0.429,Water intensity; GHG inventory verified; Renewable energy share,飛捷、偉聯、歐格,-0.152
+3231,緯創,Wistron,電腦及週邊設備,電腦及週邊設備,0.253,-1.572,0.891,0.203,0.594,2,Excellent,0.09,Occupational injury rate; Waste intensity,宏碁、廣達、華碩,0.522
+2495,普安,Infortrend,電腦及週邊設備,電腦及週邊設備,-1.198,0.246,0.453,0.196,0.578,2,Excellent,0.051,GHG intensity (scope 1+2 / revenue); Water intensity; GHG inventory verified,誠研、邁科、銘異,-0.349
+6591,動力-KY,SUN MAX,電腦及週邊設備,電腦及週邊設備,-2.134,0.652,0.886,0.177,0.562,2,Excellent,-0.005,Water intensity; GHG intensity (scope 1+2 / revenue); Female managers (%),邁科、藍天、威強電,-0.065
+2376,技嘉,GIGABYTE,電腦及週邊設備,電腦及週邊設備,0.512,-1.556,0.526,0.164,0.547,2,Excellent,0.19,Occupational injury rate; Renewable energy share,倚天酷碁-創、宏碁、緯穎,0.222
+3017,奇鋐,AVC,電腦及週邊設備,電腦及週邊設備,-1.892,1.073,0.158,0.145,0.531,2,Excellent,-0.203,Waste intensity; Water intensity; Female directors (%),神基、勤誠、廣達,0.071
+2357,華碩,ASUSTEK,電腦及週邊設備,電腦及週邊設備,0.7,-1.018,-0.279,0.127,0.516,2,Excellent,0.11,Occupational injury rate; Female directors (%); Independent directors (%),宏碁、神達、緯創,0.288
+3060,銘異,MIN AIK,電腦及週邊設備,電腦及週邊設備,-0.937,-0.069,0.255,0.097,0.5,2,Excellent,0.167,Director training compliance; Water intensity; Average employee benefits,普安、全友、虹光,-0.506
+3706,神達,MHC,電腦及週邊設備,電腦及週邊設備,-0.271,-0.107,-0.343,0.096,0.484,2,Excellent,-0.092,Female directors (%); Occupational injury rate; Independent directors (%),華碩、神基、廣達,0.102
+2364,倫飛,Twinhead,電腦及週邊設備,電腦及週邊設備,-0.495,0.152,-0.702,-0.024,0.469,1,Moderate,0.085,Board attendance; Water intensity; Median non-manager salary,昆盈、飛捷、振樺電,-0.174
+6128,上福,GPI,電腦及週邊設備,電腦及週邊設備,-0.561,-0.449,-0.206,-0.083,0.453,1,Moderate,0.245,Waste intensity; Average employee benefits; Median non-manager salary,飛捷、偉聯、昆盈,-0.633
+2382,廣達,QCI,電腦及週邊設備,電腦及週邊設備,-0.329,-1.16,0.16,-0.126,0.438,1,Moderate,-0.039,Occupational injury rate; Waste intensity; Director training compliance,緯創、宏碁、華碩,0.193
+6831,邁科,MICROLOOPS,電腦及週邊設備,電腦及週邊設備,-2.083,0.419,0.218,-0.142,0.422,1,Moderate,-0.296,GHG intensity (scope 1+2 / revenue); Water intensity; Female managers (%),動力-KY、普安、誠研,-0.36
+2362,藍天,CLEVO CO.,電腦及週邊設備,電腦及週邊設備,-1.62,-0.605,0.664,-0.189,0.406,1,Moderate,-0.073,GHG intensity (scope 1+2 / revenue); Occupational injury rate; Waste intensity,精英、迎廣、佳世達,-0.003
+2324,仁寶,Compal,電腦及週邊設備,電腦及週邊設備,-0.012,-0.045,-1.528,-0.235,0.391,1,Moderate,-0.015,Board attendance; Audit committee attendance; Female directors (%),英業達、和碩、華碩,0.012
+2397,友通,DFI Inc.,電腦及週邊設備,電腦及週邊設備,0.138,-1.652,-0.159,-0.262,0.375,1,Moderate,-0.267,Occupational injury rate; Average employee benefits; Female directors (%),融程電、虹堡、凌華,-0.129
+5258,虹堡,Castles,電腦及週邊設備,電腦及週邊設備,0.425,-2.353,0.121,-0.314,0.359,1,Moderate,-0.28,Occupational injury rate; Average employee benefits; Median non-manager salary,融程電、精聯、研揚,-0.215
+6579,研揚,AAEON,電腦及週邊設備,電腦及週邊設備,0.438,-1.86,-0.447,-0.341,0.344,1,Moderate,-0.382,Occupational injury rate; Female directors (%); Female managers (%),融程電、尼得科超眾、精聯,-0.293
+6277,宏正,ATEN,電腦及週邊設備,電腦及週邊設備,-0.101,-1.788,-0.07,-0.364,0.328,1,Moderate,-0.32,Occupational injury rate; Independent comp. committee (%); Female directors (%),研揚、融程電、虹堡,-0.416
+3416,融程電,Winmate,電腦及週邊設備,電腦及週邊設備,0.287,-2.103,-0.427,-0.477,0.312,1,Moderate,-0.432,Occupational injury rate; Female directors (%); Average employee benefits,研揚、虹堡、尼得科超眾,-0.342
+2377,微星,MSI,電腦及週邊設備,電腦及週邊設備,0.053,-1.615,-0.713,-0.486,0.297,1,Moderate,-0.216,Occupational injury rate; Female managers (%); Female directors (%),晟銘電、研揚、華碩,-0.196
+2465,麗臺,LEADTEK,電腦及週邊設備,電腦及週邊設備,0.621,-2.097,-0.956,-0.555,0.281,1,Moderate,0.047,Occupational injury rate; Female directors (%); Director training compliance,尼得科超眾、精聯、虹堡,-0.78
+6166,凌華,ADLINK,電腦及週邊設備,電腦及週邊設備,-0.445,-1.796,-0.261,-0.561,0.266,1,Moderate,-0.025,Occupational injury rate; Audit committee attendance; GHG intensity (scope 1+2 / revenue),達方、友通、精英,-0.242
+8210,勤誠,CHENBRO,電腦及週邊設備,電腦及週邊設備,-1.75,-1.641,0.642,-0.627,0.25,1,Moderate,-0.051,Occupational injury rate; Waste intensity; Water intensity,佳世達、精英、藍天,-0.11
+2305,全友,MII,電腦及週邊設備,電腦及週邊設備,-2.591,0.204,-0.417,-0.641,0.234,1,Moderate,-0.146,Water intensity; GHG intensity (scope 1+2 / revenue); Director training compliance,銘異、邁科、科嘉-KY,-0.853
+6230,尼得科超眾,NCCI,電腦及週邊設備,電腦及週邊設備,0.327,-2.074,-1.053,-0.687,0.219,1,Moderate,-0.364,Occupational injury rate; Female directors (%); Independent directors (%),精聯、融程電、研揚,-0.494
+2356,英業達,INVENTEC,電腦及週邊設備,電腦及週邊設備,-0.338,-1.752,-0.765,-0.695,0.203,1,Moderate,-0.259,Occupational injury rate; Female directors (%); Audit committee attendance,仁寶、華碩、廣達,-0.146
+3652,精聯,Unitech elec.,電腦及週邊設備,電腦及週邊設備,-0.169,-2.104,-0.752,-0.761,0.188,1,Moderate,-0.494,Occupational injury rate; Female directors (%); Board attendance,尼得科超眾、融程電、虹堡,-0.465
+3005,神基,Getac,電腦及週邊設備,電腦及週邊設備,-2.952,-0.311,0.004,-0.801,0.172,1,Moderate,-0.394,Waste intensity; Water intensity; GHG intensity (scope 1+2 / revenue),華孚、精英、佳世達,-0.275
+2352,佳世達,Qisda,電腦及週邊設備,電腦及週邊設備,-2.478,-1.585,0.735,-0.829,0.156,1,Moderate,-0.201,Occupational injury rate; Waste intensity; Water intensity,精英、勤誠、華孚,-0.142
+2301,光寶科,LTC,電腦及週邊設備,電腦及週邊設備,-1.515,-1.194,-0.613,-0.85,0.141,1,Moderate,-0.356,Water intensity; Occupational injury rate; Board attendance,佳世達、晟銘電、精英,-0.253
+8163,達方,DARFON,電腦及週邊設備,電腦及週邊設備,-1.546,-1.88,-0.025,-0.893,0.125,1,Moderate,-0.344,Occupational injury rate; Waste intensity; GHG intensity (scope 1+2 / revenue),佳世達、精英、藍天,-0.35
+6117,迎廣,IN WIN,電腦及週邊設備,電腦及週邊設備,-2.527,-2.343,0.89,-1.069,0.109,0,Poor,-0.052,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Water intensity,藍天、精英、佳世達,-0.562
+3494,誠研,HiTi,電腦及週邊設備,電腦及週邊設備,-2.93,-0.257,-0.947,-1.13,0.094,0,Poor,-0.301,Water intensity; GHG intensity (scope 1+2 / revenue); Female managers (%),普安、科嘉-KY、邁科,-1.039
+2331,精英,ECS,電腦及週邊設備,電腦及週邊設備,-2.942,-1.562,0.087,-1.229,0.078,0,Poor,-0.208,Occupational injury rate; Waste intensity; Water intensity,佳世達、藍天、華孚,-0.436
+3013,晟銘電,UNEEC,電腦及週邊設備,電腦及週邊設備,-2.154,-2.135,-0.584,-1.413,0.062,0,Poor,-0.248,Occupational injury rate; Waste intensity; Water intensity,佳世達、光寶科、微星,-0.597
+6235,華孚,Waffer,電腦及週邊設備,電腦及週邊設備,-2.955,-1.854,-0.282,-1.48,0.047,0,Poor,-0.587,Occupational injury rate; Waste intensity; Water intensity,科嘉-KY、大眾控、精英,-0.763
+3701,大眾控,FICG,電腦及週邊設備,電腦及週邊設備,-2.958,-1.993,-0.543,-1.631,0.031,0,Poor,-0.406,Occupational injury rate; Waste intensity; Water intensity,科嘉-KY、華孚、佳世達,-1.113
+5215,科嘉-KY,KO JA,電腦及週邊設備,電腦及週邊設備,-2.962,-2.844,-0.929,-2.092,0.016,0,Poor,-0.478,Waste intensity; Water intensity; Occupational injury rate,大眾控、華孚、誠研,-1.439
+7780,大研生醫,DAIKEN,食品工業,食品工業,0.935,1.316,-0.357,1.044,1.0,2,Excellent,0.753,Audit committee attendance; Energy management certified; Board attendance,聯華、大統益、統一,0.535
+1216,統一,UNI-PRESIDENT,食品工業,食品工業,0.366,1.049,0.312,0.995,0.958,2,Excellent,0.805,Female directors (%); Female managers (%); GHG intensity (scope 1+2 / revenue),臺鹽、聯華、大研生醫,0.561
+1229,聯華,LHIHC,食品工業,食品工業,0.744,0.857,-0.035,0.927,0.917,2,Excellent,0.805,Female directors (%); Audit committee attendance,統一、臺鹽、大研生醫,0.546
+1235,興泰,ST,食品工業,食品工業,0.416,-0.465,1.568,0.924,0.875,2,Excellent,-0.125,Median non-manager salary; Average employee benefits; Investor conferences,宏亞、天仁、佳格,0.211
+1232,大統益,TTET,食品工業,食品工業,0.332,1.394,-0.218,0.912,0.833,2,Excellent,0.627,Independent directors (%); Energy management certified; Female managers (%),臺鹽、大研生醫、聯華,0.267
+1737,臺鹽,Taiyen,食品工業,食品工業,-0.058,0.936,0.142,0.739,0.792,2,Excellent,0.623,GHG intensity (scope 1+2 / revenue); Investor conferences; Female directors (%),統一、聯華、大統益,0.287
+1218,泰山,TAISUN,食品工業,食品工業,0.225,0.421,0.233,0.683,0.75,2,Excellent,0.102,Median non-manager salary; Water intensity; Average employee benefits,宏亞、黑松、大研生醫,0.308
+1236,宏亞,Hunya,食品工業,食品工業,-0.212,-0.736,1.568,0.602,0.708,2,Excellent,-0.107,Median non-manager salary; Average employee benefits; Investor conferences,興泰、佳格、鮮活果汁-KY,0.443
+1227,佳格,SFC,食品工業,食品工業,0.412,-0.129,0.378,0.6,0.667,2,Excellent,0.389,Audit committee attendance; Investor conferences; Occupational injury rate,皇家可口、宏亞、大研生醫,0.26
+1231,聯華食,Lian Hwa Foods,食品工業,食品工業,0.028,-0.077,0.396,0.49,0.625,1,Moderate,0.258,Waste intensity; Average employee benefits; Investor conferences,味全、天仁、福壽,0.195
+1215,卜蜂,CPE,食品工業,食品工業,-0.743,0.337,0.596,0.445,0.583,1,Moderate,0.158,Waste intensity; Female directors (%); Median non-manager salary,鮮活果汁-KY、統一、皇家可口,0.153
+1219,福壽,FWUSOW,食品工業,食品工業,0.111,-0.107,-0.013,0.355,0.542,1,Moderate,0.121,Female managers (%); Average employee benefits; Median non-manager salary,味全、聯華食、福懋油,0.01
+7791,皇家可口,LUCKY ROYAL,食品工業,食品工業,-0.8,0.489,0.163,0.318,0.5,1,Moderate,0.015,Water intensity; Board attendance; Investor conferences,佳格、鮮活果汁-KY、宏亞,-0.028
+1225,福懋油,FOPCO,食品工業,食品工業,0.661,-0.049,-0.83,0.265,0.458,1,Moderate,-0.045,Board attendance; Female managers (%); Median non-manager salary,大飲、福壽、味王,-0.223
+1201,味全,WEI CHUAN,食品工業,食品工業,-0.773,0.422,-0.041,0.226,0.417,1,Moderate,0.326,Water intensity; Waste intensity; Investor conferences,福壽、南僑、聯華食,-0.082
+1220,台榮,TAIROUN,食品工業,食品工業,0.122,-0.879,0.108,0.119,0.375,1,Moderate,0.284,Occupational injury rate; GHG intensity (scope 1+2 / revenue); Average employee benefits,鮮活果汁-KY、統一、臺鹽,0.104
+1233,天仁,Ten Ren,食品工業,食品工業,-0.602,-0.713,0.512,0.075,0.333,1,Moderate,-0.192,Average employee benefits; Waste intensity; Median non-manager salary,聯華食、鮮活果汁-KY、宏亞,-0.025
+1234,黑松,HEY SONG,食品工業,食品工業,-0.271,-0.771,-0.485,-0.203,0.292,0,Poor,0.052,Independent directors (%); Occupational injury rate; Water intensity,大成、味王、大統益,0.042
+1702,南僑,NAMCHOW,食品工業,食品工業,-1.394,0.849,-1.109,-0.237,0.25,0,Poor,0.309,Board attendance; Independent comp. committee (%); Waste intensity,味全、聯華、佳格,-0.221
+1210,大成,GREATWALL,食品工業,食品工業,-0.788,-0.344,-0.701,-0.31,0.208,0,Poor,0.183,Independent directors (%); Waste intensity; Female managers (%),黑松、大統益、大飲,-0.26
+1217,愛之味,AGV,食品工業,食品工業,-0.242,-1.93,-0.598,-0.665,0.167,0,Poor,-0.178,Occupational injury rate; Board attendance; Average employee benefits,味王、鮮活果汁-KY、大成,-0.369
+1256,鮮活果汁-KY,Sunjuice,食品工業,食品工業,-1.477,-2.355,0.827,-0.725,0.125,0,Poor,-0.045,Occupational injury rate; Waste intensity; GHG intensity (scope 1+2 / revenue),卜蜂、天仁、愛之味,-0.115
+1213,大飲,OCEANIC Bev.,食品工業,食品工業,-1.451,-0.273,-1.648,-0.875,0.083,0,Poor,-0.477,Water intensity; Median non-manager salary; Independent directors (%),福懋油、味王、大成,-1.038
+1203,味王,VE WONG,食品工業,食品工業,0.133,-2.064,-1.731,-1.007,0.042,0,Poor,-0.201,Occupational injury rate; Independent directors (%); Director training compliance,大飲、愛之味、黑松,-0.996
